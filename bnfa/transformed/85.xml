@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:fiaf="https://fiafcore.org/ontology/">
+   <fiaf:WorkVariant rdf:about="http://example.org/EFG/BNFA_avCreation_BNF010003334">
+      <rdfs:label xml:lang="bg">Кинопреглед 36</rdfs:label>
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>BNF010003334</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">Кинопреглед 36</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasTitle>
+         <fiaf:TranslatedTitle>
+            <fiaf:hasTitleValue xml:lang="en">Newsreel 36</fiaf:hasTitleValue>
+         </fiaf:TranslatedTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasCountry rdf:resource="http://example.org/EFG/country/BG"/>
+      <fiaf:hasForm rdf:resource="http://example.org/EFG/form/Newsreel"/>
+      <fiaf:hasEvent>
+         <fiaf:ProductionEvent>
+            <fiaf:hasEventDate>1963</fiaf:hasEventDate>
+            <fiaf:hasActivity>
+               <fiaf:Director>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1"/>
+               </fiaf:Director>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_5ec33988123f84c38a7bcac46944c658"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_1ca139082be77cf69687809311d5368a"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_1550fceb517e4644c8bb87d97c6d8f33"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_7e705d5799423f997402f26d197c15cd"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:ProductionCompany>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393"/>
+               </fiaf:ProductionCompany>
+            </fiaf:hasActivity>
+         </fiaf:ProductionEvent>
+      </fiaf:hasEvent>
+      <fiaf:hasManifestation rdf:resource="http://example.org/EFG/BNFA_avManifestation_BNF010003334"/>
+   </fiaf:WorkVariant>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1">
+      <rdfs:label>Dosev, Ivan</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_5ec33988123f84c38a7bcac46944c658">
+      <rdfs:label>Durov, Georgi</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b">
+      <rdfs:label>Efremov, Boris</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_1ca139082be77cf69687809311d5368a">
+      <rdfs:label>Zlatanov, Nikola</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7">
+      <rdfs:label>Kisiov, Konstantin</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_1550fceb517e4644c8bb87d97c6d8f33">
+      <rdfs:label>Panchev, Dimitar</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_7e705d5799423f997402f26d197c15cd">
+      <rdfs:label>Rachev, Hristo</rdfs:label>
+   </fiaf:Person>
+   <fiaf:CorporateBody rdf:about="http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393">
+      <rdfs:label>Studia za Hronikalni i Dokumentalni Filmi</rdfs:label>
+   </fiaf:CorporateBody>
+   <fiaf:Manifestation rdf:about="http://example.org/EFG/BNFA_avManifestation_BNF010003334">
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>BNF010003334</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">Кинопреглед 36</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasSoundCharacteristic rdf:resource="https://fiafcore.org/ontology/Sound"/>
+      <fiaf:hasColourCharacteristic rdf:resource="https://fiafcore.org/ontology/BlackAndWhite"/>
+      <fiaf:hasFormat rdf:resource="https://fiafcore.org/ontology/35mmFilm"/>
+      <fiaf:hasExtent>
+         <fiaf:Minutes>
+            <fiaf:hasExtentValue>00:10:02</fiaf:hasExtentValue>
+         </fiaf:Minutes>
+      </fiaf:hasExtent>
+      <fiaf:hasItem rdf:resource="http://example.org/EFG/BNFA_item_D7XX9lWVAE-GZ-ufrfgQaQ"/>
+   </fiaf:Manifestation>
+   <fiaf:Item rdf:about="http://example.org/EFG/BNFA_item_D7XX9lWVAE-GZ-ufrfgQaQ"/>
+</rdf:RDF>

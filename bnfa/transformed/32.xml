@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:fiaf="https://fiafcore.org/ontology/">
+   <fiaf:WorkVariant rdf:about="http://example.org/EFG/BNFA_avCreation_MFN2716">
+      <rdfs:label xml:lang="bg">БАЛКАНСКАТА ВОЙНА 1912-1913</rdfs:label>
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>MFN2716</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">БАЛКАНСКАТА ВОЙНА 1912-1913</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasTitle>
+         <fiaf:TranslatedTitle>
+            <fiaf:hasTitleValue xml:lang="en">THE BALKAN WAR 1912-1913</fiaf:hasTitleValue>
+         </fiaf:TranslatedTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasCountry rdf:resource="http://example.org/EFG/country/BG"/>
+      <fiaf:hasForm rdf:resource="http://example.org/EFG/form/Documentaryfilm"/>
+      <fiaf:hasEvent>
+         <fiaf:ProductionEvent>
+            <fiaf:hasEventDate>1913</fiaf:hasEventDate>
+            <fiaf:hasActivity>
+               <fiaf:Director>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_b0f2ab0a15df6a3931f407a156250b86"/>
+               </fiaf:Director>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_b0f2ab0a15df6a3931f407a156250b86"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+         </fiaf:ProductionEvent>
+      </fiaf:hasEvent>
+      <fiaf:hasManifestation rdf:resource="http://example.org/EFG/BNFA_avManifestation_MFN2716"/>
+   </fiaf:WorkVariant>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_b0f2ab0a15df6a3931f407a156250b86">
+      <rdfs:label>Zhekov, Aleksandar</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_b0f2ab0a15df6a3931f407a156250b86">
+      <rdfs:label>Zhekov, Aleksandar</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Manifestation rdf:about="http://example.org/EFG/BNFA_avManifestation_MFN2716">
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>MFN2716</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">БАЛКАНСКАТА ВОЙНА 1912-1913</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasSoundCharacteristic rdf:resource="https://fiafcore.org/ontology/Silent"/>
+      <fiaf:hasColourCharacteristic rdf:resource="https://fiafcore.org/ontology/BlackAndWhite"/>
+      <fiaf:hasFormat rdf:resource="https://fiafcore.org/ontology/35mmFilm"/>
+      <fiaf:hasExtent>
+         <fiaf:Minutes>
+            <fiaf:hasExtentValue>00:38:55</fiaf:hasExtentValue>
+         </fiaf:Minutes>
+      </fiaf:hasExtent>
+      <fiaf:hasLanguageUsage>
+         <fiaf:Intertitles>
+            <fiaf:hasLanguage rdf:resource="http://example.org/EFG/language/bg"/>
+         </fiaf:Intertitles>
+      </fiaf:hasLanguageUsage>
+      <fiaf:hasItem rdf:resource="http://example.org/EFG/BNFA_item_1HiJHdtXExG4bToVFR5zVg"/>
+   </fiaf:Manifestation>
+   <fiaf:Item rdf:about="http://example.org/EFG/BNFA_item_1HiJHdtXExG4bToVFR5zVg"/>
+</rdf:RDF>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:fiaf="https://fiafcore.org/ontology/">
+   <fiaf:WorkVariant rdf:about="http://example.org/EFG/BNFA_avCreation_BNF010007252">
+      <rdfs:label xml:lang="bg">Техни величества югославянските владетели в София</rdfs:label>
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>BNF010007252</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">Техни величества югославянските владетели в София</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasTitle>
+         <fiaf:TranslatedTitle>
+            <fiaf:hasTitleValue xml:lang="en">The rulers of Yugoslavia visit Sofia</fiaf:hasTitleValue>
+         </fiaf:TranslatedTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasCountry rdf:resource="http://example.org/EFG/country/BG"/>
+      <fiaf:hasForm rdf:resource="http://example.org/EFG/form/Newsreel"/>
+      <fiaf:hasEvent>
+         <fiaf:ProductionEvent>
+            <fiaf:hasEventDate>1934</fiaf:hasEventDate>
+            <fiaf:hasActivity>
+               <fiaf:Director>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_5fbf0313a41c95d42d611873171dbf03"/>
+               </fiaf:Director>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_f9bfc96dae42a63c6974e770c9b927d8"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+         </fiaf:ProductionEvent>
+      </fiaf:hasEvent>
+      <fiaf:hasManifestation rdf:resource="http://example.org/EFG/BNFA_avManifestation_BNF010007252"/>
+   </fiaf:WorkVariant>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_5fbf0313a41c95d42d611873171dbf03">
+      <rdfs:label>Petrov, Kiril</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_f9bfc96dae42a63c6974e770c9b927d8">
+      <rdfs:label>Simeonov, Simeon</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Manifestation rdf:about="http://example.org/EFG/BNFA_avManifestation_BNF010007252">
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>BNF010007252</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">Техни величества югославянските владетели в София</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasSoundCharacteristic rdf:resource="https://fiafcore.org/ontology/Silent"/>
+      <fiaf:hasColourCharacteristic rdf:resource="https://fiafcore.org/ontology/BlackAndWhite"/>
+      <fiaf:hasFormat rdf:resource="https://fiafcore.org/ontology/35mmFilm"/>
+      <fiaf:hasExtent>
+         <fiaf:Minutes>
+            <fiaf:hasExtentValue>00:02:32</fiaf:hasExtentValue>
+         </fiaf:Minutes>
+      </fiaf:hasExtent>
+      <fiaf:hasItem rdf:resource="http://example.org/EFG/BNFA_item_q3+PrRqITfOQZlxPE2EnPA"/>
+   </fiaf:Manifestation>
+   <fiaf:Item rdf:about="http://example.org/EFG/BNFA_item_q3+PrRqITfOQZlxPE2EnPA"/>
+</rdf:RDF>
