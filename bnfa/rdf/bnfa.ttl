@@ -12,10 +12,10 @@
     ns1:hasIdentifier [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2747" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2747> ;
-    ns1:hasTitle [ a ns1:PreferredTitle ;
-            ns1:hasTitleValue "О, ДОБРУДЖАНСКИ КРАЙ"@bg ],
-        [ a ns1:TranslatedTitle ;
-            ns1:hasTitleValue "THE REGION OF DOBRUDZHA"@en ] .
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "THE REGION OF DOBRUDZHA"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "О, ДОБРУДЖАНСКИ КРАЙ"@bg ] .
 
 <http://example.org/EFG/BNFA_avCreation_MFN2753> a ns1:WorkVariant ;
     rdfs:label "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ;
@@ -37,19 +37,19 @@
     rdfs:label "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ;
     ns1:hasCountry <http://example.org/EFG/country/BG> ;
     ns1:hasEvent [ a ns1:ProductionEvent ;
-            ns1:hasActivity [ a ns1:Director ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
                     ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ],
-                [ a ns1:Cinematographer ;
+                [ a ns1:Director ;
                     ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ] ;
             ns1:hasEventDate "1940" ] ;
     ns1:hasForm <http://example.org/EFG/form/Advertisingfilm> ;
     ns1:hasIdentifier [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2776" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2776> ;
-    ns1:hasTitle [ a ns1:TranslatedTitle ;
-            ns1:hasTitleValue "DRINK ONLY SHUMENSKO PIVO"@en ],
-        [ a ns1:PreferredTitle ;
-            ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ] .
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "DRINK ONLY SHUMENSKO PIVO"@en ] .
 
 <http://example.org/EFG/BNFA_avManifestation_MFN2747> a ns1:Manifestation ;
     ns1:hasColourCharacteristic ns1:BlackAndWhite ;
