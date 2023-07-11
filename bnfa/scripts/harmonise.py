@@ -13,5 +13,6 @@ countries = pydash.uniq([o for s,p,o in graph.triples((None, country_property, N
 print(countries)
 
 output_path = pathlib.Path.cwd() / 'bnfa' / 'output' / 'bnfa.ttl'
+output_path.parents[0].mkdir(exist_ok=True)
 graph.serialize(destination=str(output_path), format="turtle")
 
