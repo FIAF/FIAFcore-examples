@@ -11,8 +11,8 @@ if [ ! -f saxon/saxon-he-12.3.jar ]; then
 fi
 
 # run notebooks
-jupyter nbconvert --execute --to notebook --inplace ./bnfa/notebooks/transform.ipynb
+#jupyter nbconvert --execute --to notebook --inplace ./bnfa/notebooks/transform.ipynb
 
 # run script
-python3 ./bnfa/notebooks/transform.py
+#python3 ./bnfa/notebooks/transform.py
 
