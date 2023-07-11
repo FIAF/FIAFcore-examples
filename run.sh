@@ -9,3 +9,6 @@ if [ ! -f saxon/saxon-he-12.3.jar ]; then
     unzip SaxonHE12-3J.zip
     cd ..
 fi
+
+# run notebooks
+jupyter nbconvert --execute --to notebook --inplace ./bnfa/notebooks/transform.ipynb
