@@ -4,6 +4,9 @@ import pathlib
 import subprocess
 
 saxon_path = pathlib.Path.cwd().parents[1] / 'saxon' / 'saxon-he-12.3.jar'
+print(saxon_path, saxon_path.exists())
+saxon_path = pathlib.Path.cwd().parents[0] / 'saxon' / 'saxon-he-12.3.jar'
+print(saxon_path, saxon_path.exists())
 if not saxon_path.exists():
     raise Exception('saxon does not exist.')
 
