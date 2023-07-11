@@ -17,14 +17,4 @@ jobs:
       run: ./run.sh
     - name: directory contents
       run: ls -al
-    - name: notebook
-      run: jupyter nbconvert --execute --to notebook --inplace ./bnfa/notebooks/transform.ipynb
 
-      
-    #- name: push repo
-    #  run: |
-    #    git config user.name 'github-actions[bot]'
-    #    git config user.email 'github-actions[bot]@users.noreply.github.com'
-    #    git add *.ipynb
-    #    git commit -a -m "automated run"
-    #    git push
