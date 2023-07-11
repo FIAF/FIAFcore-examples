@@ -13,6 +13,6 @@ fi
 # run notebooks
 #jupyter nbconvert --execute --to notebook --inplace ./bnfa/notebooks/transform.ipynb
 
-# run script
-#python3 ./bnfa/notebooks/transform.py
+# run scripts
+python3 ./bnfa/notebooks/transform.py
 
