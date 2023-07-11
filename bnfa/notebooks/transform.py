@@ -3,6 +3,19 @@
 import pathlib
 import subprocess
 
+loc1 = pathlib.Path.cwd()
+print('loc1')
+print(loc1)
+print([x for x in loc1.iterdir()])
+loc2 = pathlib.Path.cwd().parents[0]
+print('loc2')
+print(loc2)
+print([x for x in loc2.iterdir()])
+loc3 = pathlib.Path.cwd().parents[1]
+print('loc3')
+print(loc3)
+print([x for x in loc3.iterdir()])
+
 saxon_path = pathlib.Path.cwd().parents[1] / 'saxon' / 'saxon-he-12.3.jar'
 print(saxon_path, saxon_path.exists())
 saxon_path = pathlib.Path.cwd().parents[0] / 'saxon' / 'saxon-he-12.3.jar'
