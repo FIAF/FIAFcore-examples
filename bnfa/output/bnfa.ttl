@@ -8,7 +8,7 @@
             ns1:hasActivity [ a ns1:Director ;
                     ns1:hasAgent <http://example.org/EFG/BNFA_person_8d4920f9acc3673afed6c2fa34495a90> ] ;
             ns1:hasEventDate "1940" ] ;
-    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasForm ns1:Form ;
     ns1:hasIdentifier [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2747" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2747> ;
@@ -24,14 +24,14 @@
             ns1:hasActivity [ a ns1:Cinematographer ;
                     ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ] ;
             ns1:hasEventDate "1940" ] ;
-    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasForm ns1:Form ;
     ns1:hasIdentifier [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2753" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2753> ;
-    ns1:hasTitle [ a ns1:TranslatedTitle ;
-            ns1:hasTitleValue "QUEEN OF THE BEACH CONTEST AT THE LUJENE BEACH"@en ],
-        [ a ns1:PreferredTitle ;
-            ns1:hasTitleValue "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ] .
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "QUEEN OF THE BEACH CONTEST AT THE LUJENE BEACH"@en ] .
 
 <http://example.org/EFG/BNFA_avCreation_MFN2776> a ns1:WorkVariant ;
     rdfs:label "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ;
@@ -42,14 +42,14 @@
                 [ a ns1:Cinematographer ;
                     ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ] ;
             ns1:hasEventDate "1940" ] ;
-    ns1:hasForm <http://example.org/EFG/form/Advertisingfilm> ;
+    ns1:hasForm ns1:Form ;
     ns1:hasIdentifier [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2776" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2776> ;
-    ns1:hasTitle [ a ns1:PreferredTitle ;
-            ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ],
-        [ a ns1:TranslatedTitle ;
-            ns1:hasTitleValue "DRINK ONLY SHUMENSKO PIVO"@en ] .
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "DRINK ONLY SHUMENSKO PIVO"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ] .
 
 <http://example.org/EFG/BNFA_avManifestation_MFN2747> a ns1:Manifestation ;
     ns1:hasColourCharacteristic ns1:BlackAndWhite ;

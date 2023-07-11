@@ -1,0 +1,9 @@
+{
+    "country": {
+        "http://example.org/EFG/country/BG": "https://fiafcore.org/ontology/Bulgaria"
+    },
+    "form": {
+        "http://example.org/EFG/form/Documentaryfilm": "https://fiafcore.org/ontology/Form",
+        "http://example.org/EFG/form/Advertisingfilm": "https://fiafcore.org/ontology/Form"
+    }
+}

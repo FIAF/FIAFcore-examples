@@ -28,10 +28,10 @@
     ns1:hasIdentifier [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2753" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2753> ;
-    ns1:hasTitle [ a ns1:PreferredTitle ;
-            ns1:hasTitleValue "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ],
-        [ a ns1:TranslatedTitle ;
-            ns1:hasTitleValue "QUEEN OF THE BEACH CONTEST AT THE LUJENE BEACH"@en ] .
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "QUEEN OF THE BEACH CONTEST AT THE LUJENE BEACH"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ] .
 
 <http://example.org/EFG/BNFA_avCreation_MFN2776> a ns1:WorkVariant ;
     rdfs:label "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ;
@@ -46,10 +46,10 @@
     ns1:hasIdentifier [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2776" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2776> ;
-    ns1:hasTitle [ a ns1:PreferredTitle ;
-            ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ],
-        [ a ns1:TranslatedTitle ;
-            ns1:hasTitleValue "DRINK ONLY SHUMENSKO PIVO"@en ] .
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "DRINK ONLY SHUMENSKO PIVO"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ] .
 
 <http://example.org/EFG/BNFA_avManifestation_MFN2747> a ns1:Manifestation ;
     ns1:hasColourCharacteristic ns1:BlackAndWhite ;
