@@ -10,13 +10,6 @@ if [ ! -f saxon/saxon-he-12.3.jar ]; then
     cd ..
 fi
 
-pwd
-ls 
-ls saxon/
-
-# run notebooks
-#jupyter nbconvert --execute --to notebook --inplace ./bnfa/notebooks/transform.ipynb
-
 # run scripts
-python3 ./bnfa/notebooks/transform.py
+python3 ./bnfa/scripts/transform.py
 

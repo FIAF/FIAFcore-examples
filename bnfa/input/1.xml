@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_MFN2753</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>MFN2753</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.vimeocdn.com/video/974586012.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">177</efg:dimension>
+				           <efg:rightsHolder URL="www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:06:10</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_s37ITPuSPwnwsGVkOnjowg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_MFN2753</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>MFN2753</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>QUEEN OF THE BEACH CONTEST AT THE LUJENE BEACH</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">Снимки от Лъдженския плаж (днес Велинград). Музикално оформление с немски шлагери- Преминаване на кандидатките. Скокове от кула. За царица е избрана Мария Русева от Пловдив. За най-красиво дете е избрана Светла Пешева от София.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">The beach at Ladzhene (Velingrad). Reviewing the contestors. High diving. The winner in the ,,Queen of the Beach'' contest is Maria Rousseva from Plovdiv.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>България</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>плаж, басейн</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>конкурс за красота</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Place">
+				           <efg:term>Bulgaria</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>beach</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>pool</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>beauty padgent</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Documentary film</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1940</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_16fd19ae42bb22f73eef6129f7537804</efg:identifier>
+				           <efg:name>Totev, Spas</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_331b3c2fd0aee7d5eaa099234f827848</efg:identifier>
+				           <efg:title>Pre-Socialist Cinema</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>
