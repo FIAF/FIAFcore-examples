@@ -13,4 +13,5 @@ fi
 # run scripts
 python3 ./bnfa/scripts/transform.py
 python3 ./bnfa/scripts/collate.py
+python3 ./bnfa/scripts/harmonise.py
 
