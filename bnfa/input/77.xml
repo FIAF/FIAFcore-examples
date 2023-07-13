@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002983</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002983</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кинопреглед No 10</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/wRQ3lXXFD8Y/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">276</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:09:42</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_jraIgYyqGspqWNvBPY2-Mw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=wRQ3lXXFD8Y</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=wRQ3lXXFD8Y</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002983</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002983</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кинопреглед No 10</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel No 10</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СССР. Москва - честване Деня на Червената армия. Говори маршал Георги Жуков. Присъства Семьон Будени. Дмитрий Михеев в една танкова част. Двама от синовете му. Архивни кадри от Отечествената война.  // II. Алжир. Френски окупационни войски отварят затворени магазини на алжирски граждани.  // III. Унгарски бежанци се завръщат в родината си от Виена.  // IV. Наторяване на посеви край село Илия Блъсково, Коларовградско със самолет. Пилотът Мария Недялкова.  // V. Завод за огнеупорни материали край гара Елин Пелин. О.п. - строеж и монтаж на машините.  // VI. Удълбочаване пристанището на град Бургас. Водолаз.  // VII. Метеорологична станция на връх Ботев. Изгледи от наблюдателницата и заснежени върхове.  // VIII. София. Състезание по мотоциклетизъм, организирано от ДОСО по повод 3 март. Състезателите по улиците на града.  // IX. Фестивал на българския филм в София. Премиера на игралния филм "Земя". Присъстват киноработници, създателите на филма Борислав Шаралиев, Захари Жандов и др. Говори Геро Грозев, заместник министър на просветата и културата.  // X. Френският актьор и певец Ив Монтан и съпругата му актрисата Симон Синьоре у нас. Пристигане и посрещане на аерогара София. Концерт на Ив Монтан.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. USSR, Moscow - celebration of Red Army Day. Marshal Georgi Zhukov speaks. Semyon Budeni is present. Dmitry Mikheev in a tank. Two of his sons. Archival footage of the Great Patriotic War. // II. Algeria. French occupation forces open closed shops of Algerian citizens.  // III. Hungarian refugees are returning to their homeland from Viena. // IV. Fertilization of crops near the village of Iliya Blaskovo, region of Koralovgrad, by plane. The pilot - Maria Nedyalkova. // V. Factory for fireproof materials near Elin Pelin station. Close-up - construction and installation of machines. // VI. Deepening the port of Burgas. Diver. // VII. Meteorological station on Botev peak. Views from the observatory and snow-capped peaks. // VIII. Sofia. Motorcycling competition celebrating March 3. Racers on the streets of the city. // IX. Bulgarian film festival in Sofia. Premiere of the feature film "Earth". The creators of the film are present, Borislav Sharaliev, Zahari Zhandov, etc. Gero Grozev, Deputy Minister of Education and Culture, speaks. // X. French actor and singer Yves Montand and his wife, actress Simone Signoret, are visiting Bulgaria. Arrival at Sofia Airport. Concert of Yves Montand.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>строителство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>кино</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>construction</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>cinema</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1957</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ff772b6a5c2270178f18ee0925323514</efg:identifier>
+				           <efg:name>Getov, Milen</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_1f9ad986cdbddda339a7aa284b70a494</efg:identifier>
+				           <efg:name>Alurkov, Georgi</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4750805793daecff48207dfa14f0e152</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_286a61f2f81838482ef9dfd52d9b209b</efg:identifier>
+				           <efg:name>Efremov, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4e6021cf70c6af67aa1e557c0f253fba</efg:identifier>
+				           <efg:name>Kitanov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_a455914fa7e28e922331bc73b78e5f55</efg:identifier>
+				           <efg:name>Durov, Georgi</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ac4bc8bb8bfab8bc19b9dc20d9fb45f8</efg:identifier>
+				           <efg:name>Lazarov, Baruh</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_1550fceb517e4644c8bb87d97c6d8f33</efg:identifier>
+				           <efg:name>Panchev, Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_aad38c973bd51f14ccae76971f8ff862</efg:identifier>
+				           <efg:name>Sharlandzhiev, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

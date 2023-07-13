@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010000620</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010000620</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Прегледъ 106</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/g64nf0nRQBs/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">291</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:15</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_820IK1YqQxgQiKgltuzCqQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=1sjFBIJ-cr8</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=1sjFBIJ-cr8</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010000620</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010000620</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Прегледъ 106</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 106</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Заливът на град Балчик. Панорама на града. Хора, сгради, улици. Плажът, хора се къпят в морето.  // II. Фабрика за преработка на кожи. Обработка на сурова кожа. Работници, машини. Ръчна обработка на суровината. Валяк за изсушаване на кожата.  // III. Възпитаници на ШЗО, София на посещение в мини Перник. Слизат в шахтата "Света Ана" с асансьор, вървят в галерия, миньори копаят въглища. Пилон с българското знаме. Състезания между школници и спортисти от града. Дисциплината плуване 2000 м свободен стил, победител Иван Тодоров, ШЗО. Публика. Състезания по лека атлетика - бягане. Публиката. // IV. Посрещаоне на българчета от гр. Солун в село Бояна край София. Вървят по улица. Полагат цветя на гроба на царица Елеонора в двора на Боянската черква. Едноминутно мълчание. // V. Панорама на град Добрич. Конни състезания. Прескачане препятствия. В публиката - военни и цивилни. Акробатична езда. Награждаване на победителите. // VI. Добруджа - жътва с машини. Селяни събират снопи. Извозване с каруци. Вършитба на харман с коне и диканя. Вадене вода от кладенец с чекрък и магаре. Жена реже хляб.  // VII. Арка с надпис "ДОБРЕ ДОШЛИ" Селище в Добруджа. Населението посреща министър-председателя Богдан Филов. Поднасят му цветя, говори с хората. Върви по улица, придружен от цивилни и военни. Говори пред гражданите на град Добрич. // VIII. Жп гара София. Ръководители и членове на организация "Бранник" посрещат ръководителя на хърватската усташка организация професор Иван Оршанич. Фашистки поздрав. Свири военен оркестър. Полага венец пред паметните плочи на загиналите за България в казармите на 1-ви и 6-ти полк. Фашистки поздрав. Висши военни прават преглед на почетна рота. Посещава лагер на организацията "Бранник". Строени бранници го посрещат с фашистки поздрав. Говори с лагерници, разглежда палатка. Член на организация "Орле" се ръкува с проф. Оршанич. Посещава лагер за браннически ръководители. Бранници го посрещат с фашистки поздрав. Моторизирана дружина на организация "Бранник". Демонстрация с мотоциклети, преминаване през разнообразен терен.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. The bay of the town of Balchik. View of the city. People, buildings, streets. The beach, people bathe in the sea. Rocks.  // II. Leather processing factory. Raw leather processing. Workers, machines. Manual processing of the raw material.  // III. Alumni of a military school in Sofia on a visit to Pernik mines. They go down to the "St. Anna" mine with an elevator, go to a gallery, miners dig coal. Piller with the Bulgarian flag. Competitions between schoolchildren and athletes from the city. Swimming 2000 m, freestyle, winner - Ivan Todorov. Athletics competitions - running.  // IV. Welcoming Bulgarian children from Thessaloniki in the village of Boyana near Sofia. They are walking down the street. They lay flowers on the tomb of Tsaritsa Eleanore in the yard of the Boyana Church. One minute of silence.  // V. View of the town of Dobrich. Horse racing. Jump over obstacles. In the audience - military and civilian. Acrobatic riding. Rewarding the winners. VI. Dobrudja - harvest with machines. Villagers collect sheaves. Transport by carts. Harman threshing with horses and dikanya (agricultural device). Extracting water from a well with a spinning wheel and a donkey. A woman cuts bread.  // VII. Arch with the inscription "WELCOME". Village in Dobrudja. The population welcomes the Prime Minister Bogdan Filov. They bring him flowers. He talks to people, walks down the street accompanied by civilians and military. He speaks to the citizens of Dobrich.  // VIII. Sofia Railway Station. Leaders and members of the Brannik organization welcome the head of the Croatian organization Ustasha, Professor Ivan Orsanic. Fascist salute. A military band plays. He lays a wreath in front of the memorial plaques of those who died for Bulgaria in the barracks of the 1st and 6th regiments. Fascist salute. Senior military personnel inspection of an honorary company. He visits a camp of the Brannik organization. Members greet him with a fascist salute. He visits a camp for Brannik leaders and is greeted with a fascist salute. Motorized company of the Brannik organziation. Demonstration with motorcycles.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1943</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

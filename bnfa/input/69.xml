@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002716</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002716</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кинопреглед 377</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/nuWbEoYuvjI/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">290</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:23</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_vVkKT+9UoWGwk72NfxwMIA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=nuWbEoYuvjI</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=nuWbEoYuvjI</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002716</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002716</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кинопреглед 377</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 377</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Северна Корея. Град - улично движение, сгради. 25 юни 1950 г. - нахлуване на американски войски в страната. Самолети бомбардират. Разрушени къщи. Корейски танкове и оръдия. Корейски войници атакуват вражески позиции. София. Събрание в защита на Корея. Говорят писателите Георги Караславов и Димитър Полянов. Присъстващи.  // II. София. Втори конгрес на БЗНС. Салонът на Народната опера. Делегати, президиумът. Говори Георги Трайков. Реч на Вълко Червенков. Слово на Фердинанд Козовски, главен секретар на ОФ. Г. Трайков чете отчетен доклад. Делегати полагат венци пред Мавзолея "Г.Димитров", на гроба на Райко Даскалов, пред бюста на Цанко Церковски, пред Братската могила в Парка на свободата. Заседание на конгреса. Изказвания на делегати: овчарят Петър Чемишанов, Ангел Георгиев, председател на стопанство, Йова Христова, кооператорка от с. Козлодуйци, Толбухинско. Пионери и военни поднасят приветствия. Говорят: Тодор Янакиев от гр. Сталин, звеноводът Нешо Нешев, Иван Дечев, дядо Златан Добрев от с. Бръшлян, съратник на Ал.Стамболийски, Янаки Чакъров, народен представител, Ангел Досев, съратник на Яне Сандански. Делегати поднасят подаръци на Георги Трайков. Гласуване избор на нов Управителен съвет и Устав.  // III. Нова година. Хора купуват елхи, суровачки. Пионери суровакат Вълко Червенков. В.Червенков танцува с децата. Новогодишна елха в Двореца на пионерите. Пристига В. Червенков. Дядо Мраз сред деца. Деца танцуват. Присъстват Елена Димитрова, Михаил Бодров. Хоро.  // IV. Москва. Преглед на художествената самодейност. Концертната зала "Чайковски". Публика. Изпълнение на самодеен танцов колектив от Казахстан.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. North Korea. City - traffic, buildings. June 25, 1950 - US troops invade the country. Planes dropping bombs. Destroyed houses. Korean tanks and cannons. Korean soldiers attack enemy positions. Sofia. Assembly in defense of Korea. The writers Georgi Karaslavov and Dimitar Polyanov speak. Attendees.  // II. Sofia. Second Congress of the Bulgarian Agrarian Union. The hall of the National Opera. Delegates, the Presidium. Georgi Traikov speaks. Speech by Valko Chervenkov. Speech by Ferdinand Kozowski, Secretary General of the OF (Otechestven Front - an antifascist union). G. Traikov reads a report. Delegates lay wreaths in front of the Mausoleum "G. Dimitrov", on the grave of Rayko Daskalov, in front of the bust of Tsanko Tserkovski, in front of a monument for the fallen antifascists in Boris' Garden (prev. Freedom Park). Congress meeting.  // III. New Year's Day. People buy Christmas trees. Valko Chervenkov dances with children. New Year's tree. Valko Chervenkov arrives. Santa Claus among children. Children are dancing. Elena Dimitrova and Mihail Bodrov are present.  // IV. Moscow. Review of amateur art. Tchaikovsky Concert Hall. The audience. Performance of an amateur dance group from Kazakhstan.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1952</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_d40a5f158227fecab3ddf95003283378</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_a989eed2c65e380eac1f69a1878dcf3f</efg:identifier>
+				           <efg:name>Rusev, Zheko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_affa98f368b83fd5919cbe36620512ab</efg:identifier>
+				           <efg:name>Kovachev, Hristo</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

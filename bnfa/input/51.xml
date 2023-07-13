@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002438</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002438</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Отечествен кино преглед 114</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/mo-SuoM3HLs/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">294</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:20</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_uioowcQJ3GYgpG9FuDKxPQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=mo-SuoM3HLs</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=mo-SuoM3HLs</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002438</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002438</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Отечествен кино преглед 114</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>National Newsreel 114</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Париж. Люксембургският дворец. Пристигат представители на страните, участнички в мирната конференция. Хора влизат в сградата, качват се по стълбище. Заседателната зала. Влизат делегациите на СССР - Вячеслав Молотов, Андрей Вишински, Богомолов, Гусев, САЩ - Барух, Англия - Атли, Франция - Жорж Бидо и делегации от Чехия, Полша, Югославия, Украйна, Белорусия. Говори Ж. Бидо, министър-председател на Франция. Слово на Вячеслав Молотов /синхрон/. от френски преглед  // II. Москва. Плакат на руския игрален филм "Клетва". Кино "Метропол". Хора пред киното. Режисьорът на филма Михаил Чиаурели говори. Салонът на кино "Москва" - среща на зрители със създатели на филма. Актьорът Михаил Геловани говори. Присъстват актрисата София Гиасинтова, операторът Леонид Косматов. Поднасяне цветя на творците. // III. Париж. Сградата на института "Пастьор". Отбелязване годишнина от смъртта на Луи Пастьор. Лабораторията при института. Жена наблюдава под микроскоп. Ваксиниране на човек.  // IV. София - среща на български и съветски писатели. Студиото на Камарата на народната култура. Говори Людмил Стоянов, председател на Съюза на българските писатели. Представя съветския поет Александър Твардовски. Поетът чете свои произведения. Присъстващи ръкопляскат.  // V. Министерски съвет. Заседание на правителството, начело с министър-председателя Георги Димитров. Присъстват: Трайчо Костов, Добри Терпешев, Георги Попов, Кимон Георгиев, Антон Югов и др. министри. Залата на Народното събрание. На трибуната Васил Коларов. Георги Димитров чете декларацията на правителството. Народни представители ръкопляскат.  // VI. Варна. Черно море. Честване годишнина от победата на миноносеца "Дръзки" над турския кръстосвач "Хамидие". Вълноломът. Живи участници на борда на "Дръзки", говорят с моряци. Откриване бюст паметник на капитан I-ви ранг Димитър Добрев, командир през Балканската война. Полагане венци.  // VII. Одеса. Стадион "Спартак". Спортни състезания на представители на военноморския флот. Парад на курсисти. Дисциплината бягане на 100 м. Севастопол. Моряци плуват свободен стил 1 миля във водите на Черно море.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Paris. The Luxembourg Palace. Representatives of the countries participating in the peace conference are arriving. People enter the building, climb stairs. The boardroom. The delegations of the USSR - Vyacheslav Molotov, Andrei Vishinsky, Bogomolov, Gusev, USA - Baruch, England - Atli, France - Georges Bidot and delegations from Czechoslovakia, Poland, Yugoslavia, Ukraine, Belarus. The following spoke: J. Bido, Prime Minister of France. Speech by Vyacheslav Molotov / synchrony /. from a French newsreel. // II. Moscow. Poster of the Russian feature film "Oath". Cinema "Metropol". People in front of the cinema. The film's director, Mihail Chiaureli, speaks. The Moscow Cinema Hall - a meeting of spectators with the film's creators. Actor Mihail Gelovani speaks. Actress Sofia Giasintova and cameraman Leonid Kosmatov are present. Serving flowers to the artists. // III. Paris. The building of the Pasteur Institute. Celebrating the anniversary of Louis Pasteur's death. The laboratory at the institute. A woman observes under a microscope. Vaccination of a person. // IV. Sofia - meeting of Bulgarian and Soviet writers. The studio of the Chamber of National Culture. Ludmil Stoyanov, Chairman of the Union of Bulgarian Writers, speeks. He introduces the Soviet poet Alexandr Tvardovsky. The poet reads his works. Those present applaud. // V. Council of Ministers. Meeting of the government, chaired by Prime Minister Georgi Dimitrov. Present: Traicho Kostov, Dobri Terpeshev, Georgi Popov, Kimon Georgiev, Anton Yugov and others. ministers. The Hall of the National Assembly. On the rostrum Vasil Kolarov. Georgi Dimitrov reads the government declaration. MPs applaud. // VI. Varna. Black Sea. Celebration of the anniversary of the victory of the destroyer "Drazki" over the Turkish cruiser "Hamidie". The breakwater. Veterans aboard the "Daring" talk to sailors. Unveiling of a bust of Captain I rank Dimitar Dobrev, commander during the Balkan War. Laying wreaths. // VII. Odessa. "Spartak" Stadium. Sports competitions for representatives of the Navy. Parade of students. The discipline of running 100 m. Sevastopol. Sailors swim freestyle 1 mile in the waters of the Black Sea.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>кино</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>cinema</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1946</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_3b063e581536f68714dc7b8785106258</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_8b32b292c34e2629c4a398997a044658</efg:identifier>
+				           <efg:name>Stoyanov, Vladimir</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4750805793daecff48207dfa14f0e152</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_13d21b33dfe451a56959ca0ff73024d0</efg:identifier>
+				           <efg:name>Hristov, Stoyan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002754</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002754</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кинопреглед 415</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/87Cdb3wH2QY/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">289</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:08</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_3YpYM-x-0S0GLUPIYghDpA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=87Cdb3wH2QY</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=87Cdb3wH2QY</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002754</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002754</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кинопреглед 415</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Weekly Newsreel 415</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СССР. Пустинята Каракум в Туркменистан. Геофизици правят проучвания за петрол. Сондажни кули. ( от "Сегодня N 22" )  // II. Димитровград. Съветска културна делегация, начело с академик Константин Скрябин посещава химическият комбинат "Сталин" по случай месеца на българо-съветската дружба. Вторият секретар на ГК на БКП на града, Паунов говори. Слово на академик Скрябин. Михаил Манев, главен секретар на Съюза на българо-съветските дружества придружава делегатите. Разглеждат завода. Инженер Чакалов поднася цветя. Заснети още Лидия Корабелникова, Петър Федосеев и Клавдия Корольова. О.п. на завода. // III. Завод за селскостопански машини "Г.Димитров", гр. Русе. Стоманолеярната. Иван Рац, стоманолеяр, работи. Изливане детайли за машините. Стругарският цех. Обработване на детайлите. Стойно Илиев работи на бормашина. Монтажният цех - сглобяване на готовите части. Дърводелно отделение - монтиране на дървените конструкции. Готови вършачки. Тържество по случай отличаване колектива със званието "Носител на преходното знаме на Министерски съвет". Говори инженер Караджов, зам.министър на Министерството на тежката промишленост. Разходка на работниците с параход по река Дунав. Заснети работниците Стойно Илиев и Иван Рац. // IV. Лозята на кооперативното стопанство "Еню Тошев", село Перущица, Пловдивско. Бране на грозде сорт "Болгар". Звеното на Димитър Георгиев. Жени почистват грозде и го нареждат в щайги. Извозване гроздето с камиони.  // V. София. Стадион "Народна армия". Спартакиада на МВР. Присъстват генерали, министърът на вътрешните работи Георги Цанков. Откриване - спортни упражнения. Среща по баскетбол жени. Лека атлетика. Среща по баскетбол мъже между отборите "Спартак" и "Ударник". Мач по футбол между отборите "Спартак" и "Академик". Играта. Публика. Резултат 3:2 за отбора на "Спартак".</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. USSR. Karakum Desert in Turkmenistan. Geophysicists are doing research on oil. Drilling towers.  // II. Dimitrovgrad. A Soviet cultural delegation, led by Academician Konstantin Scriabin, visits the chemical factory "Stalin" on the occasion of the month of Bulgarian-Soviet friendship.  // III. Plant for agricultural machines "G. Dimitrov", Ruse. The steel foundry.  // IV. The vineyards of the cooperative farm ""Enyu Toshev"", Perushtitsa village, Plovdiv region.  // V. Sofia. ""People's Army"" Stadium. Sports competition for members of the Ministry of Interior. Present are: generals, the Minister of Interior Georgi Tsankov. Opening - sports exercises. Women's basketball match. Athletics. Men's basketball match between "Spartak" and "Udarnik". Football match between the teams of "Spartak" and "Academic". Result 3: 2 for "Spartak".</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1952</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_e3fa92bd1758393fb689f2ff386d45ff</efg:identifier>
+				           <efg:name>Efremov, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_affa98f368b83fd5919cbe36620512ab</efg:identifier>
+				           <efg:name>Kovachev, Hristo</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4750805793daecff48207dfa14f0e152</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_0fca01e2cd59dffac034c851d567d494</efg:identifier>
+				           <efg:name>Toshev, Kiril</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_6cbedda66b902aaa6f962d29a7b7243e</efg:identifier>
+				           <efg:name>Delchev, Mihail</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_9087f201995679e1c5c638eb29a8e673</efg:identifier>
+				           <efg:name>Terziev, Tzvetan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_eeef4f274ef4f58643ce4a747d42741d</efg:identifier>
+				           <efg:name>Kochev, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:fiaf="https://fiafcore.org/ontology/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <fiaf:WorkVariant rdf:about="http://example.org/EFG/BNFA_avCreation_MFN2764">
+      <rdfs:label xml:lang="bg">НАШЕТО МОРЕ</rdfs:label>
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>MFN2764</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">НАШЕТО МОРЕ</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasTitle>
+         <fiaf:TranslatedTitle>
+            <fiaf:hasTitleValue xml:lang="en">OUR SEA</fiaf:hasTitleValue>
+         </fiaf:TranslatedTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasCountry rdf:resource="http://example.org/EFG/country/BG"/>
+      <fiaf:hasForm rdf:resource="http://example.org/EFG/form/Documentaryfilm"/>
+      <fiaf:hasEvent>
+         <fiaf:ProductionEvent>
+            <fiaf:hasEventDate>1929</fiaf:hasEventDate>
+            <fiaf:hasActivity>
+               <fiaf:Director>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_5fbf0313a41c95d42d611873171dbf03"/>
+               </fiaf:Director>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_d2a606941232f97b1f0f0cc69f3824c3"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+         </fiaf:ProductionEvent>
+      </fiaf:hasEvent>
+      <fiaf:hasManifestation rdf:resource="http://example.org/EFG/BNFA_avManifestation_MFN2764"/>
+   </fiaf:WorkVariant>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_5fbf0313a41c95d42d611873171dbf03">
+      <rdfs:label>Petrov, Kiril</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_d2a606941232f97b1f0f0cc69f3824c3">
+      <rdfs:label>Levi, Jaque</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Manifestation rdf:about="http://example.org/EFG/BNFA_avManifestation_MFN2764">
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>MFN2764</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">НАШЕТО МОРЕ</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasSoundCharacteristic rdf:resource="https://fiafcore.org/ontology/Silent"/>
+      <fiaf:hasColourCharacteristic rdf:resource="https://fiafcore.org/ontology/BlackAndWhite"/>
+      <fiaf:hasFormat rdf:resource="https://fiafcore.org/ontology/35mmFilm"/>
+      <fiaf:hasExtent>
+         <fiaf:Minutes>
+            <fiaf:hasExtentValue>00:15:12</fiaf:hasExtentValue>
+         </fiaf:Minutes>
+      </fiaf:hasExtent>
+      <fiaf:hasLanguageUsage>
+         <fiaf:Intertitles>
+            <fiaf:hasLanguage rdf:resource="http://example.org/EFG/language/bg"/>
+         </fiaf:Intertitles>
+      </fiaf:hasLanguageUsage>
+      <fiaf:hasItem rdf:resource="http://example.org/EFG/BNFA_item_NDtgirakW-exFvcTzeFuxw"/>
+   </fiaf:Manifestation>
+   <fiaf:Item rdf:about="http://example.org/EFG/BNFA_item_NDtgirakW-exFvcTzeFuxw"/>
+</rdf:RDF>

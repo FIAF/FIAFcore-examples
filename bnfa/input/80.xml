@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_8810</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>8810</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ПРЕГЛЕДЪ 87</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/f6hx76yauq4xp51/BNFA_8810.jpg?raw=1</efg:thumbnail>
+				           <efg:language usage="Audio">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:08:19</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_CT9DwNCPo-HOVPTMeSYLxw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/480580438</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_8810</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>8810</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ПРЕГЛЕДЪ 87</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>NEWSREEL 87</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Intertitles">I. София. Две години от присъединяването на България към Тристранния пакт. Пред сградата на германското консулство, софийски браннически войвода приветства Адолф Бекерле. На балкон - италианският пълномощен министър граф Масимо Маджистрати. // II. С. Кремиковци. Кремиковският манастир - закриване курс по готварство, шев и кройки.  // III. Българския царски военен оркестър в Будапеща.  В Карой парк - изнасят концерт с творби на български композитори. Диригент е Саша Попов. // IV. Ски състезания за Държавно първенство на Витоша. Победител - Никола Димитров-Фъц. // V. Гара Белица - откриване на нова железопътна линия Белица - Банско.</efg:description>
+				         <efg:description lang="EN" type="Intertitles">"I. Sofia. Manifestation for the two year anniversary of Bulgaria joining the Tripartite Pact. Leader of the Sofia branch of the fascist ""brannik"" organization welcomes ambassador Adolf Beckerle; Cheering for the Italian delegation; On the balcony is the Italian plenipotentiary minister Massimo Magistrati. // II. Kremikovtsi monastery, village of Kremikovtsi   - closing ceremony for a local course in cooking and sewing. // III. Budapest  - Welcoming of the Bulgarian ""King's Military Orchestra"". The orchestra members lay flower wreaths in front of a monument to the unknown soldier; Karolyi park  - the orchestra plays pieces from Bulgarian composers. Sasha Popov is conducting. // VI. Vitosha mountain. Near ""Aleko"" cabin - a ski competition for the National Championship cup; Ski jumping; Winner is Nikola Dimitrov-Fatz. // V. Belitza railway station  - Unveiling of a new railway between Belitza and Bansko."</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>образование</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sports</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>education</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>social and political events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1943</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

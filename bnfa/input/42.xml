@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_20395</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>20395</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ПРЕГЛЕДЪ 1</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/abro3qh4xex9lp1/BNFA_20395.jpg?raw=1</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="false">Without sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:05:31</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_GrbYtBOKYEXamgGI8EXUnw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/480564833</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_20395</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>20395</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ПРЕГЛЕДЪ 1</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>NEWSREEL 1</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Intertitles">"I. Цар Борис III - разговаря, ръкува се с граждани, стои пред паметник. Богдан Филов говори с военен край лека кола. Храм - паметник ""Александър Невски"" - хора но площада, пред черквата ""Света София"", строени военни и ученици. На стълбите на ""Ал. Невски"" - военни и официални лица. Военни рапортуват. Преглед на строени ученици и войници. Военни и официални лица вървят край Народното събрание, София. Полагане венец пред паметника на Цар Освободител. // II. Салон. Мъжки хор пее. Диригентът. Публика - станала на крака. Завъртане на сфери. Показване на топчета с цифри. Оживление сред публиката. Подреждане цифрите на печеливши номера на табло. // III. Хора преглеждат документи. Мъж говори. Изказване на друг от присъстващите. Диаграма за положени тръби в периода 1934 - 1940 г, съдържаща вложените средства и дължината в километри."</efg:description>
+				         <efg:description lang="EN" type="Intertitles">"I. King Boris III - talks and shakes hands with citizens; stаnds next to a monument. Prime Minister Bogdan Filov talks to an officer next to a car;  ""Alexander Nevsky"" cathedral; people at the square in front of the ""St. Sofia"" church. Military officers and students in line. At the steps of the cathedral - military officers and high-ranking officials. the officers report. Inspection of the military. Officers and officials walk to the Grand Assembly building. Laying of a wreath in front of the ""King Liberator"" monument. // II. A salon. A male choir sings. The conductor. The audience is standing up.  Lottery numbers spinning in metal spheres. Announcing the winning numbers on a board. // III. Men and women going over documents. A man speaks. A diagram, showing the amount of pipes laid from 1934 to 1940."</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>social and political events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1941</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

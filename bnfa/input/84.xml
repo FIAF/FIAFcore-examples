@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_8836</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>8836</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ПРЕГЛЕДЪ 102</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/k59p0phwsfppm45/BNFA_8836.jpg?raw=1</efg:thumbnail>
+				           <efg:language usage="Audio">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:28</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_dV49DLKJMXNNaFxArV61aA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/480572300</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_8836</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>8836</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ПРЕГЛЕДЪ 102</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>NEWSREEL 102</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Intertitles">"I. Панорама на град Асеновград. Площад, улици, къщи, Асеновата крепост, река Чая, шосе. // II. Сградата на първоначално училище ""Свети Седмочисленици"", София. Ученици и родители влизат в училището. Носят черничеви клони. Стая, в която децата отглеждат копринени буби. Деца късат черничеви листа. Пашкули на клонче. // III. Работилница за производство на восъчни пити за пчелни кошери. Гравиране восъчни листове с машини. Пчелар поставя лист в дървена рамка. Слага пити в кошер. Поляна с пчелни кошери. // IV. Летище Божурище край София. Мистър Сенко прави фокуси пред български и немски офицери и войници. // V. София. Среща по баскетбол между националните отбори на България и Словакия. Победа с 32:22 за българския отбор. // VI. Бубарство в Свиленградско. Жени отделят пашкули в кошове. Фабрика за точене на коприна в Свиленград. Мъже разтоварват кошове с пашкули. Производствен процес: сушене на пашкули, точене на коприна, тъкане на копринени платове. // VII. Новобранци влизат в казармата на брониран полк. Минават край комисия от офицери. Разглеждат танк. Обличат униформи. Получават обяд, хранят се."</efg:description>
+				         <efg:description lang="EN" type="Intertitles">"I. Panorama of the town of Asenovgrad. Square, streets, houses, Asen's Fortress, Chaia river, road. // II. The building of primary school ""Seven Saints"", Sofia. Pupils and parents enter inside the school. They bear mulberry branches. A room where the children raise silkworms. The children tear mulberry leaves. Cocoons on a twig. // III. A workshop for the production of honeycombs for beehives. Engraving wax sheets with machines. A beekeeper puts a sheet in a wooden frame. He puts honeycombs in a beehive. A meadow with beehives. // IV. Bozhurishte airport near Sofia. Mister Senko does tricks for Bulgarian and German officers and soldiers. // V. Sofia. A basketball match between the national teams of Bulgaria and Slovakia. The Bulgarian team wins 32:22. // VI. Sericulture in the Svilengrad region. Women separate cocoons in baskets. A factory for silk sharpening in Svilengrad. Men unload baskets of cocoons. Production process: drying cocoons, sharpening silk, weaving silk fabrics. VII. Young people begin their military service. They pass an officers' committee. They examine a tank. They put on uniforms. They have lunch."</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>образование</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>industry</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>education</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>arts</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1943</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

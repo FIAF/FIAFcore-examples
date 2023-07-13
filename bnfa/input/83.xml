@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010003288</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010003288</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кинопреглед No 38</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/EiZBECmJ96g/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">287</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:05</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_jxuW-IS+i+-a7B4ETP9f5g</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=EiZBECmJ96g</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=EiZBECmJ96g</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010003288</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010003288</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кинопреглед No 38</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel No 38</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Пловдив. Откриване на 20-ия юбилеен мострен панаир. Тодор Живков прерязва лентата. Официални лица и гости в двора на панаирното градче. Разглеждат селскостопански машини. В палатата на тежката промишленост - машини и уреди. Палатата на леката промишленост - кожени изделия, облекло, обувки. Цветя, плодове, зеленчуци. Експонати от други държави - електроуреди, телевизори, радиоапарати. Граждани в палатата на СССР. Разглеждат хеликоптер, самолет, изкуствен спътник.  // II. Строеж на въжена линия към обогатителната фарбика на гара Твърдица. Монтаж. Изправяне на желязорешетъчен стълб под ръководството на инж. Димитър Терзиев. Работници.  // III. С. Ръждавица, Кюстендилско. Овощна градина. Кооператори от ТКЗС-то и студенти бригадири от факултет "Журналистика" на Софийския университет берат ябълки. Касети с ябълки.  // IV. Малкият Олег Ковачев става от леглото, облича се, върви с майка си по улица в София. Първият учебен ден в 49-то училище. Учителката Елисавета Николова сред първокласници - заснети О. Ковачев, Галина Генчева, Евгени Михайлов и др. Ученици на чинове. Г. Генчева разглежда буквар. О. Ковачев и Г. Генчева седят на един чин. Учителката говори.  // V. По СВЕТА Гр. Белград. Аерогарата. От самолет слиза съветския космонавтът Герман Титов и придружаващите го. Посрещат го Йосип Броз Тито, държавни дейци. В кола по улиците на града. Гражданите на Белград приветстват.  // VI. Шествие на хора към гр. Сантяго де Куба. Честване Деня на революцията. Митинг. На трибуната Фидел Кастро. Говори. Хора слушат. Официални лица. Ернесто Че Гевара. Хора приветстват. // VII. Гр. Москва, СССР. Карикатури на датският карикатурист Хелмут Бидструп. Прави скици в тетрадка по улиците на града. В Дома на дружбата - среща с карикатуриста. Приятели и граждани го приветстват по повод 50-годишнината му. Дава автографи.  // VIII. Курортът Златни пясъци край гр. Варна. 15-та Олимпиада по шахмат. Зала, състезатели от различни страни, публика. Сред участниците са Михаил Ботвиник, Михаил Тал, Тигран Петросян. Партията Робърт Фишер - Никола Пъдевски.  // IX. София. Стадион "В.Левски". Футболен мач между отборите ЦДНА и "Партизан", Белград. Играта. Публика. Резултат 2:1 за ЦДНА. Футболисти и съдии вървят по терена.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Plovdiv. Opening of the 20th Sample Fair. Todor Zhivkov cuts the ribbon. Officials and guests in the yard of the fair town.  // II. Construction of a cableway at Tvarditsa train station.  // III. Village of Rujdavutsa, region of Kyustendil. Orchard. Students from the Faculty of Journalism at Sofia University work at an cooperative farm picking apples.  // IV. Young Oleg Kovatchev gets out of bed, gets dressed, walks with his mother on a street in Sofia. First graders on their first day at school.  // V. Belgrade. Airport. Soviet astronaut German Titov, along with his entourage, get off a plane. Josip Broz Tito welcomes him.  // VI. Procession of people to the city of Santiago de Cuba. Celebration of Revolution Day. Rally. Fidel Castro speaks. Officials. Ernesto Che Guevara.  // VII. Moscow, USSR. Cartoons by Danish cartoonist Herluf Bidstrup. He makes sketches on the city streets. Friends and citizens congratulate him on his 50th birthday.  // VIII. Golden Sands resort near Varna. 15th Chess Olympiad. Among the participants are Mikhail Botvinnik, Mikhail Tal, Tigran Petrosian. Chess game between Bobby Fischer and Nikola Padevsky.  // IX. Sofia. Vasil Levski Stadium. Football match between CSKA and Partizan Belgrade. 2:1 on favour of CSKA.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>търговия</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>строителство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>trade</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>construction</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1962</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_d91d8143203d7d152ec8a766466665ac</efg:identifier>
+				           <efg:name>Tosheva, Nevena</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_e73e4ad4989af4e01db376b667cd3867</efg:identifier>
+				           <efg:name>Kitanov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_dd2bc03247a59f461f3e48247b549735</efg:identifier>
+				           <efg:name>Bosev, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_9087f201995679e1c5c638eb29a8e673</efg:identifier>
+				           <efg:name>Terziev, Tzvetan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_aad38c973bd51f14ccae76971f8ff862</efg:identifier>
+				           <efg:name>Sharlandzhiev, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_affa98f368b83fd5919cbe36620512ab</efg:identifier>
+				           <efg:name>Kovachev, Hristo</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_1550fceb517e4644c8bb87d97c6d8f33</efg:identifier>
+				           <efg:name>Panchev, Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

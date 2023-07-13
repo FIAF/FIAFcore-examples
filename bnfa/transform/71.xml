@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:fiaf="https://fiafcore.org/ontology/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <fiaf:WorkVariant rdf:about="http://example.org/EFG/BNFA_avCreation_BNF010002754">
+      <rdfs:label xml:lang="bg">Седмичен кинопреглед 415</rdfs:label>
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>BNF010002754</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">Седмичен кинопреглед 415</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasTitle>
+         <fiaf:TranslatedTitle>
+            <fiaf:hasTitleValue xml:lang="en">Weekly Newsreel 415</fiaf:hasTitleValue>
+         </fiaf:TranslatedTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasCountry rdf:resource="http://example.org/EFG/country/BG"/>
+      <fiaf:hasForm rdf:resource="http://example.org/EFG/form/Newsreel"/>
+      <fiaf:hasEvent>
+         <fiaf:ProductionEvent>
+            <fiaf:hasEventDate>1952</fiaf:hasEventDate>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_e3fa92bd1758393fb689f2ff386d45ff"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_affa98f368b83fd5919cbe36620512ab"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_0fca01e2cd59dffac034c851d567d494"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_6cbedda66b902aaa6f962d29a7b7243e"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_eeef4f274ef4f58643ce4a747d42741d"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:ProductionCompany>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393"/>
+               </fiaf:ProductionCompany>
+            </fiaf:hasActivity>
+         </fiaf:ProductionEvent>
+      </fiaf:hasEvent>
+      <fiaf:hasManifestation rdf:resource="http://example.org/EFG/BNFA_avManifestation_BNF010002754"/>
+   </fiaf:WorkVariant>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_e3fa92bd1758393fb689f2ff386d45ff">
+      <rdfs:label>Efremov, Boris</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_affa98f368b83fd5919cbe36620512ab">
+      <rdfs:label>Kovachev, Hristo</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152">
+      <rdfs:label>Shahov, Yanko</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482">
+      <rdfs:label>Petrov, Stefan</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_0fca01e2cd59dffac034c851d567d494">
+      <rdfs:label>Toshev, Kiril</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_6cbedda66b902aaa6f962d29a7b7243e">
+      <rdfs:label>Delchev, Mihail</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673">
+      <rdfs:label>Terziev, Tzvetan</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_eeef4f274ef4f58643ce4a747d42741d">
+      <rdfs:label>Kochev, Konstantin</rdfs:label>
+   </fiaf:Person>
+   <fiaf:CorporateBody rdf:about="http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393">
+      <rdfs:label>Studia za Hronikalni i Dokumentalni Filmi</rdfs:label>
+   </fiaf:CorporateBody>
+   <fiaf:Manifestation rdf:about="http://example.org/EFG/BNFA_avManifestation_BNF010002754">
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>BNF010002754</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">Седмичен кинопреглед 415</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasSoundCharacteristic rdf:resource="https://fiafcore.org/ontology/Sound"/>
+      <fiaf:hasColourCharacteristic rdf:resource="https://fiafcore.org/ontology/BlackAndWhite"/>
+      <fiaf:hasFormat rdf:resource="https://fiafcore.org/ontology/35mmFilm"/>
+      <fiaf:hasExtent>
+         <fiaf:Minutes>
+            <fiaf:hasExtentValue>00:10:08</fiaf:hasExtentValue>
+         </fiaf:Minutes>
+      </fiaf:hasExtent>
+      <fiaf:hasItem rdf:resource="http://example.org/EFG/BNFA_item_3YpYM-x-0S0GLUPIYghDpA"/>
+   </fiaf:Manifestation>
+   <fiaf:Item rdf:about="http://example.org/EFG/BNFA_item_3YpYM-x-0S0GLUPIYghDpA"/>
+</rdf:RDF>

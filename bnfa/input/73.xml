@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002768</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002768</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кинопреглед 427</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/Mbh4Gl04B0Y/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">300</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:14</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_fsp64Abac-OsxrEODkisjg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=Mbh4Gl04B0Y</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=Mbh4Gl04B0Y</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002768</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002768</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кинопреглед 427</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Weekly Newsreel 427</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Брянска област, СССР. Ниви с тютюн на Погарския комбинат. Отглеждане тютюн за пури под специални шатри. Комбинатът. Цех. Сортиране на листата. Машина прави пури. Кутии с пури.  // II. 21.12.1952 г. - откриване на новата Подбалканска жп линия. Гара Долно Камарци. Пристига влак. Слизат Вълко Червенков, Антон Югов. Самодивкин, секретар на ОК на БКП произнася слово. Реч на Данчо Димитров, министър на транспорта. Слово на В.Червенков. Говори миньорът Тодор Стоичков. В.Червенков прерязва лентата. Духова музика. Официални лица и гости играят хоро. Влакът на гарата в град Златица - посрещане с хляб и сол. В.Червенков сред земляците си. Пее заедно с пионери. Гара Антон. Тържествено посрещане на правителствения влак. Даряват В.Червенков с риза. Гара Копривщица. Влакът влиза в тунела "Козница". Гарата на Клисура - поднасят цветя на В.Червенков.  // III. Памукопредачна фабрика "България". Работничката депутат на трудещите се Милка Богданова говори по случай предсрочното изпълнение на петилетката /синхрон/. Тъкачката Елена Герасимова работи на стан. Работничките Василка Иванова и Недялка Йорданова на работните си места. Тържество. Хора танцуват.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Bryansk region, USSR. Tobacco fields of the Pogar plant. Growing tobacco cigars under special tents. The plant. Shop. Sorting the leaves. A machine makes cigars. Cigar boxes.  // II. December 21, 1952 - opening of the new Sub-Balkan railway line. Dolno Kamarci station. The train arrives. Valko Chervenkov and Anton Yugov get off. Samodivkin, secretary of the Regional Committee of the Bulgarian Communist Party, takes the floor. Speech by Dancho Dimitrov, Minister of Transport. Speech by V. Chervenkov. A miner, Todor Stoichkov, speaks. V. Chervenkov cuts the ribbon. Мusic. Officials and guests dance. The train at the station in the town of Zlatitsa - welcome with bread and salt. V. Chervenkov among fellow countrymen. He sings with scouts. Anton station. Solemn welcome to the government train. V. Chervenkov is given a shirt. Koprivshtitsa railway station. The train enters the Koznitsa tunnel. Klisura railway station, flowers are presented to V. Chervenkov.  // III. Cotton spinning factory "Bulgaria". Workers' MP Milka Bogdanova speaks on the occasion of the early implementation of the five-year plan. The weaver Elena Gerasimova works on a loom. Workers Vasilka Ivanova and Nedyalka Yordanova at their jobs. Celebration. People are dancing.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>транспорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1953</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_f310ea5e1e7239e46df78551840df72a</efg:identifier>
+				           <efg:name>Grigorov, Rumen</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_fa55a62b90a8e859d8a4f7f63800afc0</efg:identifier>
+				           <efg:name>Popova, Elena</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4e6021cf70c6af67aa1e557c0f253fba</efg:identifier>
+				           <efg:name>Kitanov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_eeef4f274ef4f58643ce4a747d42741d</efg:identifier>
+				           <efg:name>Kochev, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_06a9d9f5fe2373ba12a9be8b9f1d26dc</efg:identifier>
+				           <efg:name>Boyadzhiev, S.</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4750805793daecff48207dfa14f0e152</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_aad38c973bd51f14ccae76971f8ff862</efg:identifier>
+				           <efg:name>Sharlandzhiev, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_1e1ca31672d17728b566bce4ba846182</efg:identifier>
+				           <efg:name>Alurkov, Georgi</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_a989eed2c65e380eac1f69a1878dcf3f</efg:identifier>
+				           <efg:name>Rusev, Zheko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

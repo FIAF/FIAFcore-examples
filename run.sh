@@ -14,4 +14,5 @@ fi
 python3 ./bnfa/scripts/transform.py
 python3 ./bnfa/scripts/collate.py
 python3 ./bnfa/scripts/harmonise.py
+python3 ./bnfa/scripts/query.py
 

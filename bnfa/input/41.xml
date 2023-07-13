@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002378</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002378</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Отечествен кино преглед 58</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/KiUE5qmFmBU/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">306</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:48</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_ezqEzt2wTQNkqtp+YtLGCw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=KiUE5qmFmBU</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=KiUE5qmFmBU</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002378</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002378</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Отечествен кино преглед 58</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>National Newsreel 58</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Помен за Иван Вазов по повод 23 години от смъртта му. Полагане цветя пред гроба му. Присъстват: Тодор Павлов, Константин Петканов, академик Николай Державин, Димо Казасов, актрисата Надя Буюклиева.  // II. Откриване Първата национална конференция на българските писатели. Говорят: Тодор Павлов, Вълко Червенков, Димо Казасов, Иван Кинов. Присъстват: Иля Еренбург, Алексей Сурков, Иван Харизанов, албански, югославски и други делегати.  // III. Корабостроене. Корабостроителният завод във Варна. Спускане на нов танкер на вода. Аспаруховият мост /1939 г./, водолаз.  // IV. Футболен мач между отборите "Локомотив" и "Спортист" - София за държавно първенство и купата на Националния съвет на Отечествения фронт.  // V. Откриване язовир на река Бели Искър. Тържество. Говорят: Цвятко Бобошевски, Антон Югов, Бронзов. Присъстват: Венелин Ганев, Цола Драгойчева, екзарх Стефан.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Commemoration of Ivan Vazov on the 23rd anniversary of his passing. Present are: Todor Pavlov, Konstantin Petkanov, Acad. Nikolai Derzhavin, Dimo ​​Kazasov, actress Nadia Buyuklieva.  // II. Opening of the First National Conference of Bulgarian Writers. Speakers: Todor Pavlov, Valko Chervenkov, Dimo ​​Kazasov, Ivan Kinov. Present: Ilya Ehrenburg, Alexei Surkov, Ivan Harizanov, Albanian, Yugoslav and other delegates.  // III. Shipbuilding. The shipyard in Varna. Launching a new tanker. Asparuhov Bridge (1939), diver.  // IV. Football match between the teams of Lokomotiv Sofia and Sportist Sofia for the state championship. V. Discovery of a dam on the Beli Iskar River. Celebration. Speakers: Tsvyatko Boboshevski, Anton Yugov, Bronzov. Present: Venelin Ganev, Tsola Dragoycheva, exarch Stefan.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събитя</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1945</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064</efg:identifier>
+				           <efg:name>Holiolchev, Vasil</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7</efg:identifier>
+				           <efg:name>Kisiov, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_35afc43b458cd311c720efef015939f9</efg:identifier>
+				           <efg:name>Bakardzhiev, Vasil</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_13d21b33dfe451a56959ca0ff73024d0</efg:identifier>
+				           <efg:name>Hristov, Stoyan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

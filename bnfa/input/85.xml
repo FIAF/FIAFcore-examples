@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010003334</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010003334</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кинопреглед 36</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/kY1AjCgw4bg/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">284</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:02</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_D7XX9lWVAE-GZ-ufrfgQaQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=kY1AjCgw4bg</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=kY1AjCgw4bg</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010003334</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010003334</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кинопреглед 36</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 36</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Югославия. Никита Хрушчов посещава корабостроителния завод в гр. Сплит, Югославия. Пристанището. Работници приветстват. На кораб в адриатическо море. На остров Бриони - среща на Н.Хрушчов и Йосип Броз Тито, президент на Югославия. Лятната резиденция на Й.Тито - разговори между руски и сръбски официални лица. Фоторепортери снимат.  // II. Демонстрации в Южен Виетнам. Полицаи бият демонстранти. Град в ДР Виетнам: сгради, улично движение. Строеж на път. Оран с трактор. Хора носят банани. Митинг - говори Хо-Ши-Мин. Хора приветстват.  // III. У нас Тържествено откриване на Киноцентъра в Бояна край София. Официални лица. Говори Митко Григоров, член на Политбюро на ЦК на БКП. Присъстващи ръкопляскат. Заснети Георги Георгиев-Гец, актьор, Гинка Станчева, актриса, Невена Коканова, актриса, Иван Братанов, актьор, Йордан Матев, актьор, Кунка Баева, актриса, Жоржета Чакърова, актриса, Тодор Динов, режисьор. М. Григоров прерязва лентата. Официални лица на обиколка из Киноцентъра. Снимачен павилион. Операторът Димо Коларов снима сцена от филм с участието на Георги Калоянчев. Лабораторията, машини, служители. О.п. на Киноцентъра.  // IV. София. Зала "България". Награждаване дейци на културата по случай 1100 години от създаването на славянската писменост. Д-р Петър Вутов, председател на Комитета за изкуство и култура връчва награди. Георги Кулишев връчва ордени и медали на писатели, художници, актьори и кинодейци. Публиката.  // V. О.п. на Кремиковския металургичен комбинат. Първа доменна пещ. Полагане основите на втора доменна пещ. Инженер Димитър Куманов, ръководител на обекта. Изливане бетон. Камиони, строители.  // VI. Мини Перник. Рудник "Г.Димитров". Миньори от участъка на Евгени Стефанов. Укрепване на галерия, извозване на въглища с лента, изсипване във вагонетки.  // VII. Полето на с. Боерица, Софийско. Силажиране. Пионерите Желязко Александров и Ангел Александров в помощ на кооператорите - карат трактор и ремарке. Машинна резачка.  // VIII. Витоша. Туристи изкачват Черни връх. Открит лифт. Метеорологичната станция. Трибуна. Отбелязване 100 години от рождението на писателя Алеко Константинов и 68 години от първия масов излет до върха. Полагане венци пред паметната плоча.  // IX. Спорт Международни състезания по картинг край зала "Универсиада", София. Съдия, колите, български и чужди състезатели, публика. Старт. Трасето. Публика. Победителят Марти от Швейцария.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. YUGOSLAVIA. Nikita Khrushchev visits the shipyard in Split, Yugoslavia. The port. Workers welcome. On a ship in the Adriatic Sea. On the island of Brioni - meeting of Khrushchev and Josip Broz Tito, President of Yugoslavia. Tito's summer residence - talks between Russian and Serbian officials. Photojournalists are filming. // II. Demonstrations in South Vietnam. Policemen beat demonstrators. City in DR Vietnam: buildings, traffic. Road construction. Plowing with a tractor. People carry bananas. Rally - Ho Chi Minh speaks. // III. Bulgaria - Grand opening of the Cinema Center in Boyana near Sofia. Officials. Mitko Grigorov, member of the Politburo of the Central Committee of the Bulgarian Communist Party, speeks. Those present applaud. Filmed Georgi Georgiev-Getz, actor, Ginka Stancheva, actress, Nevena Kokanova, actress, Ivan Bratanov, actor, Yordan Matev, actor, Kunka Baeva, actress, Georgetta Chakarova, actress, Todor Dinov, director. M. Grigorov cuts the ribbon. Officials on a tour of the Cinema Center. Shooting pavilion. The cameraman Dimo ​​Kolarov is shooting a scene from a film starring Georgi Kaloyanchev. The laboratory, machines, employees. Wide shot of the Cinema Center.  // IV. Sofia. Bulgaria Hall. Awarding cultural figures on the occasion of 1100 years since the creation of the Slavic script. Dr. Petar Vutov, Chairman of the Arts and Culture Committee, presents awards. Georgi Kulishev presents orders and medals to writers, artists, actors and filmmakers. The audience. // V. Wide shot of the Kremikovtsi Metallurgical Plant. First blast furnace. Laying the foundations of a second blast furnace. Engineer Dimitar Kumanov, site manager. Pouring concrete. Trucks, builders. // VI. The "G. Dimitrov" mine in Pernik. Miners from the section of Evgeni Stefanov. Strengthening the gallery, transporting coal with tape, pouring into trolleys. // VII. The field of the village of Boeritsa, Sofia region. Silage. The pioneers Zhelyazko Alexandrov and Angel Alexandrov in aid of the cooperators - drive a tractor and a trailer. Machine cutter. // VIII. Vitosha. Tourists climb Cherni Vrah. Open lift. The meteorological station. Tribune. Celebrating 100 years since the birth of the writer Aleko Konstantinov and 68 years since the first mass trip to the mountain peek. Laying wreaths in front of the memorial plaque. // IX. Sports. International karting competitions near the "Universiada" Hall, Sofia. Judge, cars, Bulgarian and foreign racers, audience. Start. The route. The audience. The winner is Marty from Switzerland.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>култура</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>строителство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>туризъм</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>culture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>construction</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>tourism</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1963</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1</efg:identifier>
+				           <efg:name>Dosev, Ivan</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_5ec33988123f84c38a7bcac46944c658</efg:identifier>
+				           <efg:name>Durov, Georgi</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_286a61f2f81838482ef9dfd52d9b209b</efg:identifier>
+				           <efg:name>Efremov, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_1ca139082be77cf69687809311d5368a</efg:identifier>
+				           <efg:name>Zlatanov, Nikola</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7</efg:identifier>
+				           <efg:name>Kisiov, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_1550fceb517e4644c8bb87d97c6d8f33</efg:identifier>
+				           <efg:name>Panchev, Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_7e705d5799423f997402f26d197c15cd</efg:identifier>
+				           <efg:name>Rachev, Hristo</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

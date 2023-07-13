@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:collection>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_331b3c2fd0aee7d5eaa099234f827848</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>331b3c2fd0aee7d5eaa099234f827848</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:title lang="n/a">
+				           <efg:text>Pre-Socialist Cinema</efg:text>
+				         </efg:title>
+				         <efg:type>archival collection</efg:type>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000016</efg:identifier>
+				 <efg:title>Курортен сън</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010007288</efg:identifier>
+				 <efg:title>Една екскурзия изъ чепинското корито - българска Швейцария</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010009707</efg:identifier>
+				 <efg:title>Към майката отечество</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2747</efg:identifier>
+				 <efg:title>О, ДОБРУДЖАНСКИ КРАЙ</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2753</efg:identifier>
+				 <efg:title>ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000005</efg:identifier>
+				 <efg:title>Любовта е лудост</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2776</efg:identifier>
+				 <efg:title>ПИЙТЕ САМО ШУМЕНСКО ПИВО</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2779</efg:identifier>
+				 <efg:title>ПОЖАРНА КОМАНДА 1938г.</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN6</efg:identifier>
+				 <efg:title>ЛЮБОВТА Е ЛУДОСТ</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2715</efg:identifier>
+				 <efg:title>АТЕНТАТЪТ В "СВЕТА НЕДЕЛЯ"</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2716</efg:identifier>
+				 <efg:title>БАЛКАНСКАТА ВОЙНА 1912-1913</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2720</efg:identifier>
+				 <efg:title>БОМБИ НАД СОФИЯ</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2764</efg:identifier>
+				 <efg:title>НАШЕТО МОРЕ</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2811</efg:identifier>
+				 <efg:title>ТРЯВНА</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010007285</efg:identifier>
+				 <efg:title>Царски маневри Попово</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010007262</efg:identifier>
+				 <efg:title>Родопи и Рила</efg:title>
+				  <efg:type>Has part</efg:type>
+				 </efg:relAvCreation></efg:collection>
+				     </efg:efgEntity>

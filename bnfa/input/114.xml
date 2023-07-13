@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002764</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002764</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кинопреглед 425</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/wm-pj8CQIMQ/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">300</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:11:04</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_fWTox2bbgrftxp1qbYq4Rg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=wm-pj8CQIMQ</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=wm-pj8CQIMQ</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002764</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002764</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кинопреглед 425</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Weekly Newsreel 425</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СССР. Одеса. Пристанището. Корабът "Адмирал Ушаков" отплава. Капитанът Алексей Доценко. Екипажът. Товарене пшеница, ориз, кондензирано мляко за гладуващите в щата Мадрас, Южна Индия.  // II. Пловдив - декември 1952 г. Сградата на ОНС. Окръжно съвещание на жените звеноводки. Иван Пръмов, секретар на ОК на БКП открива. Кръстина Едрева от ТКЗС "Болшевик", с. Злати Трап чете доклад. Изказват се бригадирката Деля Мущакова, трактористката Величка Кръстева, звеноводката Фатме Танкьова, Рилка Алексиева - председател на ТКЗС, Жечка Жечева - научен сътрудник при Висшия селскостопански институт "В.Коларов", Пловдив и др. Заснети още Т. Звездов - секретар на ОК на БКП, Пловдив. Подписване призив за по-високи добиви.  // III. София. 22-ра Обща художествена изложба. Произведения на художници и скулптори. Работникът Фердо Стоименов разглежда изложбата. Заснети картини на художниците Никола Кожухаров "Залавянето на Васил Левски", Илия Петров "Септември 1923", Иван Петров "Лайпцигският процес", Методи Измирлиев "Говори Москва", Стоян Венев "Прощаване", Живка Енчева "Борба за светло бъдеще", Анастас Стайков "Ограмотяване", Владимир Йосифов "Заслужил миньор", Николай Шмиргела скулптура на Н.Й. Вапцаров, Младен Младенов композиция "Предаване на съветския опит".  // IV. В рудник "Бели бряг", Димитрово /дн. Перник/ - работа. Миньорът Милен Траянов и бригадата му. Машинистката на транспортен механизъм Атанаска Евтимова. Извозване въглища с вагонетки.  // V. Почивен дом на ЦС на БПС край Велинград. Почиващи. Божана Златанова от фабрика "Марица", Пловдив. Стаите. Процедури с минерална вода, кухнята, столова, терасата.  // VI. София. Площадът пред Народното събрание и паметника на Цар Освободител. Младежка щафета на мира. Старт в София и други градове и села. Русе. Предаване щафетата на румънски младежи. Кораб по река Дунав.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. USSR. Odessa. The harbor. The ship "Admiral Ushakov" sails away. Captain Alexei Dotsenko. The crew. Loading wheat, rice, condensed milk for the starving in the state of Madras, South India.  // II. Plovdiv, December 1952. The building of the Ordinary National Assembly. District meeting of women leaders. Ivan Pramov, secretary of the Regional Committee of the Bulgarian Communist Party, opens. Krastina Edreva from the "Bolshevik" cooperative farm in the village of Zlati Trap reads a report. The following take the floor: foreman Delya Mushtakova, tractor driver Velichka Krasteva, leader Fatme Tankyova, Rilka Aleksieva - chairman of the cooperative, Zhechka Zhecheva - research associate at the Agrarian University in Plovdiv, and others. Also filmed, T. Zvezdov, Secretary of the Regional Committee of the Bulgarian Communist Party, Plovdiv. Signing a call for higher yields.  // III. Sofia. 22nd General Art Exhibition. Works by artists and sculptors. Worker Ferdo Stoimenov looks at the exhibition. The paintings "The Capture of Vasil Levski" by Nikola Kozhuharov, "September 1923" by Iliya Petrov, "The Leipzig Trial" by Ivan Petrov, "Moscow Speaks" by Metodi Izmirliev, "Farewell" by Stoyan Venev, "Fight for a Bright Future" by Zhivka Encheva, "Literacy" by Anastas Staykov, "Deserved Miner" by Vladimir Yosifov, Nikolai Shmirgela's sculpture of Nikola Vaptsarov, etc.  // IV. "Beli Bryag" mine, Dimitrovo (present-day Pernik). The miner Milen Trayanov and his brigade. The driver of the transport mechanism Atanaska Evtimova. Transportation of coal by trolleys.  // V. Holiday home of the Central Council of the Bulgarian Professional Unions (now Confederation of Independent Trade Unions of Bulgaria) near Velingrad. Vacationers. Bozhana Zlatanova from the "Maritsa" factory, Plovdiv. The rooms. Procedures with mineral water, kitchen, dining room, terrace.  // VI. Sofia. The square in front of the National Assembly and the monument to Tsar Osvoboditel. Youth relay race of peace. Start in Sofia and other towns and villages. Ruse. Passing the baton to Romanian youth. Ship on the Danube.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1952</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_f310ea5e1e7239e46df78551840df72a</efg:identifier>
+				           <efg:name>Grigorov, Rumen</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_1f9ad986cdbddda339a7aa284b70a494</efg:identifier>
+				           <efg:name>Alurkov, Georgi</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4750805793daecff48207dfa14f0e152</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_0fca01e2cd59dffac034c851d567d494</efg:identifier>
+				           <efg:name>Toshev, Kiril</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_286a61f2f81838482ef9dfd52d9b209b</efg:identifier>
+				           <efg:name>Efremov, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

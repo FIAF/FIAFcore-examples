@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_27606</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>27606</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ПРЕГЛЕДЪ 18</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/z99rb2b9u4e98vo/BNFA_27606.jpg?raw=1</efg:thumbnail>
+				           <efg:language usage="Audio">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:05:00</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_I4ObBnmh90LZTSaed+ZE2A</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/480548209</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_27606</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>27606</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ПРЕГЛЕДЪ 18</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>NEWSREEL 18</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Intertitles">"I. София. Площад ""Ал. Невски"". Честване на народните будители. Молебен. Присъстват министрите Богдан Филов. Хор на ученици пее. Манифестация на ученици, младежи от организация ""Бранник"".   // II. София. Футболен мач на стадион ""Юнак"" между отбори от Берлин и София. Присъстват германския пълномощен министър Адолф Бекерле, министрите Иван Горанов, Петър Габровски. Отборите на терена. Публиката. Играта.   // III. Група испански журналисти посещават София на връщане от Източния фронт. Гара София - посрещане. // Присъстват на Празника на народните будители на площад ""Ал. Невски"".   // IV. Финансовият министър на Германия - Йохан Людвиг Шверин фон Крозиг в // София. Ръкува се с министър Добри Божилов."</efg:description>
+				         <efg:description lang="EN" type="Intertitles">"I. Sofia. ""Alexander Nevsky"" square. Celebrating the day of Bulgarian scholars and enlighteners. A public prayer. Prime Minister Bogdan Filov is present. A student choir sings. Manifestation of students and youth members of the fascist ""Brannik"" organisation.  // II. Sofia. Football game at the ""Yunak"" stadium between the teams of Berlin and Sofia. Present are German Plenipotentiary Minister Adolf  Beckerle, Ministers Ivan Goranov and Petar Grabrovsky.  // III. A group of Spanish journalists visit Sofia on their way back from the Eastern front. Sofia train station - welcoming of the journalists. They are present at the celebration at the ""Alexander Nevsky"" square. // IV. German Minister of Finance - Johann Ludwig von Krosigk visits Sofia. He shakes hands with Minister Dobri Bozhilov. "</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sports</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>social and political events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1941</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

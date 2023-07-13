@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010003336</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010003336</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кино преглед No 38</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/QT6Qy-ffcnw/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">278</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:07</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_XpBEyGwhMBqmH3vaOIFLnQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=QT6Qy-ffcnw</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=QT6Qy-ffcnw</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010003336</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010003336</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кино преглед No 38</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel No 38</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. ПО СВЕТА. Куба, столицата Хавана. Митинг по случай 10 години от Народното въоръжено въстание под ръководството на Фидел Кастро. Говори Ф. Кастро. Сред официалните лица - Ернесто Че Гевара. Хора със знамена пеят.  // II. Вашингтон, САЩ. Митинг на афроамирканци пред паметника на президента Ейбрахам Линкълн. Говори Мартин Лутър Кинг, водач на Афроамериканското движение за граждански права. Президентът Джон Кенеди разговаря с представители на движението. Полицаи бият и арестуват афроамирканци на улица. Демонстрация - афроамерканци носят плакати.  // III. У нас. Панорама на гр. Мъглиж. Знамето на въстаниците от 1923 г. Митинг по повод 40 години от обявяването на Септемврийското въстание. Трибуна, говори политическият ръководител на въстанието Кръстю Марков. Слово на Тодор Живков. Хора ръкопляскат.  // IV. Зала Универсиада, София. Среща със съветските космонавти Валентина Терешкова и Валери Биковски. Публика аплодира. Оператор с камера снима. Говори В. Терешкова, В. Биковски. Хора аплодират. Поднасят им подаръци. Изпращане на аерогара София. Поднасят им цветя. Двамата приветстват от стълбата на самолета. Сред изпращачите Цола Драгойчева, генерал Иван Михайлов, д-р Мара Малеева - Живкова. Самолет на пистата.  // V. Сградата на завода за електроапаратура край Пловдив. Производство - цех, машини, работници. Бояджийският цех. Готова продукция. // VI. Лозята на ТКЗС "Нов живот", с. Брестовица, Пловдивдско. Девойки берат грозде сорт "Болгар". Слагат грозде в щайги. // VII. Културен живот София. Откриване II-ра национална фотоизложба. Слово произнася д-р Петър Вутов, председател на Комитета по култура и изкуство. Граждани разглеждат фотоси.  // VIII. София. Зала "България". Концерт на Българската филхармония. Диригент Добрин Петков. Оператор с камера. Публика. Николай Гяуров изпълнява ария на Галицки от операта "Княз Игор" на Бородин /синхрон/. Публиката.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Cuba, capital of Havana. Rally on the 10th anniversary of the Cuban revolution. Fidel Castro speaks. Among the officials - Ernesto "Che" Guevara.  // II. Washington, D.C., USA. Rally of African Americans in front of Abraham Lincoln's monument. Martin Luther King Jr speaks. President John F. Kennedy speaks with members of the civil rights movement. Police officers beat and arrest African Americans on the street. Demonstration.  // III. View of the town of Maglizh. Rally commemorating the 40th anniversary of the September Uprising. The political leader of the uprising, Krastyo Markov, speaks. Speech by Todor Zhivkov.  // IV. Universiada Hall, Sofia. Meeting with Soviet comsmonauts Valentina Tereshkova and Valery Bikovsky. They speak. Send-off at Sofia Airport. Tsola Dragoycheva, Gen. Ivan Mihailov, Mara Maleeva-Zhivkova are present. V. Factory for electrical equipment near Plovdiv. Manufacturing.  // VI. Vineyards of the "New Life" Cooperative farm in the village of Berkovitsa, region of Plovdiv.  // VII. Cultural life in Sofia. Opening of 2nd National Photo Exhibition..  // VIII. Sofia. Bulgaria Hall. Concert of the Bulgarian Philharmonic. Nicolai Gyaurov in the role of Galitsky from "Prince Igor" by Borodin.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1963</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1</efg:identifier>
+				           <efg:name>Dosev, Ivan</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_e73e4ad4989af4e01db376b667cd3867</efg:identifier>
+				           <efg:name>Kitanov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_f570604355fa5f6b0fe432be70445589</efg:identifier>
+				           <efg:name>Petrov, Stefa</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_1550fceb517e4644c8bb87d97c6d8f33</efg:identifier>
+				           <efg:name>Panchev, Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_9087f201995679e1c5c638eb29a8e673</efg:identifier>
+				           <efg:name>Terziev, Tzvetan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_0ce09f99b5b1671fd29afe75edfb12ff</efg:identifier>
+				           <efg:name>Konev, Ivan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_dd2bc03247a59f461f3e48247b549735</efg:identifier>
+				           <efg:name>Bosev, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_6157edf0a6d8752ac9b7b684a72d322d</efg:identifier>
+				           <efg:name>Bidzheranov, Sami</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_1ca139082be77cf69687809311d5368a</efg:identifier>
+				           <efg:name>Zlatanov, Nikola</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_7e705d5799423f997402f26d197c15cd</efg:identifier>
+				           <efg:name>Rachev, Hristo</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_8bc89f4cf5f67be8abbbe37b985deb66</efg:identifier>
+				           <efg:name>Tzonev, Ivan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010000016</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010000016</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Курортен сън</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/tDzcXcrGoio/hqdefault.jpg</efg:thumbnail>
+				           <efg:language usage="Intertitles">bg</efg:language>
+				           <efg:language usage="Subtitles">en</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="false">Without sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">450</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:20:25</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_hhLHGp1Zp5V7dA5ij0wJWA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=tDzcXcrGoio</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=tDzcXcrGoio</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010000016</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010000016</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Курортен сън</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>A Holiday Dream</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">Режисьор: Панайот Кенков // В ролите: Петя Попова, Катя Русевска, Петър Николов,  // Панайот Кенков, Мара Андреева, Христо Аджиев, Христо Загоров //  // Синопсис: // Младият рентиер Жежи живее самотно в своето имение, далеч от шумния град. Ежедневието му е нарушено от писмо, получено от Варна. Братовчедка му го кани да летува на крайбрежието. Жежи се унася в мечти за предстоящите приключения, заспива и сънува своя курортен сън...</efg:description>
+				         <efg:description lang="EN" type="Synopsis">Directed by: Panayot Kenkov // Cast: Petya Popova, Katya Rusevska, Petar Nikolov, Panayot Kenkov, Mara Andreeva, Hristo Adzhiev, Hristo Zagorov //  // Synopsis:  // The young rentier Zhezhi leads a secluded life on his estate, away from the bustle of the city. His daily routine is interrupted by the arrival of a letter form Varna: his cousin invites him to spend the summer ar the seaside. Zhezhi is lost in a reverie about his future adventures, falls asleep, and has his holiday dream…</efg:description>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Short film</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1926</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_7f800e712e17ea7f4f6b1a16fb15a59a</efg:identifier>
+				           <efg:name>Kenkov, Panayot</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_0374bcd1c118e5ddcf025c9494ca9363</efg:identifier>
+				           <efg:name>Genov, Lyubomir</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_99b5b17e1dbbfaf2d15fb6bfe8fc68e0</efg:identifier>
+				           <efg:name>Kenkov, Panayot</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_9e0c7dc0ff83ece1049092ee0f6da36b</efg:identifier>
+				           <efg:name>Filmova Laboratoria KENKOV-FILM, Varna</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_331b3c2fd0aee7d5eaa099234f827848</efg:identifier>
+				           <efg:title>Pre-Socialist Cinema</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

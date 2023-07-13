@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_27612</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>27612</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ПРЕГЛЕДЪ 24</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/e4sq2aw9xvry9sl/BNFA_27612.jpg?raw=1</efg:thumbnail>
+				           <efg:language usage="Audio">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:09:09</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_o241HuhRmlQwfHSWR8McSw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/480568246</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_27612</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>27612</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ПРЕГЛЕДЪ 24</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>NEWSREEL 24</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Intertitles">"I. София. Новият японски пълномощен министър Акира Ямаджи пристига на аудиенция при Цар Борис III.  // II. По пътя между Драма и Кавала. Развалини на град Филипи. Мъже разглеждат // развалините. Стена, арка, колона, фриз. Останки от християнска   базилика от 6 век. Колона с надпис на латински. Развалини от римски храм и форум. // III. Дневен детски дом в село Надежда, Софийско. Деца влизат в сградата, обличат престилки, играят, хранят се, спят. Деца напускат сградата, изпращани от учителката.   // IV. Беломорието. Риболовна станция край Порто Лаго. Лов на риба. Рибари пускат // мрежа от лодка. Изтеглят мрежата на брега. Изваждане на рибата. Пълнене на // сандъци с риба.  Извозване сандъците с вагонетка.   // V. Тиролска танцова група ""Тобиас Райзер"" гостува в България. Изпълнителите слизат от автобус. Танцуват на площад в село Горна баня. Оркестранти свирят. Селяни на площада."</efg:description>
+				         <efg:description lang="EN" type="Intertitles">"I. Sofia. The new Japanese Plenipotentiary Minister Akira Yamaji arrives for an audience with King Boris III. // II. The ruins of the ancient town of Philippi. Remains of Christian basilica from 6th century AD. Ruins of a Roman temple and forum. // III. Kindergarten in the village of Nadezhda, near Sofia. Children enter the building, put on aprons. They play, eat and sleep. The children leave the building, escorted by the teacher. // IV. Western Thrace. Fishing station near Porto Lago. Fishermen throw nets in the water. They pull the nets to the shore and load the fish in chests, then load the chests on  a trolley. // V.  Tyrolean dance ensemble ""Tobias Reiser"" visits Bulgaria. They dance at the square of Gorna Banya village."</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>археология, култура</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>образование</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>social and political events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>archaeology</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>culture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>education</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1941</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

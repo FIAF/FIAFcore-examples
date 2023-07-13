@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:person>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>92b296f9153a6f3249a8a3dfc09ba1e7</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:name type="PN">Konstantin</efg:name>
+				         <efg:name type="PN">Kisiov</efg:name>
+				         <efg:typeOfActivity>Director of photography</efg:typeOfActivity>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002378</efg:identifier>
+				 <efg:title>Отечествен кино преглед 58</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002479</efg:identifier>
+				 <efg:title>Седмичен кино преглед 151</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002503</efg:identifier>
+				 <efg:title>Седмичен кино преглед 168</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002679</efg:identifier>
+				 <efg:title>Кинопреглед 340</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003334</efg:identifier>
+				 <efg:title>Кинопреглед 36</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation></efg:person>
+				     </efg:efgEntity>

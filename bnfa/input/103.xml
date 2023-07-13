@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010000617</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010000617</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Прегледъ 103</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/UPn5h231z1c/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">288</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:08</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_Deh8tfHMWnjpyHuEzyCEGw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=UPn5h231z1c</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=UPn5h231z1c</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010000617</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010000617</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Прегледъ 103</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 103</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Сапунена фабрика "Чилов". Цех, машини, работници. Производство. Готов сапун. Товарене каси със сапун във вагон. Товарен влак потегля.  // II. София. Стадион "Юнак" Футболен мач между отборите "Левски", София и "Македония", Скопие. Публиката. Играта. Публика ръкопляска. Победа за "Левски" с 2:0.  // III. Гр. София. Статуята на лъва с паметна плоча край паметника на загиналите за България край казармите на 1-ви и 6-ти пехотен полк. Новият италиански пълномощен министър в България Франческо Манели полага венец. Почетна рота. Ф. Манели посещава италианското военно гробище край София. Почетна рота.  // IV. Италия. Град Палермо – разрушени катедрали при американските бомбардировките по време на Втората световна война, Домът на майката и детето – разрушени стаи. Пострадала сграда на едно основно училище. Гр. Каляри на остров Сардиния- разрушеният купол на катедрала. Статуи на светци. Жени се молят.  // V. Гр. София – къщи, деца играят на улица. Строеж на нови работнически жилища край Захарна фабрика. Строители, дървени греди, каменинови тръби. Панорама на строежа. Нови улици, нови къщи. Завършени жилищни постройки. Панорама на квартала.  // VI. Поляни, овчари със стадо, високопланинска кошара. Доене на овце. Сградата на кооперативна мандра "Козница". Овчари носят мляко, изсипват го в голям котел. Ветеринар проверява качеството на млякото. Проврка качеството на кашкавал. Пити кашкавал на рафтове.  // VII. С. Банкя. Концерт на възпитаници на ШЗО пред свои близки и местно население на открито. Изпълнение на войнишки хор. Войници изпълняват гимнастически упражнения. Деца гледат. Клоуни с магарета. Деца гледат. Публика. Войници изпълняват ориенталски танц, балет.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Soap factory "Chilov". Workshop, machines, workers. Production. Loading crates with soap in a wagon. A freight train leaves.  // II. Sofia. Yunak Stadium Football match between Levski (Sofia) and Macedonia (Skopje). The audience. The game. Victory for Levski with 2:0.  // III. Sofia. The statue of the lion with a memorial plaque near the monument to those killed fighting for Bulgaria near the barracks of the 1st and 6th Infantry Regiments. The new Italian Minister Plenipotentiary in Bulgaria Francesco Manelli lays a wreath. Honorary company. F. Manelli visits the Italian military cemetery near Sofia. Honorary company.  // IV. Palermo, Italy. Destroyed cathedrals by American bombing during World War II. Damaged building of a primary school. Cagliari. The ruined dome of the cathedral. Statues of saints. Women pray.  // V. Sofia. Houses, children playing on the street. Construction of new workers' homes near Zaharna fabrika (neighbourhood). Builders, wooden beams, stoneware pipes. View of the construction site. New streets, new houses. Completed residential buildings. View of the neighbourhood.  // VI. Meadows, shepherds, high mountain barn. The building of the cooperative dairy "Koznitsa". Shepherds bring milk, pour it into a large cauldron. A veterinarian checks the quality of the milk. Then checks the quality of the yellow cheese. Shelves with yellow cheese.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>строителство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1943</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

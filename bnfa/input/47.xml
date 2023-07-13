@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002416</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002416</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кинопреглед 25</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/gtLCVVhnzBA/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">282</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:09:34</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_474XCEwfqirEZplb7oxayA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=gtLCVVhnzBA</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=gtLCVVhnzBA</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002416</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002416</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кинопреглед 25</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 25</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Летят самолети. Аерогара София. Посрещането на първия космонавт Юрий Гагарин. Сред официалните лица са Тодор Живков, Антон Югов, Димитър Ганев. Фоторепортери снимат. Поднасят цветя на космонавта. Хора приветстват. Говорят Т. Живков /синхрон/ и Ю. Гагарин /синхрон/. Фоторепортери снимат. Ескортът по бул. "Руски". Хора по тротоарите и по покриви на автобуси. Ю. Гагарин и Т. Живков в открита кола. Автомобилът минава през Орлов мост, край Народното събрание, през площад "9 септември". Хора на площада. Космонавтът на посещение в училище "Ю. Гагарин".  // II. София. Площад "9 септември". Манифестацията по повод 24 май - Ден на славянската писменост и българската просвета и култура. Пионери поднасят цветя на официалните лица на трибуната на Мавзолея "Г. Димитров". Сред тях - Тодор Живков, генерал Добри Джуров, Антон Югов, космонавтът Юрий Гагарин.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Planes flying. Sofia Airport. Welcoming the first cosmonaut Yuri Gagarin. Among the officials are Todor Zhivkov, Anton Yugov, Dimitar Ganev. Todor Zhivkov and Yuri Gagarin speak. The escort on Ruski Blvd. People on sidewalks and on the roofs of buses. The car passes through Eagles Bridge, the National Assembly, and September 9 Square. Gagarin visits a school named after him.  // II. Sofia. September 9 Square. An event on the occasion of May 24. Todor Zhivkov, Gen. Dobri Djurov, Anton Yugov, and Yuri Gagarin are present.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1961</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_d91d8143203d7d152ec8a766466665ac</efg:identifier>
+				           <efg:name>Tosheva, Nevena</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_e73e4ad4989af4e01db376b667cd3867</efg:identifier>
+				           <efg:name>Kitanov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_aad38c973bd51f14ccae76971f8ff862</efg:identifier>
+				           <efg:name>Sharlandzhiev, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_affa98f368b83fd5919cbe36620512ab</efg:identifier>
+				           <efg:name>Kovachev, Hristo</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_286a61f2f81838482ef9dfd52d9b209b</efg:identifier>
+				           <efg:name>Efremov, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_a989eed2c65e380eac1f69a1878dcf3f</efg:identifier>
+				           <efg:name>Rusev, Zheko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_9087f201995679e1c5c638eb29a8e673</efg:identifier>
+				           <efg:name>Terziev, Tzvetan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_854da722edce02af7c123e7288bff7de</efg:identifier>
+				           <efg:name>Butzev, Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

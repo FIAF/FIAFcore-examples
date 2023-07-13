@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_27833</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>27833</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ПРЕГЛЕДЪ 2</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/buvg2962y29spp4/BNFA_27833.jpg?raw=1</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="false">Without sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:09:25</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_ZHYPta-KTaumjLhbt3lfFg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/480560741</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_27833</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>27833</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ПРЕГЛЕДЪ 2</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>NEWSREEL 2</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Intertitles">"I. Хора със знамена и плакати, портрети на цар Борис III и Адолф Хитлер на площада пред  храм-паметник ""Ал. Невски"". Жени в национални носии, войници. Хора в едноминутно мълчание на площада. Девойки в народни носии полагат венец пред паметници. // II. Шествие на граждани край Народното събрание и паметника на Цар Освободител. Хора със знамена, български и фашистки, портрети на Цар Борис III и А. Хитлер пред Двореца. Шествието продължава по булевард ""Цар Освободител"", край Военния клуб, край Двореца. Цар Борис III се ръкува с хора от шествието. Поздравява минаващи хора. // III. Войници с кирки разбиват граничен камък. Табела с надпис България (на латиница), монтирана на железни тръби и българското знаме. Жп линия. Гара. Планина. Бункер. Телена ограда. Селище, река. Заграждения. Хора навиват телена мрежа. // IV. Полуразрушени сгради, счупени врати и прозорци, хора разчистват развалини. Войник свързва жици на електрически стълб. Влак минава през границата. // V. Войник изписва надпис върху стена - ""Сава Г.Милошев"". Надписи върху къщи: ""Петър Бонев Хлебар"", ""М.Рангелов Платнар"". На улица хора се ръкуват и прегръщат. Войници раздават знаменца на хора. Надпис върху ограда ""Царибродско общ. управление"". Хора пренасят пакети в общината. Площадът - оратор говори. Хора приветстват. Войници раздават вестници от камион. Панорама на селище. Древна постройка. Войници край гроба на немски военен, загинал на 08.04.41 г "</efg:description>
+				         <efg:description lang="EN" type="Intertitles">"I. People at the square in front of the ""Alexander Nevsky"" cathedral, holding flags and signs, portraits of King Boris III and Adolf Hitler. Girls in traditional dress lay a wreath in front of a monument. // II. A citizen procession near the Grand Assembly building and the ""King Liberator"" monument. People holding bulgarian and fascist flags, portraits of King Boris III and Hitler. The procession continues down the boulevard. King Boris III greets the procession. // III. Soldiers with pickaxes breaking a border rock. A sign reading ""Bulgarie"" in latin alphabet. A railway track. A train station. A bunker. Barbed wire. // IV. Half-demolished buildings, broken doors and windows, people clearing up debris. A soldier connects the wires on an electrical power pole. A train crosses the border. // V. Tzaribrod (Dimitrovgrad, Serbia) A soldier writes ""Sava G. Miloshev"" on a wall. Signs painted on houses: ""Petar Bonev - baker"", ""M. Rangelov - cloth maker"". People on the street are hugging and shaking hands. Soldiers giving away bulgarian flags. A sign on a fence reading ""municipal government Tzaribrod"". People bringing parcels in the municipality building. A man holding a speech at the town square. Soldiers giving away newspapers from a truck. Panorama of the town. Ancient ruins. Soldiers gathered at the grave of a German officer. "</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>social and political events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1941</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

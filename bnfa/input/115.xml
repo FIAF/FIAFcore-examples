@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010003901</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010003901</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кинопреглед 28</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/mcGZCfwcqNs/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">288</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:07</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_JeankfWWpyQn22124B1RFw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=mcGZCfwcqNs</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=mcGZCfwcqNs</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010003901</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010003901</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кинопреглед 28</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 28</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Сградата на АЕЦ Козлодуй. Панорама на комплекса. Първият реактор на АЕЦ в действие. Командното табло - специалисти следят показания на измервателни уреди. Мъж работи на команден пулт. Строеж на централата - скеле, изливане на бетон, монтиране на машини, командна зала, трансформатори.  // II. Полето на АПК, с. Катуница, Пловдивско - жътва с комбайни. Изсипване зърно на купчина. Поливане царевични насаждения с машина. Оран в овощна градина. Механизирано пръскане на домати. Жени берат домати. Товарене щайги с домати в камион. Консервният комбинат "Марица", гр. Пазарджик. Поточна линия за измиване на плодове. Машини. Конвейр - пълнене бутилки със сок, затваряне на буркани с компоти и конфитюри. Готова продукция.  // III. Сатира. Заседание на ръководството на Силнотоковия завод "В.Коларов", Центърът за научноизследователска и развойна дейност към ДСО "Металолеене" и представители на Държавния контрол за неуспешната реконструкция на леярния цех на завода и загубите. Цех - работници бездействат. Изливане на мател във форми. Говорят представители на завода. Работа в цеха. Поточна линия. до7,15мин IV. София. Изложба на чехословашки ловни трофеи. Зала - откриването.Мъж говори. Хора разглеждат експонати. Ловни оръжия.  // V. СССР. Ученичката Вера Андрияшева изработва фигурка на кон от дърво. Рисува кученце. Рисунки на коне, птички, елени. Деца разглеждат нейни скулптурни фигури.  // VI. Нидерландия. Зоопаркът "Хил Варен Бек". Маймуни, антилопи, носорози, щрауси, лъвове се разхождат сред автомобили с туристи. Стадо лъвове се храни.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. The Kozloduy NPP building. View of the complex. The first reactor in operation. Construction of the plant - scaffolding, couring of concrete, installation of machines, etc.  // II. The field of a cooperative farm in the village of Katunitsa, region of Plovdiv - harvest with combines. Pouring grain into a pile. Watering corn plants with a machine. Plowing in an orchard. Mechanized spraying of tomatoes. Women pick tomatoes. Loading crates of tomatoes in a truck. Activities in the "Maritsa" cannery in Pazardzhik.  // III. Meeting of the management of the "V. Kolarov" High Current Plant. Center for Research and Development of a metalcasting state organization. Representatives of the State Control for the unsuccessful reconstruction of the foundry of the plant and the losses. Workers are inactive. Pouring of metal into molds. Representatives of the plant speak.  // IV. Sofia. Exhibition of Czechoslovak hunting trophies. A man speaks. People look at exhibits. Hunting weapons.  // V. USSR. The student Vera Andriyasheva makes a horse figurine from wood. She draws a puppy. Drawings of horses, birts, deer. Children look at her sculptures.  // VI. Netherlands. Zoo. Monkeys, antelopes, rhinos, ostriches, lions walk among cars with tourists. A pride of lions feeds.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>сатира</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>природа</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>satire</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>nature</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1974</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1</efg:identifier>
+				           <efg:name>Dosev, Ivan</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_6f390c3566245f2714c793d2c6a5afb1</efg:identifier>
+				           <efg:name>Hristov, Valentin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_0ce09f99b5b1671fd29afe75edfb12ff</efg:identifier>
+				           <efg:name>Konev, Ivan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_b0db481299f7fb82f3d8e4ea968bc9d6</efg:identifier>
+				           <efg:name>Tzvetkov, Lyubomir</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_dfbb973b721157fb9bc9bd2b367f4132</efg:identifier>
+				           <efg:name>Radkov, Ivan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_626a688a8cb378bcf625d5cbb39d724c</efg:identifier>
+				           <efg:name>Komitet za Televizia i Radio; Studia za Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

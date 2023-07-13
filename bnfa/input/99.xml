@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010007285</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010007285</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Царски маневри Попово</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/MZdViDy9SXg/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">1632</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:54:38</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_8Com2povQ62Pf+iqsw5-1w</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=MZdViDy9SXg</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=MZdViDy9SXg</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010007285</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010007285</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Царски маневри Попово</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Royal military manouvers in Popovo</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">Карта на гр. Попово и околностите. Кадри от самолет на града, път, равнинна местност, хълм. Карта на селища около гр. Попово. Щаб – военни преглеждат карти и документи. Кавалеристи разнасят разпореждания по поделенията. Войник предава писмо на офицер. Придвижване на конница и бойна техника. Карта с позициите на войсковите части и придвижването им. О.п. на бойното поле. Висш военен наблюдава с бинокъл. Пехота и конница. Артилерийска и картечарска част. Свързочник. Самолет лети. Оръдия стрелят. Висши военни разглеждат карта. Разузнавачи. Артилерийска част. Прелитат самолети. Радисти. Карта на бойните действия. Картечар стреля. Оръдейна стрелба. Наблюдателното място на главното ръководство. Висши военни в открити коли. Заемат места за наблюдение. Цар Борис ІІІ на кон. Следи бойните действия. Войници се придвижват. Ученички с цветя. Цар Борис ІІІ пристига в открита кола на площад. Говори с цивилни. Върви по улица, приветстван от граждани. Влиза в сграда, придружен от висши военни. Висш духовник благославя военни. Хора приветстват официални лица. Царицата поздравява министри, генерали. Висш духовник извършва богослужение, присъстват царят и царицата. Войници носят бойни знамена. Царят и царицата целуват кръст. Продължава богослужението. Цар Борис ІІІ предава нови знамена на войскови части. Слово на царя.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">Map of the town of Popovo and its surroundings. Footage of the town shit from a plane, road, plain, hill. Map of villages around Popovo. Headquarters – military personnel review maps and documents. Cavalrymen deliver orders to the divisions. A soldier hands a letter to an officer. Movement of cavalry and military equipment. Map with the positions of the military units and their movement. Wide shot of the battlefield. Senior military observer with binoculars. Infantry and cavalry. Artillery and machine gun divisions. Connector. The plane is flying. Cannons shoot. Senior military looking at map. Scouts. Artillery unit. Planes fly by. Radio operators. Map of the fighting. A gunner fires. Cannon shooting. The observation post of the main management. Senior military in open cars. Occupy observation posts. Tsar Boris III on horseback. He Follows the fighting. Soldiers are moving. Schoolgirls with flowers. Tsar Boris III arrives in an open car on the square. Talks to civilians. Walks down the street, greeted by citizens. He enters a building accompanied by senior military officials. Senior clergyman blesses military. People greet officials. The queen greets ministers, generals. A high clergyman performs worship, the king and queen are present. Soldiers carry battle flags. The king and queen kiss the cross. Worship continues. Tsar Boris III handed over new flags to troops. A word from the king.</efg:description>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Documentary film</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1937</efg:productionYear>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_331b3c2fd0aee7d5eaa099234f827848</efg:identifier>
+				           <efg:title>Pre-Socialist Cinema</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002430</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002430</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Отечествен кинопреглед 107</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/1XIro1i_DuE/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">339</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:11:51</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_MHiurk4WAWtSXdvocFWuFA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=1XIro1i_DuE</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=1XIro1i_DuE</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002430</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002430</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Отечествен кинопреглед 107</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>National Newsreel 107</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Съгласни ли сте, че ... Първият автомобил у нас. Лека кола се движи по шосе. Фотоси от стара София. Улично движение край Лъвов мост. Селянин с волска каруца. Самолет лети. Селяни орат с волове и рало, оран с трактори. Стар и съвременен локомотив. Влак минава по мост. Статуята на Република България. Митинг на площад "9 септември" по повод изборите. Говори Кимон Георгиев, министър председател. В провинцията на митинг говори Антон Югов, министър на вътрешните работи, хора слушат. Корицата на Конституцията на царство България. Пристигане на дипломати с каляска пред Двореца в София. Военни край оградата на Двореца. Деца играят на улица. Селско семейство се храни на нивата. Селянин оре с волове. Страница от Търновската конституция. Адолф Хитлер и цар Борис III във вилата Бергхоф край Берхтесгаден, Алпите. Бомбардировки и разрушения в София по време на Втората световна война. Шествие в София на 9 септември 1944 г. Посрещане на Александър Пипонков - Чапай и партизани в Белово. Посрещане части на Червената армия. Манифестация в София пред Народното събрание. Присъстват: Георги Димитров, Трайчо Костов, Кимон Георгиев, Александър Оббов. Гласуване в изборни бюра. Страници от Търновската конституция. Откриване паметник на загинал антифашист. Георги Димитров сред народа, качва се в лека кола. Служители в поща, в печатница, отпечатване на вестник. Книги и списания. Миньори, далекопровод, ВЕЦ, работници в завод. Локомотиво-вагонният завод, корабостроителница, предачна фабрика, фабрика за гвоздеи и подкови, за консерви. Тракторна оран, жътва със сноповръзвачки. Предаване зърнодоставки. Трудоваци строят канал. Нива с царевица. Взривяване на скали, бригадири строят път. Младежи извозват дървени трупи. Строеж на шосе. Влак минава през тунел. Камион и лек автомобил се движат по шосе. Строеж на жилища в София. Трамвай се движи по улица. Жилищни сгради. Бебе в кошче, жена с детето си при лекарка. Работнически стол - хора се хранят. Пионерски лагер, състезания по плуване. Деца играят. Деца се къпят в Черно море.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Do you agree that... The first automobile in our country. A car driving on a road. Photos from old Sofia. Street traffic at Lions' Bridge. A peasant with an ox cart. A plane flying. Peasants plow. Old and modern locomotive. A train crosses a bridge. The statue of the Republic of Bulgaria. Rally on "September 9 Square" for the elections. Kimon Georgiev, Prime Minister of Bulgaria, speaks. Anton Yugov, Minister of Interior, speaks at a rally in the countryside. The cover of the Constitution of the Kingdom of Bulgaria. Children play on the street. A rural family eats on the fields. A peasant plows with oxen. Page from the Tarnovo Constitution. Adolf Hitler and Tsar Boris III at Berghof. Bombing and destruction in Sofia during World War II. Procession in Sofia on September 9, 1944. Welcoming of Alexander Piponkov-Chapay and partisans in Belovo. Welcoming units of the Red Army. Demonstration in Sofia in front of the National Assembly. Present are: Georgi Dimitrov, Traicho Kostov, Kimon Georgiev, Alexander Obbov. Voting at polling stations. Pages from the Tarnovo Constitution. Unveiling of a monument to a fallen anti-fascist. Georgi Dimitrov among the people, gets in a car. Employees at the post office, printing house, printing a newspaper. Books and magazines. Miners, transmission line, hydroelectric power plant, factory workers. The locomotive-wagon factory, shipyard, spinning factory, factory for nails and horseshoes, factory for cans. Workers are building a canal. Corn fields. Blowing up rocks, foremen building a road. Young people transport logs. Road construction. A train passes through a tunnel. A truck and a car are driving on the road. Home construction in Sofia. A tram rides down the street. Residential buildings. Baby in a basket, a woman with her child at the doctor. Work chair - people eat. Children's camp, swimming competitions. Children play. Children bathe in the Black Sea.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>строителство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>construction</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1946</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

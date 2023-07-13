@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_21708</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>21708</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ПРЕГЛЕДЪ 114</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/oxdb6isw2he5u3y/BNFA_21708.jpg?raw=1</efg:thumbnail>
+				           <efg:language usage="Audio">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:38</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_ayxfUjELboE4OfPD6JiMmQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/480627930</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_21708</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>21708</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ПРЕГЛЕДЪ 114</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>NEWSREEL 114</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Intertitles">"I. София. Игрище ""Юнак"". Пистови мотоциклетни състезания. Димитър Соколов и Цоньо Ангелов на финалната обиколка. Победител - Димитър Соколов. // II. Лятната къпалня """"Мария-Луиза"""", София. Състезания по плуване за държавно първенство. Състезателите. Димитър Андреев, председател на Българския плувен съюз говори. Свободен стил -мъже. Публика, съдии. Свободен стил - жени. Победа за клуб ""АС23"". Скокове от кула. // III. Курсове по безмоторно летене, организирани от Българския аероклуб край село Мусачево, Софийско. // IV. Клетва на трудови войски. Войници целуват знаме. Присъстват близки на новобранците. // V. Велосипедно-туристическо състезание по двойки София - Панчарево. Старт. // VI. София. Игрище ""Юнак"". Практически противовъздушни упражнения. Гасене на пожари, предизвикани от бомби с вода, с пясък."</efg:description>
+				         <efg:description lang="EN" type="Intertitles">"I. Sofia, ""Yunak"" Stadium. Motorcycle racing. Dimitar Sokolov and Tsonyo Angelov on the final lap. Winner - Dimitar Sokolov. // II. The summer bath ""Maria-Louisa"", Sofia. Swimming competition for a state championship. The competitors. Dimitar Andreev, President of the Bulgarian Swimming Union, speaks. Freestyle - men. Audience, referees. Freestyle - women. Victory for club ""AC23"". Diving from a platform. // III. Gliding lessons organized by the Bulgarian Aeroclub near the village of Musachevo, Sofia region. // IV. Labor troops taking an oath. Soldiers kissing the flag. Relatives of the recruits are present. // V. Cycling competition in pairs for tourists Sofia-Pancharevo. Start. // VI. Sofia. ""Yunak"" Stadium. Practical anti-aircraft exercises. Extinguishing fire caused by water and sand bombs."</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1943</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

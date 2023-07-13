@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002374</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002374</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Отечествен кино преглед 54</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/UiwaThecND4/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">287</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:03</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_kek4VlECyqb+AFAlK5-NnQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=UiwaThecND4</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=UiwaThecND4</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002374</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002374</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Отечествен кино преглед 54</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>National Newsreel 54</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. "Море, слънце и въздух". Арка с надпис: "ЕМОС ЛАГЕР - ШКОЛА "ЖЕЧКА КАРАМФИЛОВА". Палатков лагер край гр. Варна. Лагернички украсяват палатки, слушат лекция, водят си записки. Общ план на лагера. // II. Подготовка за конни състезания. Сграда на конезавод. Стадо расови коне на поляна. Военни разхождат коне. Манеж, офицери яздят коне, прескачане на препятствия, надбягвания. Жокеи на коне на старт. По трасето. Финал на състезание.  // III. Грижи за работниците Във фабрика "Амус" за производство на зебло. Цех, машина, работници. Тъкачен цех, стан, работничка. Шивашки цех, работнички шият чували. Плакат на стена "ВСИЧКИ СИЛИ НА ФАБРИЧНИЯ ЛЕКАР ЗА ЗДРАВЕОПАЗВАНЕ на РАБОТНИКА". Лекарски кабинет към фабриката - лекар и медицинска сестра оказват помощ на работник. Лекар преглежда работничка. Плакат "ОФ ВЛАСТ СЕ ГРИЖИ ЗА ЗДРАВЕТО НА РАБОТНИЦИТЕ". Работнички в умивалня, работници се къпят в баня.  // IV. 1877 / 1945 Българо-румънски тържества в Плевен и Гривица, Град Плевен - 30.08.1945 г. - отдаване почит на загиналите за освобождението на града руски и румънски воини в руско - турската война 1877-78 г. Площад, тържество, хора с плакати и знамена. Присъстват министър Добри Терпешев, министърът на пропагандата Димо Казасов, румънския пълномощен министър Ахиле Бърчеану, Трифон Пашов и др. официални лица. От трибуна говори Д. Казасов. Хора слушат. Говори А. Бърчеану. Селяни слушат. Слово на генерал - полковник Дамян Велчев, военен министър. Хора ръкопляскат.  // V. СССР помага. Бургаското пристанище, кораби. Разтоварване на бали памук от СССР. Товарене в каруци. Бали памук край жп линия.  // VI. КОЛО - СЪСТЕЗАНИЕ ТРИЕСТ - ВАРНА 26.08. - 09.09.1945 г. Състезание по колоездене между представители на Югославия и България. Старт. Колоездачи се движат по шосе, навлизат в тунел, пристигат в София. Граждани приветстват. Финал на Колодрума. Публика аплодира.  // VII. Дипломатическо събитие 19.09.1945 г. София. Съветският пълномощен министър Степан Кирсанов пристига в лек автомобил пред регентството. Хора приветстват. Влиза в сградата, придружен от висши военни и цивилни. Хора приветстват. Панорама на множеството. С. Кирсанов излиза от сградата, след връчване на акредитивните си писма. Поднасят му цветя. Качва се в лека кола.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. "Sea, sun and air". Arch with inscription: "YOUTH CAMP - SCHOOL "ZHECHKA KARAMFILOVA". Tent camp near the city of Varna. Female campers decorate tents, listen to a lecture, keep notes. // II. Preparation for horse races. Horse farm building. Herd of thoroughbred horses on a meadow. The military walks horses. Manege, officers ride horses, jumping over obstacles, racing. Horse jockeys at the start. Along the route. Competition final. // III. Care for the workers In the "Amus" factory for the production of sackcloth. Workshop, machine, workers. Weaving workshop, loom, worker. Sewing workshop, workers sew sacks. Poster on the wall "ALL FORCES OF THE FACTORY DOCTOR FOR HEALTHCARE OF THE WORKER". Doctor's office at the factory - a doctor and a nurse help a worker. A doctor examines a worker. Poster "HOMEFRONT POWER CARES FOR THE HEALTH OF WORKERS". Female workers in the washroom, workers bathe in the bathroom. // IV. 1877/1945 Bulgarian-Romanian celebrations in Pleven and Grivitsa. City of Pleven - 30.08.1945 - paying tribute to the Russian and Romanian soldiers who died for the liberation of the city in the Russo-Turkish war of 1877-78. Square, celebration, people with posters and flags. Minister Dobri Terpeshev, Minister of Propaganda Dimo ​​Kazasov, Romanian Minister Plenipotentiary Achilles Barceanu, Trifon Pashov and others are present. officials. D. Kazasov speaks from the rostrum. People listen. A. Barcheanu speaks. Villagers listen. Speech by General - Colonel Damyan Velchev, Minister of War. People applaud. // V. USSR helps. The port of Burgas, ships. Unloading of cotton bales from the USSR. Loading in carts. Bales of cotton near a railway line. // VI. CYCLING COMPETITION TRIEST - VARNA, 26.08. - 09.09.1945 Cycling competition between representatives of Yugoslavia and Bulgaria. Start. Cyclists race down the track, enter a tunnel, arrive in Sofia. Citizens welcome. Finish at the racetrack. The audience applauds. // VII. Diplomatic event, September 19, 1945, Sofia. Soviet Minister Plenipotentiary Stepan Kirsanov arrives in a car in front of the regency. People welcome him. He enters the building, accompanied by senior military and civilians. A welcoming crowd. Panorama of the crowd. S. Kirsanov leaves the building after handing over his credentials. They serve him flowers. He gets in a car.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1945</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_a9d19c6bd8f30d1aeb6d15b326af6182</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_35afc43b458cd311c720efef015939f9</efg:identifier>
+				           <efg:name>Bakardzhiev, Vasil</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_13d21b33dfe451a56959ca0ff73024d0</efg:identifier>
+				           <efg:name>Hristov, Stoyan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

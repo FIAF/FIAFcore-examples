@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002994</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002994</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кинопреглед No 21</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/P-HTCixeR7s/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">310</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:55</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_nuX5kNe3ZS9SXecpbBVVzQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=P-HTCixeR7s</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=P-HTCixeR7s</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002994</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002994</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кинопреглед No 21</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Weekly Newsreel No 21</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. 300 години от основаването на Батак и 81 години от баташкото клане при потушаване на Априлското въстание 1876 г. Изгледи от града. Картина, изобразяваща клането на българи от турски войници. Полагане венци пред паметника на загиналите. Говори председателят на съвета Я. Дунев и Демир Янев. Присъстват свидетели на клането, бивши партизани, майки на убити антифашисти.  // II. Среща на участниците в Септемврийското въстание 1923 г. В град Стара Загора - събрание на комунисти и земеделци. Поклонение пред паметника на Диню Ников, говори Йордан Вълев. Къщата на ятака Митю Лозев. Полковник Гинчев разказва спомени.  // III. Седмица на българската книга. Портрет на братята Кирил и Методи. Корици на старобългарски и нови книги. Печатница. Книжарница. Среща на читатели с писатели. Камен Калчев, Младен Исаев - говори.  // IV. Молдавска партийна и селскостопанска делегация пристига у нас. Софийската аерогара сред посрещачите са Антон Югов, Тодор Живков, Елена Гаврилова. Делегацията води Сердюк.  // V. 3-ти конгрес на Научно-техническите дружества в България. Залата. Публиката. Присъстват делегати от чужбина. Борис Тасков и съветският представител приветстват конгреса. Председателят на дружествата Ивайло Виденов чете доклад.  // VI. Далекопроводът "Алеко" край Горна Оряховица. Монтаж на пазарджишката секция.  // VII. Избухнала атомна бомба в Западна Германия. Протестна демонстрация срещу базите с атомно оръжие. Реактивни самолети.  // VIII. Йордания. Крал Хюсеин приема поздравления. Демонстрации, разпръскване на хората, арести. Телени мрежи по улиците. Кораби на 6-я американски флот.  // IX. Футболен мач между "Б" отбори на Великобритания и България в София. Присъстват Антон Югов, Тодор Живков.  // X. 10-та колоездачна обиколка на мира Прага - Берлин - Варшава. Българският отбор в София - Ненчо Христов по улиците на града. Граждани приветстват. На софийския колодрум.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. 300 years since the founding of Batak and 81 years since the Batak massacre in the suppression of the April Uprising in 1875. Views of the city. A painting depicting the massacre of Bulgarians by Turkish soldiers. Laying of wreaths at the monument of the fallen. The chairman of the council Ya. Dunev and Demir Yanev speak. Witnesses to the massacre, former partisans, and mothers of killed antifascists are present. // II. Meeting of the participants in the Semptember Uprising in 1923. City of Stara Zagora - a meeting of communists and farmers. Commemoration at the monument of Dinyo Nikov, Yordan Valev speaks. Mityu Lozev's house. Colonel Ginchev recounts memories. // III. Bulgarian Book Week. Portrain of Saints Cyril and Methodius. Covers of old Bulgarian books and new ones. Pringint house. Bookstore. Meeting of reeders with writers. Kamen Kalchev, Mladen Isaev - speaks. // IV. A delegation of a Moldovan party and agricultural representatives arrives in Bulgaria. At Sofia Airport are Anton Yugov, Todor Jivkov, Elena Gavrilova. The delegation is led by Serdyuk. // V. 3rd Congress of Scientific and Technical Organizations in Bulgaria. The hall. Audience. The foreign delegates are present. Boris Taskov and the Soviet representative. The chairman of the organizations Ivaylo Videnov reads a report. // VI. The "Aleko" transmission line near the city of Gorna Oryahovitsa. Installation of the line in Pazardzhik. // VII. An atomic bomb that went off in West Germany. Protest demonstration against bases with nuclear weapon. Jets. // VIII. Jordan. King Hussein receives congratulations. Demonstrations, dispersal of people, arrests. Wire mesh on the streets. Ships of the 6th US Navy. // IX. A football game between the B teams of England and Bulgaria in Sofia. Anton Yugov and Todor Jivkov are present. // X. 10th Peace Cycling Tour Prague-Berlin-Warsaw. The Bulgarian team in Sofia - Nencho Hristov on the city streets. Citizens are greeting. At the Sofia racetrack.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>история</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>строителство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>history</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>construction</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1957</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ff772b6a5c2270178f18ee0925323514</efg:identifier>
+				           <efg:name>Getov, Milen</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_e73e4ad4989af4e01db376b667cd3867</efg:identifier>
+				           <efg:name>Kitanov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_a455914fa7e28e922331bc73b78e5f55</efg:identifier>
+				           <efg:name>Durov, Georgi</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4be3a9facd2be794e256c7304078f11e</efg:identifier>
+				           <efg:name>Kebapchiev, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_9087f201995679e1c5c638eb29a8e673</efg:identifier>
+				           <efg:name>Terziev, Tzvetan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ac4bc8bb8bfab8bc19b9dc20d9fb45f8</efg:identifier>
+				           <efg:name>Lazarov, Baruh</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_b0ab35de4a70cff72907262c9dad2127</efg:identifier>
+				           <efg:name>Punchev, Borislav</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_aad38c973bd51f14ccae76971f8ff862</efg:identifier>
+				           <efg:name>Sharlandzhiev, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4750805793daecff48207dfa14f0e152</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

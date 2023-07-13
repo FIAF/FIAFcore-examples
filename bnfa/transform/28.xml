@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:fiaf="https://fiafcore.org/ontology/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <fiaf:WorkVariant rdf:about="http://example.org/EFG/BNFA_avCreation_MFN6">
+      <rdfs:label xml:lang="bg">ЛЮБОВТА Е ЛУДОСТ</rdfs:label>
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>MFN6</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">ЛЮБОВТА Е ЛУДОСТ</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasTitle>
+         <fiaf:TranslatedTitle>
+            <fiaf:hasTitleValue xml:lang="en">LOVE IS FOLLY</fiaf:hasTitleValue>
+         </fiaf:TranslatedTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasCountry rdf:resource="http://example.org/EFG/country/BG"/>
+      <fiaf:hasForm rdf:resource="http://example.org/EFG/form/Shortfilm"/>
+      <fiaf:hasEvent>
+         <fiaf:ProductionEvent>
+            <fiaf:hasEventDate>1917</fiaf:hasEventDate>
+            <fiaf:hasActivity>
+               <fiaf:Director>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_feb467044eacbe765d7cea2ecd1ab460"/>
+               </fiaf:Director>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:Cinematographer>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_38fa13aef439adbd20e273c32e7dc94e"/>
+               </fiaf:Cinematographer>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:CastMember>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_07a6248f546db2e9e1dd1d7e405ff939"/>
+               </fiaf:CastMember>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:CastMember>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_c23e8010ec939b9649ceebc36798d890"/>
+               </fiaf:CastMember>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:CastMember>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_693565750063129c417daa874073c0ca"/>
+               </fiaf:CastMember>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:CastMember>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_2798fb73927ac0c5287b612c21ff5647"/>
+               </fiaf:CastMember>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:CastMember>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_893b3dd8671fe73ce4bd539125f363bb"/>
+               </fiaf:CastMember>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:CastMember>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_e2a5a370ecff21ac239e9c442f93e77f"/>
+               </fiaf:CastMember>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:CastMember>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_dc6416a5344c469a2dd7f08c99f4c9bc"/>
+               </fiaf:CastMember>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:CastMember>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_person_8a95b17fd173ab8705ab20ad7125c2e5"/>
+               </fiaf:CastMember>
+            </fiaf:hasActivity>
+            <fiaf:hasActivity>
+               <fiaf:ProductionCompany>
+                  <fiaf:hasAgent rdf:resource="http://example.org/EFG/BNFA_corporate_d7eb00dd7e80fe205ad9259852f9d4b8"/>
+               </fiaf:ProductionCompany>
+            </fiaf:hasActivity>
+         </fiaf:ProductionEvent>
+      </fiaf:hasEvent>
+      <fiaf:hasManifestation rdf:resource="http://example.org/EFG/BNFA_avManifestation_MFN6"/>
+   </fiaf:WorkVariant>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_feb467044eacbe765d7cea2ecd1ab460">
+      <rdfs:label>Gendov, Vasil</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_38fa13aef439adbd20e273c32e7dc94e">
+      <rdfs:label>Reifler, Josif</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_07a6248f546db2e9e1dd1d7e405ff939">
+      <rdfs:label>Васил ГЕНДОВ</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_c23e8010ec939b9649ceebc36798d890">
+      <rdfs:label>Gendov, Vasil</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_693565750063129c417daa874073c0ca">
+      <rdfs:label>Жана ГЕНДОВА</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_2798fb73927ac0c5287b612c21ff5647">
+      <rdfs:label>Gendova, Zhana</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_893b3dd8671fe73ce4bd539125f363bb">
+      <rdfs:label>Мария ТОРОМАНОВА-ХМЕЛИК</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_e2a5a370ecff21ac239e9c442f93e77f">
+      <rdfs:label>Toromanova-Hmelik, Maria</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_dc6416a5344c469a2dd7f08c99f4c9bc">
+      <rdfs:label>Манол КИРОВ</rdfs:label>
+   </fiaf:Person>
+   <fiaf:Person rdf:about="http://example.org/EFG/BNFA_person_8a95b17fd173ab8705ab20ad7125c2e5">
+      <rdfs:label>Kirov, Manol</rdfs:label>
+   </fiaf:Person>
+   <fiaf:CorporateBody rdf:about="http://example.org/EFG/BNFA_corporate_d7eb00dd7e80fe205ad9259852f9d4b8">
+      <rdfs:label>Gendov Film</rdfs:label>
+   </fiaf:CorporateBody>
+   <fiaf:Manifestation rdf:about="http://example.org/EFG/BNFA_avManifestation_MFN6">
+      <fiaf:hasIdentifier>
+         <fiaf:Identifier>
+            <fiaf:hasIdentifierValue>MFN6</fiaf:hasIdentifierValue>
+         </fiaf:Identifier>
+      </fiaf:hasIdentifier>
+      <fiaf:hasTitle>
+         <fiaf:PreferredTitle>
+            <fiaf:hasTitleValue xml:lang="bg">ЛЮБОВТА Е ЛУДОСТ</fiaf:hasTitleValue>
+         </fiaf:PreferredTitle>
+      </fiaf:hasTitle>
+      <fiaf:hasSoundCharacteristic rdf:resource="https://fiafcore.org/ontology/Silent"/>
+      <fiaf:hasColourCharacteristic rdf:resource="https://fiafcore.org/ontology/BlackAndWhite"/>
+      <fiaf:hasFormat rdf:resource="https://fiafcore.org/ontology/35mmFilm"/>
+      <fiaf:hasExtent>
+         <fiaf:Minutes>
+            <fiaf:hasExtentValue>00:10:33</fiaf:hasExtentValue>
+         </fiaf:Minutes>
+      </fiaf:hasExtent>
+      <fiaf:hasLanguageUsage>
+         <fiaf:Intertitles>
+            <fiaf:hasLanguage rdf:resource="http://example.org/EFG/language/bg"/>
+         </fiaf:Intertitles>
+      </fiaf:hasLanguageUsage>
+      <fiaf:hasItem rdf:resource="http://example.org/EFG/BNFA_item_k46viT07by0PFa0QiVTbsQ"/>
+   </fiaf:Manifestation>
+   <fiaf:Item rdf:about="http://example.org/EFG/BNFA_item_k46viT07by0PFa0QiVTbsQ"/>
+</rdf:RDF>

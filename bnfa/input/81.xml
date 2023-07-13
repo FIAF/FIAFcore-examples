@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010003046</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010003046</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кинохроника 23</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/zl_shUxpjcU/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">292</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:14</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_1OnCRQVFrYPguDR--uEAiQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=zl_shUxpjcU</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=zl_shUxpjcU</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010003046</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010003046</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кинохроника 23</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 23</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Завръщане на българска правителствена делегация, начело с Тодор Живков, от СССР. Аерогарата - официални лица посрещат делегатите. Говорят Иван Пръмов, Т. Живков. Поднасяне на цветя. Репортаж от посещението на делегацията в СССР. Посрещане на аерогара "Уляновск". Посещение в къщата на Вл. Ил. Ленин. Полагане венец пред паметник. Алма Ата - разглеждане на стадиона. Посещение в звездното градче - среща с Валентина Терешкова, космонавт. Разговори с Леонид Брежнев, Алексей Косигин и Андрей Громико, подписване на официални документи. Награждаване Тодор Живков със Златна звезда на Герой на СССР и орден "Ленин" от Леонид Брежнев. Слово на Т. Живков. Изпращане делегацията на аерогара край Москва.  // II. София. 20 години Завод за металорежещи машини. Работна зала. Машини. Работници.  // III. Промишлено-аграрен комплекс "Ленин" край Бургас. Механизатори се подготвят за жътвената кампания. Монтиране на машина. Комбайн вършее. Пшеница.  // IV. Русе. Фестивал на политическия танц. Участват младежки самодейни състави от страната. Изпълнения.  // V. Репортаж от срещата по футбол между България и Ейре. Публика. Футболистите излизат на терена. Моменти от играта. Победа за българския отбор.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Return of a Bulgarian government delegation, led by Todor Zhivkov, from the USSR. Airport - officials the delegates. Report from the visit of the delegation to the USSR. Meeting of Ulyanovsk Airport. Visiting the house of Vladimir Lenin. Laying a wreath at a monument. Sightseeing of a stadium. Meeting Valentina Tereshkova, astronaut. Talks with Leonid Brezhnev, Alexei Kosygin, and Andrey Gromiko. Signing of official documents. Awarding Todor Zhivkov with a Golden Star of a Hero of the USSR and the Order of Lenin by Leonid Brezhnev. Todor Zhivkov speaks. Sending the delegation to the airport near Moscow.  // II. Sofia. 20 years of the Factory for metal cutting machines. Workroom. Machines. Workers.  // III. Cooperative farm "Lenin" near Burgas. Machine operators are preparing for the harvest. Combine harvester. Wheat.  // IV. Ruse. Political Dance Festival. Youth amateur ensembles from the country participate. Performances. V. Report from the football match between Bulgaria and Ireland. Audience. Footballers walk out on the field. Moments of the game. Victory for the Bulgarian team.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1977</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1</efg:identifier>
+				           <efg:name>Dosev, Ivan</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_cb25aeab94539fde0514824b966beb55</efg:identifier>
+				           <efg:name>Terziev, Tzvetan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_286a61f2f81838482ef9dfd52d9b209b</efg:identifier>
+				           <efg:name>Efremov, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_6157edf0a6d8752ac9b7b684a72d322d</efg:identifier>
+				           <efg:name>Bidzheranov, Sami</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_eb23babcbc4b255882501c59b7c322a8</efg:identifier>
+				           <efg:name>Donov, Veselin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_589852ec4058346a1c9aefc673245b86</efg:identifier>
+				           <efg:name>Draganov, Gavril</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_da696738afd63d1ad306a342c324c8ac</efg:identifier>
+				           <efg:name>Parsehyan, Garabed</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_b0db481299f7fb82f3d8e4ea968bc9d6</efg:identifier>
+				           <efg:name>Tzvetkov, Lyubomir</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ae3f9dffeddd8a44925c04990a1759a9</efg:identifier>
+				           <efg:name>Yotov, Vl.</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f1776b6afb44cdb788507a194da322b5</efg:identifier>
+				           <efg:name>Bulgarska Kinematografia</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

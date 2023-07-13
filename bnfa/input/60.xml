@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_21723</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>21723</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ПРЕГЛЕДЪ 76</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/rgwb3fyvwxovwae/BNFA_21723.jpg?raw=1</efg:thumbnail>
+				           <efg:language usage="Audio">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:09:00</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_cwRGncjYBEuvxZOuKy1y2w</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/480583594</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_21723</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>21723</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ПРЕГЛЕДЪ 76</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>NEWSREEL 76</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Intertitles">"I. Панорама на град Дупница. Празник на учителския институт. Реч на германският пълномощен министър Адолф Бекерле пред курсисти. // II. Беломорието. Село Родопи. Освещаване сградата на общинското управление. Освещаване сградата на кметството. Прерязване на лентата. // III. София. Словашкият правосъден министър Гейза Фрид и българският правосъден министър Константин Партов подписват спогодба за взаимна правна помощ и съдебна защита между България и Словакия. // IV. Народният театър, София. Тържество по повод празника на Софийския университет. Пред театъра - хоро на студенти. Цар Борис III и царица Йоанна излизат от театъра и се качват в кола. Студенти полагат венец пред паметника на Климент Охридски. // V. Учебен кораб ""Асенъ"" в открито море. Възпитаници от военноморското училище, Варна на практически занимания. Стават от сън, мият палубата, вдигат котвата. Спускане на лодка. Обезвреждане на мина."</efg:description>
+				         <efg:description lang="EN" type="Intertitles">"I. Views from the town of Dupnitza. Festival of the pedagogical institute; A speech by the German ambassador Adolf Beckerle in front of students. // II. Western Thrace. Rhodope village. Consecration of the municipality building; Consecration of the town hall; Cutting of the ribbon. // III. Sofia. Slovak justice minister Gejza Fritz and Bulgarian justice minister Konstantin Partov sign a mutual legal aid and judicial protection agreement between Slovakia and Bulgaria.  // IV. State theater, Sofia. Celebrating the holiday of Sofia University; Students in front of the theatre. King Boris III and queen Giovanna exit the theatre and enter a car; Students place wreaths in front of the St. Clement of Ohrid monument. // V. Training ship ""Asen"" on the open sea. Pupils of the naval academy in Varna during practical classes. They wake up, wash the deck, raise the anchor; Lowering of a lifeboat; Disarmament of a naval mine."</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>образование</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>education</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>social and political events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1942</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

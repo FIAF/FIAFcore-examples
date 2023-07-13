@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_8838</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>8838</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ПРЕГЛЕДЪ 104</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/50pvqui7otmvjy8/BNFA_8838.jpg?raw=1</efg:thumbnail>
+				           <efg:language usage="Audio">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:25</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_A4znvejZIFyf79RbEep8mw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/480615007</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_8838</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>8838</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ПРЕГЛЕДЪ 104</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>NEWSREEL 104</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Intertitles">"I. Туристи от пернишкото дружество ""Голо Бърдо"" изкачват Витоша. Освещаване на хижа ""Инженер Брокс"". Тържество за откриването. // II. Град Габрово. Фабрика за преработка на памук. Производство, цехове, работници. Цех за шиене на бельо от трикотажен плат. // III. София. Тържествено събрание в залата на БИАД по повод 50 години от основаването на Съюза на българските инженери и архитекти. Говори инженер Димитър Василев, министър на благоустройството. // IV. София. Игрище ""Юнак"". Мотоциклетни състезания на писта. Победител - Димитър Соколов. // V. Откриване ново стрелбище ""Кракра Пернишки"" в гр. Перник. Българската ловнострелческа организация ""Сокол"" урежда състезания за царската купа и държавно първенство по стрелба. Млади ловци се състезават за купата ""Княз Симеон Търновски"". // VI. Учениците от практическо земеделското училище ""Образцов чифлик"" край гр. Русе на практически занятия в полето. // VII. София. Сградата на дневен детски дом ""Княгиня Евдокия"". Родители водят децата си, учителка ги посреща. Деца обличат престилки и обуват пантофи. Занимания, игра на двора, хранят се."</efg:description>
+				         <efg:description lang="EN" type="Intertitles">"I. Tourists from the ""Golo Bardo"" association climb Vitosha mountain. Consecration of ""Engineer Brocks"" cabin. // II. The city of Gabrovo. A cotton processing factory. Production process, workers; A knitwear workshop. // III. Sofia. A celebration for the 50 year anniversary of the founding of the Bulgarian Engineering and Architectural Union. // IV. Sofia. ""Yunak"" stadium. Motorcycle track racing. Winner - Dimitar Sokolov. // V. The city of Pernik. Grand opening of the ""Krakra Pernishki"" shooting range. Bulgarian hunting organisation ""Sokol"" arranges a shooting competition for the King's cup. Young hunters compete for the ""Prince Simeon of Tarnovo"" cup. // VI. Pupils of the practical agricultural school ""Model Farm"", near Ruse. Practical classes in the fields. // VII. Sofia. ""Princess Evdokia"" daycare center. Parents bring their children in, a teacher welcomes them;  Children put on aprons and slippers; Children doing activities, playing in the yard, eating."</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>образование</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>туризъм</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>education</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>industry</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>tourism</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

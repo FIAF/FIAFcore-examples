@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:person>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_286a61f2f81838482ef9dfd52d9b209b</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>286a61f2f81838482ef9dfd52d9b209b</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:name type="PN">Boris</efg:name>
+				         <efg:name type="PN">Efremov</efg:name>
+				         <efg:typeOfActivity>Director of photography</efg:typeOfActivity>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002764</efg:identifier>
+				 <efg:title>Седмичен кинопреглед 425</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002416</efg:identifier>
+				 <efg:title>Кинопреглед 25</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002983</efg:identifier>
+				 <efg:title>Седмичен кинопреглед No 10</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003046</efg:identifier>
+				 <efg:title>Кинохроника 23</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003334</efg:identifier>
+				 <efg:title>Кинопреглед 36</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003555</efg:identifier>
+				 <efg:title>Кино преглед 48</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation></efg:person>
+				     </efg:efgEntity>

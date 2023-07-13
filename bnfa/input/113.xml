@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002508</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002508</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кино преглед 173</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/CMcaAX6Bh38/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">348</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:12:05</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_F172qyzbUH7NcboaLb9KqA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=CMcaAX6Bh38</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=CMcaAX6Bh38</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002508</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002508</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кино преглед 173</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Weekly Newsreel 173</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СССР. Парична реформа и премахване на купоните. Митинг в московска фабрика - говори работник. В Централния универсален магазин на Москва - граждани купуват дрехи, обувки, платове, шапки, играчки.  // II. СССР. Москва. Централният музей на Ленин. Посещение на работници от московския завод "Ленин".  // III. Посрещане на румънски актьори на софийската гара: Дора Масини, Алфред Менделсон, Арнауто Николеску. Между посрещачите е Стефан Македонски.  // IV. Фабрика "Бакиш". Новият директор д-р Ангел Петков говори за национализацията на фабриката. Производство на гуми.  // V. Избиране на делегати за конгреса на ОФ. Публично събрание в село Църква, Пернишко. Говорят Найден Младенов и Зигфрид Дамянов.  // VI. Избиране на делегати за конгреса на ОФ от първи столичен район - Васил Коларов, Вълко Червенков, Цола Драгойчева, Трайчо Костов, Тодор Павлов, Славчо Стоилов. Говори Трайчо Костов.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. USSR. Monetary reform and elimination of coupons. Rally in a Moscow factory - a worker speaks. Central Department Store of Moscow - people buy clothes, shoes, fabrics, hats, and toys.  // II. USSR. Moscow. Central Museum of Lenin. Visit of workers from the Moscow factory "Lenin".  // III. Welcoming Romanian actors at the Sofia train station: Dora Massini, Alfred Mendelsohn, Arnauto Nicolescu. Among the greeters is Stefan Makedonski.  // IV. "Bakish" factory. The new director Dr. Angel Petkov talks about the nationalization of the factory. Production of tires.  // V. Election of delegates for the congress of the OF (antifascist union, Otechestven Front, 1942-1990). Public meeting in the village of Tsarkva (Church), Pernik region. Naiden Mladenov and Siegfried Damyanov speak.  // VI. Election of delegates for the congress of OF from the first metropolitan area - Vasil Kolarov, Valko Chervenkov, Tsola Dragoycheva, Traicho Kostov, Todor Pavlov, Slavcho Stoilov. Traicho Kostov speaks.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>търговия</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>trade</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1948</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_915810c42ad9a993b4c92f2e81599eb0</efg:identifier>
+				           <efg:name>Kisiov, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_21a533db5b6a5dc3ba77fb2c0b3c107b</efg:identifier>
+				           <efg:name>Karadimov, Simeon</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_8b2635e363b9b62c76b1bcb644f9eedf</efg:identifier>
+				           <efg:name>Boyadzhiev, Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

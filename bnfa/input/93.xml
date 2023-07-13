@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010007252</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010007252</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Техни величества югославянските владетели в София</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/MaiUpAyIQfw/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="false">Without sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">76</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:02:32</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_q3+PrRqITfOQZlxPE2EnPA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=MaiUpAyIQfw</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=MaiUpAyIQfw</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010007252</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010007252</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Техни величества югославянските владетели в София</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>The rulers of Yugoslavia visit Sofia</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">Крал Александър І и цар Борис ІІІ, царица Йоанна и кралица Мария в открити коли по улиците на София. Граждани гледат. Мнозинство пред Двореца. Колата със сръбския крал и българския цар се движи по улица. Прелитат самолети. Почетна кавалерийска рота. Колите спират пред Двореца. Крал Александър І, кралица Мария, цар Борис ІІІ и царица Йоанна приемат военен парад от балкон на Двореца. При портала на Двореца – висши военни. Минава кавалерия, пехота, артилеристи. Вечер – светлинна украса с инициалите на българските и сръбски владетели.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">King Alexander I and Tsar Boris III, Queen Giovanna and Queen Maria in open cars on the streets of Sofia. Citizens are watching. Majority in front of the Palace. The car with the Serbian king and the Bulgarian king is moving on the street. Planes fly by. Honorary cavalry company. The cars stop in front of the Palace. King Alexander I, Queen Maria, Tsar Boris III and Queen Giovanna receive a military parade from the balcony of the Palace. At the gate of the Palace - senior military. Cavalry, infantry, artillerymen pass. Evening - light decoration with the initials of the Bulgarian and Serbian rulers.</efg:description>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1934</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_5fbf0313a41c95d42d611873171dbf03</efg:identifier>
+				           <efg:name>Petrov, Kiril</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_f9bfc96dae42a63c6974e770c9b927d8</efg:identifier>
+				           <efg:name>Simeonov, Simeon</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

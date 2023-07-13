@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:corporate>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>44ad5ee1beca01c91076e06e55f4da73</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:typeOfActivity>Production company</efg:typeOfActivity>
+				         <efg:name type="PN">Bulgarsko Delo</efg:name>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000620</efg:identifier>
+				 <efg:title>Прегледъ 106</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000617</efg:identifier>
+				 <efg:title>Прегледъ 103</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000545</efg:identifier>
+				 <efg:title>Прегледъ 31</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000676</efg:identifier>
+				 <efg:title>Преглед 161</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000607</efg:identifier>
+				 <efg:title>Прегледъ 93</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000614</efg:identifier>
+				 <efg:title>Прегледъ 100</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF_001</efg:identifier>
+				 <efg:title>Събаряне на портата на двореца</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000694</efg:identifier>
+				 <efg:title>Отечественъ прегледъ 8</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002372</efg:identifier>
+				 <efg:title>Отечествен кино преглед 51</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002508</efg:identifier>
+				 <efg:title>Седмичен кино преглед 173</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8892</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 152</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_9032</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 139</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000679</efg:identifier>
+				 <efg:title>Прегледъ 165</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000678</efg:identifier>
+				 <efg:title>Прегледъ 163</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000697</efg:identifier>
+				 <efg:title>Отечественъ прегледъ 10</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000698</efg:identifier>
+				 <efg:title>Отечественъ прегледъ 10 A</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000685</efg:identifier>
+				 <efg:title>Отечествен кино преглед 2</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002374</efg:identifier>
+				 <efg:title>Отечествен кино преглед 54</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000722</efg:identifier>
+				 <efg:title>Кинопреглед 28</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002378</efg:identifier>
+				 <efg:title>Отечествен кино преглед 58</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_20395</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 1</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002386</efg:identifier>
+				 <efg:title>Отечествен кинопреглед 65</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002376</efg:identifier>
+				 <efg:title>Отечествен кино преглед 56</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002412</efg:identifier>
+				 <efg:title>Преглед 91</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_21527</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 45</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_21550</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 59</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_20663</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 147</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_21555</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 28</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002438</efg:identifier>
+				 <efg:title>Отечествен кино преглед 114</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_21697</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 119</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002444</efg:identifier>
+				 <efg:title>Седмичен кино преглед 120</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002430</efg:identifier>
+				 <efg:title>Отечествен кинопреглед 107</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002479</efg:identifier>
+				 <efg:title>Седмичен кино преглед 151</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_21708</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 114</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002494</efg:identifier>
+				 <efg:title>Седмичен кино преглед 159</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_21706</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 109</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002503</efg:identifier>
+				 <efg:title>Седмичен кино преглед 168</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_21723</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 76</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002504</efg:identifier>
+				 <efg:title>Седмичен кино преглед 169</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_27606</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 18</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_21715</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 149</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_27612</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 24</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_27624</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 8</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_27762</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 34</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_27798</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 70</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_27818</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 23</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_27825</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 12</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_27833</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 2</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_38851</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 125</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8810</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 87</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8826</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 96</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8836</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 102</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8838</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 104</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8855</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 117</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8857</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 118</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8859</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 127</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8842</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 106</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8863</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 130</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8873</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 137</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010007262</efg:identifier>
+				 <efg:title>Родопи и Рила</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_8884</efg:identifier>
+				 <efg:title>ПРЕГЛЕДЪ 144</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation></efg:corporate>
+				     </efg:efgEntity>

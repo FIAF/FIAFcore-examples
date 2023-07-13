@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002503</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002503</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кино преглед 168</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/72vMaEu8Nlo/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">369</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:13:01</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_hoc6d19c+YsJMK4v74uI1Q</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=72vMaEu8Nlo</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=72vMaEu8Nlo</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002503</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002503</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кино преглед 168</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 168</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СССР. Таджикистан - народни майстори резбари. Резбарят Юлдажбек Барадбеков.  // II. СССР. Глуховският комбинат за памук. Предачен цех. Инициаторката Л. Ананиева.  // III. Югославия. Триест. Фашистки провокации. Стачка на транспортните работници.  // IV. 09.12.1947 г. София. Народното събрание. Тържествено заседание и полагане клетва от депутатите за новата конституция. Избиране членове на президиума, председател Минчо Нейчев. Избиране бюро на събранието с председател Райко Дамянов. 11.12.1947 г. - министър-председателят Георги Димитров представя правителството. Присъстват Васил Коларов, Трайчо Костов, Цола Драгойчева, Тодор Павлов, Георги Трайков, Александър Оббов, Петър Каменов, Добри Бодуров, Антон Югов, Титко Черноколев, Вълко Червенков, Добри Терпешев, Янко Янев, Димо Казасов, Здравко Митовски, Георги Дамянов, Георги Чанков, Петко Кунин, Васил Павурджиев, Владимир Поптомов.  // V. Откриване мост над река Марица в село Любимец от министър Добри Терпешев.  // VI. Танцьори от село Алевене, Ловешко изпълняват хорото "Баба Дона чушки тъпче" и "Заешки танц".</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. USSR. Tajikistan - carvers. The carver Yuldazhbek Baradbekov.  // II. USSR. The Glukhov cotton mill.  // III. Yugoslavia. Trieste. Fascist provocations. Transport workers strike.  // IV. December 9, 1947, Sofia. National Assembly. Solemn sitting and swearing in by the deputies of the new constitution. Election of members of the presidium, chairman Mincho Neychev. Election of a bureau of the meeting chaired by Rayko Damyanov. December 11, 1947, Prime Minister Georgi Dimitrov presents the government. Present are Vasil Kolarov, Traicho Kostov, Tsola Dragoycheva, Todor Pavlov, Georgi Traikov, Alexander Obbov, Petar Kamenov, Dobri Bodurov, Anton Yugov, Titko Chernokolev, Valko Chervenkov, Dobri Terpeshev, Yanko Yanev, Dimo ​​Kazasov, Zdravko Datovski, Georgi Mitovski Chankov, Petko Kunin, Vasil Pavurdzhiev, Vladimir Poptomov.  // V. Opening of a bridge over the Maritsa River in the village of Lyubimets by Minister Dobri Terpeshev. VI. Dancers from the village of Alevene, Lovech region, perform two traditional dances.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>транспорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>transport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1947</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_a9d19c6bd8f30d1aeb6d15b326af6182</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7</efg:identifier>
+				           <efg:name>Kisiov, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_2a36052e4894a47ad0bf1543c2b3b2c5</efg:identifier>
+				           <efg:name>Chobanov, Asen</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

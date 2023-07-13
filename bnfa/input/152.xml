@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:person>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_5fbf0313a41c95d42d611873171dbf03</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>5fbf0313a41c95d42d611873171dbf03</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:name type="PN">Kiril</efg:name>
+				         <efg:name type="PN">Petrov</efg:name>
+				         <efg:typeOfActivity>Director</efg:typeOfActivity>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2764</efg:identifier>
+				 <efg:title>НАШЕТО МОРЕ</efg:title>
+				  <efg:type>Has directed</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010007252</efg:identifier>
+				 <efg:title>Техни величества югославянските владетели в София</efg:title>
+				  <efg:type>Has directed</efg:type>
+				 </efg:relAvCreation></efg:person>
+				     </efg:efgEntity>

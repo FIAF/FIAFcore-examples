@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_MFN2716</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>MFN2716</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>БАЛКАНСКАТА ВОЙНА 1912-1913</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/ujcws46729idfj8/BNFA_MFN2716.jpg?raw=1</efg:thumbnail>
+				           <efg:language usage="Intertitles">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="false">Without sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">1119</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:38:55</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_1HiJHdtXExG4bToVFR5zVg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/478748005</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_MFN2716</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>MFN2716</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>БАЛКАНСКАТА ВОЙНА 1912-1913</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>THE BALKAN WAR 1912-1913</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">Миноносецът "Дръзки" обезврежда турският кораб "Хамидие". Люлебургаз след превземането му от българската армия. Обсадата на Одрин. Ранени войници в Болница на руски Червен Кръст край Лозенград. Цар Фердинанд и царица Елеонора пристигат на гарата в Одрин. Заедно с високопоставен военни, разглеждат "Султан Селим джамия". Кавалерия, пехота, турски пленници.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">Torpedo boat "Drazki" disarms Otoman cruiser ""Hamidiye"". Lüleburgaz after it has been taken over by Bulgarian troops. The seige of Odrin (Edirne).Wounded soldies at a Russian Red Cross field hospital near Lozengrad (Kırklareli). King Ferdinand and Queen Eleonora arrive at the Odrin (Edirne) train station. Together with high ranking armymen, they visit the "Sultan Selim" mosque. Cavalry, infantry, captured enemy soldiers.</efg:description>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Documentary film</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>България: войници</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>армия</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>Балкани</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>Балканска война</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>Фердинанд I</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>Османса империя</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>army</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>soldiers</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>Balkan war</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>Otoman</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Place">
+				           <efg:term>Bulgaria</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Place">
+				           <efg:term>Balkans</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Person">
+				           <efg:term>Ferdinand I.</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Project">
+				           <efg:term>EFG1914</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1913</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_b0f2ab0a15df6a3931f407a156250b86</efg:identifier>
+				           <efg:name>Zhekov, Aleksandar</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_b0f2ab0a15df6a3931f407a156250b86</efg:identifier>
+				           <efg:name>Zhekov, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_331b3c2fd0aee7d5eaa099234f827848</efg:identifier>
+				           <efg:title>Pre-Socialist Cinema</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

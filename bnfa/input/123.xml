@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:corporate>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>f05d07b7f7f8f48146ed9c72f988b393</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:typeOfActivity>Production company</efg:typeOfActivity>
+				         <efg:name type="PN">Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002764</efg:identifier>
+				 <efg:title>Седмичен кинопреглед 425</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002416</efg:identifier>
+				 <efg:title>Кинопреглед 25</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002716</efg:identifier>
+				 <efg:title>Кинопреглед 377</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002679</efg:identifier>
+				 <efg:title>Кинопреглед 340</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002768</efg:identifier>
+				 <efg:title>Седмичен кинопреглед 427</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002754</efg:identifier>
+				 <efg:title>Седмичен кинопреглед 415</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002983</efg:identifier>
+				 <efg:title>Седмичен кинопреглед No 10</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002885</efg:identifier>
+				 <efg:title>Седмичен кинопреглед No 17</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010002994</efg:identifier>
+				 <efg:title>Седмичен кинопреглед No 21</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003334</efg:identifier>
+				 <efg:title>Кинопреглед 36</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003336</efg:identifier>
+				 <efg:title>Кино преглед No 38</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003288</efg:identifier>
+				 <efg:title>Кинопреглед No 38</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003555</efg:identifier>
+				 <efg:title>Кино преглед 48</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation></efg:corporate>
+				     </efg:efgEntity>

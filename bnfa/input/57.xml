@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002494</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002494</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кино преглед 159</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/Kt-7npRVU0w/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">348</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:12:13</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_N8bguEYbc6xriBWhTgrPkA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=Kt-7npRVU0w</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=Kt-7npRVU0w</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002494</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002494</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кино преглед 159</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Weekly Newsreel 159</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СССР. Кронщад - млади моряци. Строева подготовка, гребане. Корабът "Севастопол" отплува в Черно море. Бойна тревога, оръдия стрелят. Край на учението.  // II. Югославия. Сплит. Състезание с яхти до Дубровник.  // III. ЧССР. В Моравска Острава - митинг на общославянската дружба. Говори чешки министър и представителят на България Никола Павлов. Шествие.  // IV. Събор на българо-съветските дружества в Пловдив. Говорят представителят на СССР, Шестаков, Васил Коларов, Тодор Павлов.  // V. Връчване акредитивните писма от холандския пълномощен министър Шарл Мери Дози на Васил Коларов. Присъства Кимон Георгиев, министър на външните работи.  // VI. Награждаване на ударници. Събрание в кино "Д.Благоев". Председателят на ЦК на ОРПС Райко Дамянов връчва наградите. Васил Коларов говори. Присъстват Георги Цанков, Добри Терпешев.  // VII. Лом - селскостопанска изложба. Митинг. Открива министър Добри Терпешев. Едър рогат добитък. Присъстват: Пеко Таков, Ради Найденов.  // VIII. Град Русе. Площи с ориз. Лов на риба от оризовите площи. Вършитба на ориз.  // IX. Културна бригада в Босилеград. Поетът Пантелей Матеев чете стихове. Актрисата Магда Колчакова рецитира стихове от Никола Вапцаров. Тракийската група при Радио София изпълнява народни песни и хоро.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. USSR. Kronstadt - young sailors. Military training, rowing. The ship "Sevastopol" sails into the Black Sea. Combat alert, cannons firing. End of training.  // II. Yugoslavia. Split. Yacht race near Dubrovnik.  // III. ČSSR. Ostrava - a rally of the All-Slavic friendship. The Czech Minister and the representative of Bulgaria Nikola Pavlov speak. Procession.  // IV. Fair of Bulgarian-Soviet associations in Plovdiv. The representatives of the USSR, Shestakov, Vasil Kolarov, and Todor Pavlov speak.  // V. Presentation of the credentials by the Dutch Minister Plenipotentiary to Vasil Kolarov. Kimon Georgiev, Minister of Foreign Affairs, is present.  // VI. Rewarding drummers. Meeting in the "D. Blagoev" cinema. The Chairman of the Central Committee of the Confederation of Independent Trade Unions of Bulgaria Rayko Damyanov presents the awards. Vasil Kolarov speaks. Georgi Tsankov and Dobri Terpeshev are present.  // VII. Lom - agricultural exhibition. Rally. Minister Dobri Terpeshev speaks. Cattle. Present are Peko Takov and Radi Naidenov.  // VIII. City of Ruse. Areas with rice. Fishing from the rice fields. Rowing of rice.  // IX. Cultural brigade in Bosilegrad. The poet Panteley Mateev reads verses. Actress Magda Kolchakova recites poems by Nikola Vaptsarov. The Thracian group at Radio Sofia performs folk songs and dances.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>култура</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>culture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1947</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_208fbf83906476cc440ecdbcce3755ad</efg:identifier>
+				           <efg:name>Boyadzhiev, Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_545c4854c22a96b7e90a8f95a4ea386f</efg:identifier>
+				           <efg:name>Hristov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_21a533db5b6a5dc3ba77fb2c0b3c107b</efg:identifier>
+				           <efg:name>Karadimov, Simeon</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

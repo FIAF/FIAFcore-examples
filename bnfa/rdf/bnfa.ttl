@@ -1,37 +1,1890 @@
 @prefix ns1: <https://fiafcore.org/ontology/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
+<http://example.org/EFG/BNFA_avCreation_17556> a ns1:WorkVariant ;
+    rdfs:label "Стар преглед 1925-1930"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasEventDate "1925-1930" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "17556" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_17556> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Стар преглед 1925-1930"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "OLD NEWSREEL 1925-1930"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_20395> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 1"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1941" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "20395" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_20395> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 1"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 1"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_20663> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 147"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "20663" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_20663> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 147"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 147"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_21527> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 45"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1942" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21527" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_21527> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 45"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 45"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_21550> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 59"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1942" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21550" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_21550> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 59"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 59"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_21555> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 28"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1942" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21555" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_21555> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 28"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 28"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_21697> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 119"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21697" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_21697> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 119"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 119"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_21706> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 109"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21706" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_21706> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 109"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 109"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_21708> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 114"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21708" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_21708> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 114"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 114"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_21715> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 149"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21715" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_21715> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 149"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 149"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_21723> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 76"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1942" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21723" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_21723> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 76"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 76"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_27606> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 18"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1941" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27606" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_27606> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 18"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 18"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_27612> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 24"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1941" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27612" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_27612> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 24"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 24"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_27624> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 8"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1941" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27624" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_27624> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 8"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 8"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_27762> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 34"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1942" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27762" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_27762> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 34"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 34"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_27798> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 70"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1942" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27798" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_27798> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 70"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 70"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_27818> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 23"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1941" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27818" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_27818> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 23"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 23"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_27825> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 12"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1941" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27825" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_27825> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 12"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 12"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_27833> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 2"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1941" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27833" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_27833> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 2"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 2"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_38851> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 125"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "38851" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_38851> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 125"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 125"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_8810> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 87"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8810" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8810> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 87"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 87"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_8826> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 96"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8826" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8826> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 96"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 96"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_8836> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 102"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8836" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8836> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 102"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 102"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_8838> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 104"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8838" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8838> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 104"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 104"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_8842> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 106"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8842" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8842> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 106"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 106"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_8855> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 117"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8855" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8855> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 117"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 117"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_8857> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 118"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8857" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8857> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 118"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 118"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_8859> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 127"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8859" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8859> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 127"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 127"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_8863> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 130"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8863" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8863> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 130"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 130"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_8873> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 137"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8873" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8873> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 137"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 137"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_8884> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 144"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8884" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8884> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 144"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 144"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_8892> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 152"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8892" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_8892> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 152"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 152"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_9032> a ns1:WorkVariant ;
+    rdfs:label "ПРЕГЛЕДЪ 139"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "9032" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_9032> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 139"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "NEWSREEL 139"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000005> a ns1:WorkVariant ;
+    rdfs:label "Любовта е лудост"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_feb467044eacbe765d7cea2ecd1ab460> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_38fa13aef439adbd20e273c32e7dc94e> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_d7eb00dd7e80fe205ad9259852f9d4b8> ] ;
+            ns1:hasEventDate "1917" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Shortfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000005" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000005> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Любовта е лудост"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Love is Folly"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000016> a ns1:WorkVariant ;
+    rdfs:label "Курортен сън"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_0374bcd1c118e5ddcf025c9494ca9363> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_99b5b17e1dbbfaf2d15fb6bfe8fc68e0> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_9e0c7dc0ff83ece1049092ee0f6da36b> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_7f800e712e17ea7f4f6b1a16fb15a59a> ] ;
+            ns1:hasEventDate "1926" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Shortfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000016" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000016> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Курортен сън"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "A Holiday Dream"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000545> a ns1:WorkVariant ;
+    rdfs:label "Прегледъ 31"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1942" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000545" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000545> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 31"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 31"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000607> a ns1:WorkVariant ;
+    rdfs:label "Прегледъ 93"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000607" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000607> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 93"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 93"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000614> a ns1:WorkVariant ;
+    rdfs:label "Прегледъ 100"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000614" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000614> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 100"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 100"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000617> a ns1:WorkVariant ;
+    rdfs:label "Прегледъ 103"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000617" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000617> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 103"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 103"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000620> a ns1:WorkVariant ;
+    rdfs:label "Прегледъ 106"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1943" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000620" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000620> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 106"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 106"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000676> a ns1:WorkVariant ;
+    rdfs:label "Преглед 161"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000676" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000676> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 161"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Преглед 161"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000678> a ns1:WorkVariant ;
+    rdfs:label "Прегледъ 163"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000678" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000678> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 163"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 163"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000679> a ns1:WorkVariant ;
+    rdfs:label "Прегледъ 165"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000679" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000679> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 165"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 165"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000685> a ns1:WorkVariant ;
+    rdfs:label "Отечествен кино преглед 2"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_13d21b33dfe451a56959ca0ff73024d0> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000685" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000685> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 2"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 2"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000694> a ns1:WorkVariant ;
+    rdfs:label "Отечественъ прегледъ 8"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_13d21b33dfe451a56959ca0ff73024d0> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000694" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000694> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечественъ прегледъ 8"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 8"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000697> a ns1:WorkVariant ;
+    rdfs:label "Отечественъ прегледъ 10"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000697" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000697> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 10"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечественъ прегледъ 10"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000698> a ns1:WorkVariant ;
+    rdfs:label "Отечественъ прегледъ 10 A"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000698" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000698> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечественъ прегледъ 10 A"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 10 A"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010000722> a ns1:WorkVariant ;
+    rdfs:label "Кинопреглед 28"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_91310a9f80b0b5ebbc6c75dd590a2f32> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1945" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000722" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010000722> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 28"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 28"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002372> a ns1:WorkVariant ;
+    rdfs:label "Отечествен кино преглед 51"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_35afc43b458cd311c720efef015939f9> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_fe53082bb1321c85efbfcb9569f57aed> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1945" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002372" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002372> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 51"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 51"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002374> a ns1:WorkVariant ;
+    rdfs:label "Отечествен кино преглед 54"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_35afc43b458cd311c720efef015939f9> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a9d19c6bd8f30d1aeb6d15b326af6182> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_13d21b33dfe451a56959ca0ff73024d0> ] ;
+            ns1:hasEventDate "1945" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002374" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002374> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 54"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 54"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002376> a ns1:WorkVariant ;
+    rdfs:label "Отечествен кино преглед 56"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_35afc43b458cd311c720efef015939f9> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_fe53082bb1321c85efbfcb9569f57aed> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_50528ce94ee727e03ba85e2385e7770f> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ] ;
+            ns1:hasEventDate "1945" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002376" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002376> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 56"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 56"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002378> a ns1:WorkVariant ;
+    rdfs:label "Отечествен кино преглед 58"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_35afc43b458cd311c720efef015939f9> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_13d21b33dfe451a56959ca0ff73024d0> ] ;
+            ns1:hasEventDate "1945" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002378" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002378> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 58"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 58"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002386> a ns1:WorkVariant ;
+    rdfs:label "Отечествен кинопреглед 65"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_35afc43b458cd311c720efef015939f9> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_13d21b33dfe451a56959ca0ff73024d0> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064> ] ;
+            ns1:hasEventDate "1945" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002386" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002386> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 65"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кинопреглед 65"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002412> a ns1:WorkVariant ;
+    rdfs:label "Преглед 91"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_8b32b292c34e2629c4a398997a044658> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ec7aa6d7dd3f1c119264b1668fc6a864> ] ;
+            ns1:hasEventDate "1946" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002412" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002412> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Преглед 91"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 91"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002416> a ns1:WorkVariant ;
+    rdfs:label "Кинопреглед 25"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_d91d8143203d7d152ec8a766466665ac> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_854da722edce02af7c123e7288bff7de> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_aad38c973bd51f14ccae76971f8ff862> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a989eed2c65e380eac1f69a1878dcf3f> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_e73e4ad4989af4e01db376b667cd3867> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_affa98f368b83fd5919cbe36620512ab> ] ;
+            ns1:hasEventDate "1961" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002416" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002416> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 25"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 25"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002430> a ns1:WorkVariant ;
+    rdfs:label "Отечествен кинопреглед 107"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1946" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002430" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002430> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кинопреглед 107"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 107"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002438> a ns1:WorkVariant ;
+    rdfs:label "Отечествен кино преглед 114"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_13d21b33dfe451a56959ca0ff73024d0> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_8b32b292c34e2629c4a398997a044658> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_3b063e581536f68714dc7b8785106258> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ] ;
+            ns1:hasEventDate "1946" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002438" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002438> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 114"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "National Newsreel 114"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002444> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кино преглед 120"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_545c4854c22a96b7e90a8f95a4ea386f> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4e6021cf70c6af67aa1e557c0f253fba> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_08df4bf77772251a7c5144a1e5d0690c> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ec7aa6d7dd3f1c119264b1668fc6a864> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ] ;
+            ns1:hasEventDate "1947" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002444" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002444> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 120"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Weekly Newsreel 120"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002479> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кино преглед 151"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_545c4854c22a96b7e90a8f95a4ea386f> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_208fbf83906476cc440ecdbcce3755ad> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_21a533db5b6a5dc3ba77fb2c0b3c107b> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ] ;
+            ns1:hasEventDate "1947" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002479" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002479> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Weekly Newsreel 151"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 151"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002494> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кино преглед 159"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_545c4854c22a96b7e90a8f95a4ea386f> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_208fbf83906476cc440ecdbcce3755ad> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_21a533db5b6a5dc3ba77fb2c0b3c107b> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1947" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002494" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002494> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 159"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Weekly Newsreel 159"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002503> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кино преглед 168"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_2a36052e4894a47ad0bf1543c2b3b2c5> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a9d19c6bd8f30d1aeb6d15b326af6182> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1947" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002503" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002503> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 168"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 168"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002504> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кино преглед 169"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_21a533db5b6a5dc3ba77fb2c0b3c107b> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_915810c42ad9a993b4c92f2e81599eb0> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ] ;
+            ns1:hasEventDate "1947" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002504" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002504> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 169"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 169"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002508> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кино преглед 173"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_915810c42ad9a993b4c92f2e81599eb0> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_8b2635e363b9b62c76b1bcb644f9eedf> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_21a533db5b6a5dc3ba77fb2c0b3c107b> ] ;
+            ns1:hasEventDate "1948" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002508" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002508> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 173"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Weekly Newsreel 173"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002548> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кино преглед 211"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_98f11ea379e91684091cc17f000acf49> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f1776b6afb44cdb788507a194da322b5> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_28f1b7cbdddf3676d8186c1ae3665f1d> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_d40a5f158227fecab3ddf95003283378> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_f570604355fa5f6b0fe432be70445589> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_55b7c0a98513be4c798b1d6b19038881> ] ;
+            ns1:hasEventDate "1948" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002548" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002548> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 211"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 211"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002578> a ns1:WorkVariant ;
+    rdfs:label "Кинопреглед 242"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f1776b6afb44cdb788507a194da322b5> ] ;
+            ns1:hasEventDate "1949" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002578" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002578> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 242"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 242"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002679> a ns1:WorkVariant ;
+    rdfs:label "Кинопреглед 340"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_e50060e7df59f5bc9a0409d2c7d8f182> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4e6021cf70c6af67aa1e557c0f253fba> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a455914fa7e28e922331bc73b78e5f55> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_d40a5f158227fecab3ddf95003283378> ] ;
+            ns1:hasEventDate "1951" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002679" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002679> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 340"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 340"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002716> a ns1:WorkVariant ;
+    rdfs:label "Кинопреглед 377"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a989eed2c65e380eac1f69a1878dcf3f> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_d40a5f158227fecab3ddf95003283378> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_affa98f368b83fd5919cbe36620512ab> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ] ;
+            ns1:hasEventDate "1952" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002716" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002716> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 377"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 377"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002754> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кинопреглед 415"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_e3fa92bd1758393fb689f2ff386d45ff> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_eeef4f274ef4f58643ce4a747d42741d> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_affa98f368b83fd5919cbe36620512ab> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_6cbedda66b902aaa6f962d29a7b7243e> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_0fca01e2cd59dffac034c851d567d494> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ] ;
+            ns1:hasEventDate "1952" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002754" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002754> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед 415"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Weekly Newsreel 415"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002764> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кинопреглед 425"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_0fca01e2cd59dffac034c851d567d494> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_1f9ad986cdbddda339a7aa284b70a494> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_f310ea5e1e7239e46df78551840df72a> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ] ;
+            ns1:hasEventDate "1952" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002764" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002764> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед 425"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Weekly Newsreel 425"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002768> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кинопреглед 427"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_1e1ca31672d17728b566bce4ba846182> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_fa55a62b90a8e859d8a4f7f63800afc0> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4e6021cf70c6af67aa1e557c0f253fba> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_eeef4f274ef4f58643ce4a747d42741d> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_f310ea5e1e7239e46df78551840df72a> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_aad38c973bd51f14ccae76971f8ff862> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_06a9d9f5fe2373ba12a9be8b9f1d26dc> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a989eed2c65e380eac1f69a1878dcf3f> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ] ;
+            ns1:hasEventDate "1953" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002768" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002768> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед 427"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Weekly Newsreel 427"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002885> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кинопреглед No 17"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_034786e2cf32542d4b8352c7f7ead248> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_9574e53c22716d9ac205c46d76cd3e05> ] ;
+            ns1:hasEventDate "1955" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002885" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002885> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед No 17"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Weekly Newsreel No 17"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002983> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кинопреглед No 10"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a455914fa7e28e922331bc73b78e5f55> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ff772b6a5c2270178f18ee0925323514> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_1f9ad986cdbddda339a7aa284b70a494> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ac4bc8bb8bfab8bc19b9dc20d9fb45f8> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_1550fceb517e4644c8bb87d97c6d8f33> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4e6021cf70c6af67aa1e557c0f253fba> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_aad38c973bd51f14ccae76971f8ff862> ] ;
+            ns1:hasEventDate "1957" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002983" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002983> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед No 10"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel No 10"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010002994> a ns1:WorkVariant ;
+    rdfs:label "Седмичен кинопреглед No 21"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a455914fa7e28e922331bc73b78e5f55> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_aad38c973bd51f14ccae76971f8ff862> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_e73e4ad4989af4e01db376b667cd3867> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ff772b6a5c2270178f18ee0925323514> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_4be3a9facd2be794e256c7304078f11e> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ac4bc8bb8bfab8bc19b9dc20d9fb45f8> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_b0ab35de4a70cff72907262c9dad2127> ] ;
+            ns1:hasEventDate "1957" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002994" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010002994> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Weekly Newsreel No 21"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед No 21"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010003046> a ns1:WorkVariant ;
+    rdfs:label "Кинохроника 23"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_6157edf0a6d8752ac9b7b684a72d322d> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ae3f9dffeddd8a44925c04990a1759a9> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_589852ec4058346a1c9aefc673245b86> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f1776b6afb44cdb788507a194da322b5> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_b0db481299f7fb82f3d8e4ea968bc9d6> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_eb23babcbc4b255882501c59b7c322a8> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_cb25aeab94539fde0514824b966beb55> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_da696738afd63d1ad306a342c324c8ac> ] ;
+            ns1:hasEventDate "1977" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003046" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010003046> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинохроника 23"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 23"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010003288> a ns1:WorkVariant ;
+    rdfs:label "Кинопреглед No 38"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_1550fceb517e4644c8bb87d97c6d8f33> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_d91d8143203d7d152ec8a766466665ac> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_e73e4ad4989af4e01db376b667cd3867> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_dd2bc03247a59f461f3e48247b549735> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_affa98f368b83fd5919cbe36620512ab> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_aad38c973bd51f14ccae76971f8ff862> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673> ] ;
+            ns1:hasEventDate "1962" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003288" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010003288> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед No 38"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel No 38"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010003334> a ns1:WorkVariant ;
+    rdfs:label "Кинопреглед 36"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_1ca139082be77cf69687809311d5368a> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_5ec33988123f84c38a7bcac46944c658> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_1550fceb517e4644c8bb87d97c6d8f33> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_7e705d5799423f997402f26d197c15cd> ] ;
+            ns1:hasEventDate "1963" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003334" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010003334> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 36"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 36"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010003336> a ns1:WorkVariant ;
+    rdfs:label "Кино преглед No 38"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_1ca139082be77cf69687809311d5368a> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_f570604355fa5f6b0fe432be70445589> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_1550fceb517e4644c8bb87d97c6d8f33> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_7e705d5799423f997402f26d197c15cd> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_dd2bc03247a59f461f3e48247b549735> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_0ce09f99b5b1671fd29afe75edfb12ff> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_e73e4ad4989af4e01db376b667cd3867> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_8bc89f4cf5f67be8abbbe37b985deb66> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_6157edf0a6d8752ac9b7b684a72d322d> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1> ] ;
+            ns1:hasEventDate "1963" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003336" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010003336> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel No 38"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кино преглед No 38"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010003555> a ns1:WorkVariant ;
+    rdfs:label "Кино преглед 48"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ac4bc8bb8bfab8bc19b9dc20d9fb45f8> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_eb23babcbc4b255882501c59b7c322a8> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_c23cb973d1796b2679fe7b454de99fb4> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_c0546bac62d8bb681191daaf9dee1684> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_6157edf0a6d8752ac9b7b684a72d322d> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_99c8fe5de6a35f8e4d07185a96026b27> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a455914fa7e28e922331bc73b78e5f55> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_e73e4ad4989af4e01db376b667cd3867> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_150e2139c8d8d6bc405736196d9b8e88> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b> ] ;
+            ns1:hasEventDate "1967" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003555" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010003555> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 48"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кино преглед 48"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010003901> a ns1:WorkVariant ;
+    rdfs:label "Кинопреглед 28"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_b0db481299f7fb82f3d8e4ea968bc9d6> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_6f390c3566245f2714c793d2c6a5afb1> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_0ce09f99b5b1671fd29afe75edfb12ff> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_dfbb973b721157fb9bc9bd2b367f4132> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_626a688a8cb378bcf625d5cbb39d724c> ] ;
+            ns1:hasEventDate "1974" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003901" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010003901> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Newsreel 28"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 28"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010007240> a ns1:WorkVariant ;
+    rdfs:label "Откриване паметна плоча на Владислав Варненчик"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasEventDate "1935" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007240" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010007240> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Откриване паметна плоча на Владислав Варненчик"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Unveiling a memorial to Vladislav Varnenchik"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010007252> a ns1:WorkVariant ;
+    rdfs:label "Техни величества югославянските владетели в София"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_f9bfc96dae42a63c6974e770c9b927d8> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_5fbf0313a41c95d42d611873171dbf03> ] ;
+            ns1:hasEventDate "1934" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007252" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010007252> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Техни величества югославянските владетели в София"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "The rulers of Yugoslavia visit Sofia"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010007262> a ns1:WorkVariant ;
+    rdfs:label "Родопи и Рила"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_f606d69a4e4f55486277d47aeccc5a84> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_83190cce94de43d86ab03e3fba19b784> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_57dfeded603e39936c9e45e7c7694fcd> ] ;
+            ns1:hasEventDate "1940-1948" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007262" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010007262> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Rhodope and Rila"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Родопи и Рила"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010007281> a ns1:WorkVariant ;
+    rdfs:label "Откриване на ВНС във Велико Търново"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasEventDate "1911" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Newsreel> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007281" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010007281> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Opening of the Great National Assembly in Veliko Tarnovo"@en ],
+        [ a ns1:SuppliedDevisedTitle ;
+            ns1:hasTitleValue "Откриване на ВНС във Велико Търново"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010007285> a ns1:WorkVariant ;
+    rdfs:label "Царски маневри Попово"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasEventDate "1937" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007285" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010007285> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Royal military manouvers in Popovo"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Царски маневри Попово"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010007288> a ns1:WorkVariant ;
+    rdfs:label "Една екскурзия изъ чепинското корито - българска Швейцария"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_a9d19c6bd8f30d1aeb6d15b326af6182> ] ;
+            ns1:hasEventDate "1933" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007288" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010007288> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Една екскурзия изъ чепинското корито - българска Швейцария"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "A trip through the Chepino gorge"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF010009707> a ns1:WorkVariant ;
+    rdfs:label "Към майката отечество"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_57dfeded603e39936c9e45e7c7694fcd> ] ;
+            ns1:hasEventDate "1940" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010009707" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF010009707> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "To the Motherland"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Към майката отечество"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_BNF_001> a ns1:WorkVariant ;
+    rdfs:label "Събаряне на портата на двореца"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> ] ;
+            ns1:hasEventDate "1946" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Fragment> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF_001" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_BNF_001> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "Demolishing the gate of the palace"@en ],
+        [ a ns1:SuppliedDevisedTitle ;
+            ns1:hasTitleValue "Събаряне на портата на двореца"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_MFN2715> a ns1:WorkVariant ;
+    rdfs:label "АТЕНТАТЪТ В \"СВЕТА НЕДЕЛЯ\""@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_35afc43b458cd311c720efef015939f9> ] ;
+            ns1:hasEventDate "1925" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2715" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2715> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "OUTRAGE IN THE CHURCH \"SVETA NEDELYA\""@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "АТЕНТАТЪТ В \"СВЕТА НЕДЕЛЯ\""@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_MFN2716> a ns1:WorkVariant ;
+    rdfs:label "БАЛКАНСКАТА ВОЙНА 1912-1913"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_b0f2ab0a15df6a3931f407a156250b86> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_b0f2ab0a15df6a3931f407a156250b86> ] ;
+            ns1:hasEventDate "1913" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2716" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2716> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "БАЛКАНСКАТА ВОЙНА 1912-1913"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "THE BALKAN WAR 1912-1913"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_MFN2720> a ns1:WorkVariant ;
+    rdfs:label "БОМБИ НАД СОФИЯ"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasEventDate "1944" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2720" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2720> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "БОМБИ НАД СОФИЯ"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "THE BOMBING OF SOFIA"@en ] .
+
 <http://example.org/EFG/BNFA_avCreation_MFN2747> a ns1:WorkVariant ;
     rdfs:label "О, ДОБРУДЖАНСКИ КРАЙ"@bg ;
     ns1:hasCountry <http://example.org/EFG/country/BG> ;
     ns1:hasEvent [ a ns1:ProductionEvent ;
             ns1:hasActivity [ a ns1:Director ;
                     ns1:hasAgent <http://example.org/EFG/BNFA_person_8d4920f9acc3673afed6c2fa34495a90> ] ;
+            ns1:hasEventDate "1940" ],
+        [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_8d4920f9acc3673afed6c2fa34495a90> ] ;
             ns1:hasEventDate "1940" ] ;
     ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
     ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2747" ],
+        [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2747" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2747> ;
     ns1:hasTitle [ a ns1:TranslatedTitle ;
             ns1:hasTitleValue "THE REGION OF DOBRUDZHA"@en ],
         [ a ns1:PreferredTitle ;
-            ns1:hasTitleValue "О, ДОБРУДЖАНСКИ КРАЙ"@bg ] .
+            ns1:hasTitleValue "О, ДОБРУДЖАНСКИ КРАЙ"@bg ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "О, ДОБРУДЖАНСКИ КРАЙ"@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "THE REGION OF DOBRUDZHA"@en ] .
 
 <http://example.org/EFG/BNFA_avCreation_MFN2753> a ns1:WorkVariant ;
-    rdfs:label "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ;
+    rdfs:label "ИЗБОР НА ЦАРИЦА НА ЛЪДЖЕНСКИЯ ПЛАЖ"@bg,
+        "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ;
     ns1:hasCountry <http://example.org/EFG/country/BG> ;
     ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ] ;
+            ns1:hasEventDate "1940" ],
+        [ a ns1:ProductionEvent ;
             ns1:hasActivity [ a ns1:Cinematographer ;
                     ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ] ;
             ns1:hasEventDate "1940" ] ;
     ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
     ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2753" ],
+        [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2753" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2753> ;
     ns1:hasTitle [ a ns1:PreferredTitle ;
             ns1:hasTitleValue "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ],
         [ a ns1:TranslatedTitle ;
-            ns1:hasTitleValue "QUEEN OF THE BEACH CONTEST AT THE LUJENE BEACH"@en ] .
+            ns1:hasTitleValue "QUEEN OF THE BEACH CONTEST AT THE LADZHENE BEACH"@en ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "QUEEN OF THE BEACH CONTEST AT THE LUJENE BEACH"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ИЗБОР НА ЦАРИЦА НА ЛЪДЖЕНСКИЯ ПЛАЖ"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_MFN2764> a ns1:WorkVariant ;
+    rdfs:label "НАШЕТО МОРЕ"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_5fbf0313a41c95d42d611873171dbf03> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_d2a606941232f97b1f0f0cc69f3824c3> ] ;
+            ns1:hasEventDate "1929" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2764" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2764> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "OUR SEA"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "НАШЕТО МОРЕ"@bg ] .
 
 <http://example.org/EFG/BNFA_avCreation_MFN2776> a ns1:WorkVariant ;
     rdfs:label "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ;
@@ -41,61 +1894,1907 @@
                     ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ],
                 [ a ns1:Cinematographer ;
                     ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ] ;
+            ns1:hasEventDate "1932" ],
+        [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> ] ;
             ns1:hasEventDate "1940" ] ;
     ns1:hasForm <http://example.org/EFG/form/Advertisingfilm> ;
     ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2776" ],
+        [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2776" ] ;
     ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2776> ;
     ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "ENJOY SHUMENSKO PIVO"@en ],
+        [ a ns1:TranslatedTitle ;
             ns1:hasTitleValue "DRINK ONLY SHUMENSKO PIVO"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ],
         [ a ns1:PreferredTitle ;
             ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ] .
 
-<http://example.org/EFG/BNFA_avManifestation_MFN2747> a ns1:Manifestation ;
+<http://example.org/EFG/BNFA_avCreation_MFN2779> a ns1:WorkVariant ;
+    rdfs:label "ПОЖАРНА КОМАНДА 1938г."@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasEventDate "1938" ],
+        [ a ns1:ProductionEvent ;
+            ns1:hasEventDate "1938" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Advertisingfilm>,
+        <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2779" ],
+        [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2779" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2779> ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПОЖАРНА КОМАНДА 1938г."@bg ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПОЖАРНА КОМАНДА 1938г."@bg ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "THE FIRE BRIGADE"@en ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "THE FIRE BRIGADE"@en ] .
+
+<http://example.org/EFG/BNFA_avCreation_MFN2811> a ns1:WorkVariant ;
+    rdfs:label "ТРЯВНА"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_cc0eb4c46c4bee5a8472ad9dcd387afb> ] ;
+            ns1:hasEventDate "1928" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Documentaryfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2811" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN2811> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "TRYAVNA"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ТРЯВНА"@bg ] .
+
+<http://example.org/EFG/BNFA_avCreation_MFN6> a ns1:WorkVariant ;
+    rdfs:label "ЛЮБОВТА Е ЛУДОСТ"@bg ;
+    ns1:hasCountry <http://example.org/EFG/country/BG> ;
+    ns1:hasEvent [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_38fa13aef439adbd20e273c32e7dc94e> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_d7eb00dd7e80fe205ad9259852f9d4b8> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_693565750063129c417daa874073c0ca> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_8a95b17fd173ab8705ab20ad7125c2e5> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_e2a5a370ecff21ac239e9c442f93e77f> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_893b3dd8671fe73ce4bd539125f363bb> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_feb467044eacbe765d7cea2ecd1ab460> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_c23e8010ec939b9649ceebc36798d890> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_07a6248f546db2e9e1dd1d7e405ff939> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_2798fb73927ac0c5287b612c21ff5647> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_dc6416a5344c469a2dd7f08c99f4c9bc> ] ;
+            ns1:hasEventDate "1917" ],
+        [ a ns1:ProductionEvent ;
+            ns1:hasActivity [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_8a95b17fd173ab8705ab20ad7125c2e5> ],
+                [ a ns1:Director ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_feb467044eacbe765d7cea2ecd1ab460> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_2798fb73927ac0c5287b612c21ff5647> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_893b3dd8671fe73ce4bd539125f363bb> ],
+                [ a ns1:Cinematographer ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_38fa13aef439adbd20e273c32e7dc94e> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_dc6416a5344c469a2dd7f08c99f4c9bc> ],
+                [ a ns1:ProductionCompany ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_corporate_d7eb00dd7e80fe205ad9259852f9d4b8> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_c23e8010ec939b9649ceebc36798d890> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_693565750063129c417daa874073c0ca> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_e2a5a370ecff21ac239e9c442f93e77f> ],
+                [ a ns1:CastMember ;
+                    ns1:hasAgent <http://example.org/EFG/BNFA_person_07a6248f546db2e9e1dd1d7e405ff939> ] ;
+            ns1:hasEventDate "1917" ] ;
+    ns1:hasForm <http://example.org/EFG/form/Shortfilm> ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN6" ],
+        [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN6" ] ;
+    ns1:hasManifestation <http://example.org/EFG/BNFA_avManifestation_MFN6> ;
+    ns1:hasTitle [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "LOVE IS FOLLY"@en ],
+        [ a ns1:TranslatedTitle ;
+            ns1:hasTitleValue "LOVE IS FOLLY"@en ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ЛЮБОВТА Е ЛУДОСТ"@bg ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ЛЮБОВТА Е ЛУДОСТ"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_17556> a ns1:Manifestation ;
     ns1:hasColourCharacteristic ns1:BlackAndWhite ;
     ns1:hasExtent [ a ns1:Minutes ;
-            ns1:hasExtentValue "00:08:36" ] ;
+            ns1:hasExtentValue "00:03:33" ] ;
     ns1:hasFormat ns1:35mmFilm ;
     ns1:hasIdentifier [ a ns1:Identifier ;
-            ns1:hasIdentifierValue "MFN2747" ] ;
-    ns1:hasItem <http://example.org/EFG/BNFA_item_z91ZjIrEqsNfqkF95pwCWg> ;
+            ns1:hasIdentifierValue "17556" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_ZkcAajGXPFiBm4oDiSFZrg> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Стар преглед 1925-1930"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_20395> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:05:31" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "20395" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_GrbYtBOKYEXamgGI8EXUnw> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 1"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_20663> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:51" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "20663" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_F-rDU7Fb4ornUSRWnVnrgg> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
     ns1:hasSoundCharacteristic ns1:Sound ;
     ns1:hasTitle [ a ns1:PreferredTitle ;
-            ns1:hasTitleValue "О, ДОБРУДЖАНСКИ КРАЙ"@bg ] .
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 147"@bg ] .
 
-<http://example.org/EFG/BNFA_avManifestation_MFN2753> a ns1:Manifestation ;
+<http://example.org/EFG/BNFA_avManifestation_21527> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:07:59" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21527" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_bLHRv8usQCqXMws+lbcPjQ> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 45"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_21550> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:11:02" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21550" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_S3zCvgtWjXMek0dHM6ypqg> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 59"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_21555> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:07:09" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21555" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_k3lH2ZiD3bmqjp+vzu22aQ> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 28"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_21697> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:31" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21697" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_nW8Ui0nTRCm2Nze-cgULcw> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 119"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_21706> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:17" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21706" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_D3ZU5YD9BZJ+pMa8RwLV9Q> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 109"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_21708> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:38" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21708" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_ayxfUjELboE4OfPD6JiMmQ> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 114"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_21715> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:37" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21715" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_juWTrgX2xaf-hAYDBEWFRQ> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 149"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_21723> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:00" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "21723" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_cwRGncjYBEuvxZOuKy1y2w> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 76"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_27606> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:05:00" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27606" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_I4ObBnmh90LZTSaed+ZE2A> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 18"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_27612> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:09" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27612" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_o241HuhRmlQwfHSWR8McSw> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 24"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_27624> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:21" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27624" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_flO31T29vlGAFAPH-RWcyQ> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 8"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_27762> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:44" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27762" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_ULESYuP5yHaL6W2RY-P3PA> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 34"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_27798> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:22" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27798" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_91sBISbG+UqwZilXIPMt-w> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 70"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_27818> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:57" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27818" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_bZIc5mZ9QISsWSlH7xL4dw> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 23"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_27825> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:47" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27825" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_0+wVB7ewXYyrrS5pMrdhKw> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 12"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_27833> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:25" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "27833" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_ZHYPta-KTaumjLhbt3lfFg> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 2"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_38851> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:40" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "38851" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_rD7mWks8vQFDW-Qpx1cwYQ> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 125"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8810> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:19" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8810" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_CT9DwNCPo-HOVPTMeSYLxw> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 87"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8826> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:52" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8826" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_P7dox2zP+jTYf6gm2-q1Zw> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 96"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8836> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:28" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8836" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_dV49DLKJMXNNaFxArV61aA> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 102"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8838> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:25" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8838" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_A4znvejZIFyf79RbEep8mw> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 104"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8842> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:14" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8842" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_cn3IrcTI2W7RBsPSP+wIcQ> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 106"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8855> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:27" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8855" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_1yJ-4f6PtPCQr0954lxNhA> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 117"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8857> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:45" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8857" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_xGu4WjH0mFpnV4ON4gtLMA> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 118"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8859> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:15" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8859" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_sOXK0VimHH05E7k5Bbp-tg> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 127"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8863> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:07:30" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8863" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_Wro63XVoBPnOACFELBP+GA> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 130"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8873> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:21" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8873" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_9YQvsDt5QoUATHhWnqbOvQ> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 137"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8884> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:29" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8884" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_S8N1RVQQDo8Voq1XtZT8vA> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 144"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_8892> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:04:42" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "8892" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_A5xuFsuup0VNt49B4wzEmQ> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 152"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_9032> a ns1:Manifestation ;
     ns1:hasColourCharacteristic ns1:BlackAndWhite ;
     ns1:hasExtent [ a ns1:Minutes ;
             ns1:hasExtentValue "00:06:10" ] ;
     ns1:hasFormat ns1:35mmFilm ;
     ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "9032" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_ejvWlBMk71HIACHAU-1qRg> ;
+    ns1:hasLanguageUsage [ a ns1:DialogueLanguages ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПРЕГЛЕДЪ 139"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000005> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:11:07" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000005" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_2VkK-3QZDzNSYohA22E9PQ> ;
+    ns1:hasLanguageUsage [ a ns1:Subtitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/en> ],
+        [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Любовта е лудост"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000016> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:20:25" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000016" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_hhLHGp1Zp5V7dA5ij0wJWA> ;
+    ns1:hasLanguageUsage [ a ns1:Subtitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/en> ],
+        [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Курортен сън"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000545> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:33" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000545" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_1ZZ01nv7nV9TafADai8+Vw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 31"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000607> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:54" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000607" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_G1j4JkWQteavaDPlGGXoNA> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 93"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000614> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:13:42" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000614" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_r8X5emoDEJMAi-Ax587xGQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 100"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000617> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:08" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000617" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_Deh8tfHMWnjpyHuEzyCEGw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 103"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000620> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:15" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000620" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_820IK1YqQxgQiKgltuzCqQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 106"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000676> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:13" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000676" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_+lw1qVoQFENr661qQX7sQw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Преглед 161"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000678> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:07" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000678" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_6g3hI6TPqrJ-b5OU6Hs8Hw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 163"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000679> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:20" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000679" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_WNRU4USX0zwgjRlamA1ORg> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Прегледъ 165"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000685> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:04" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000685" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_OTmr166ewCJGWTmEJx+MRQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 2"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000694> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:20" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000694" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_AaCXtg1pY7azgJv6CMSwjQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечественъ прегледъ 8"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000697> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:51" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000697" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_P9sUeZwmAsZJT4wrUMwPIQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечественъ прегледъ 10"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000698> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:08" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000698" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_IOyXaUM-nQ5UL0RjKxiCqg> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечественъ прегледъ 10 A"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010000722> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:11:27" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010000722" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_DVhexXfpMj3YOrtglNN-yw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 28"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002372> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:50" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002372" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_288498LOqYLHizG009iIVg> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 51"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002374> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:03" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002374" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_kek4VlECyqb+AFAlK5-NnQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 54"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002376> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002376" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_06x91i-fbppYph1+VE8tcw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 56"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002378> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:48" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002378" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_ezqEzt2wTQNkqtp+YtLGCw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 58"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002386> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:11:38" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002386" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_9R2m2ZBsw-bYtaL8GtX6lA> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кинопреглед 65"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002412> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:38" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002412" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_XpLodbvuWJfBnfRxbPeUwA> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Преглед 91"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002416> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:34" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002416" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_474XCEwfqirEZplb7oxayA> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 25"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002430> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:11:51" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002430" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_MHiurk4WAWtSXdvocFWuFA> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кинопреглед 107"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002438> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:20" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002438" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_uioowcQJ3GYgpG9FuDKxPQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Отечествен кино преглед 114"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002444> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:21" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002444" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_WV2SzNl9UERVECRn38cWwQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 120"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002479> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:12:44" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002479" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_9M8YX1tehH3dH5UBMTGJxg> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 151"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002494> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:12:13" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002494" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_N8bguEYbc6xriBWhTgrPkA> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 159"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002503> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:13:01" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002503" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_hoc6d19c+YsJMK4v74uI1Q> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 168"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002504> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:13" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002504" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_e5C+M3pC+vd5WvYqjRKMQQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 169"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002508> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:12:05" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002508" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_F172qyzbUH7NcboaLb9KqA> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 173"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002548> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:11:25" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002548" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_jaGxIByINt2I2v-N-h2TvQ> ;
+    ns1:hasLanguageUsage [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кино преглед 211"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002578> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:15:15" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002578" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_7b5iRddSaaqvtsyS7PMYfg> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 242"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002679> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:23" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002679" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_taE8en9EdvomEqJg7hVA2Q> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 340"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002716> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:23" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002716" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_vVkKT+9UoWGwk72NfxwMIA> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 377"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002754> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:08" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002754" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_3YpYM-x-0S0GLUPIYghDpA> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед 415"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002764> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:11:04" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002764" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_fWTox2bbgrftxp1qbYq4Rg> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед 425"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002768> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:14" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002768" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_fsp64Abac-OsxrEODkisjg> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед 427"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002885> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:06" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002885" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_4EHRKmvKOvyAjUh8rVJ3qQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед No 17"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002983> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:42" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002983" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_jraIgYyqGspqWNvBPY2-Mw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед No 10"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010002994> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:55" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010002994" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_nuX5kNe3ZS9SXecpbBVVzQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Седмичен кинопреглед No 21"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010003046> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:14" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003046" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_1OnCRQVFrYPguDR--uEAiQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинохроника 23"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010003288> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:05" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003288" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_jxuW-IS+i+-a7B4ETP9f5g> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед No 38"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010003334> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:02" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003334" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_D7XX9lWVAE-GZ-ufrfgQaQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 36"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010003336> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:07" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003336" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_XpBEyGwhMBqmH3vaOIFLnQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кино преглед No 38"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010003555> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:18" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003555" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_D8+jV-cvJA5OdYaD0c0Pjw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кино преглед 48"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010003901> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:07" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010003901" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_JeankfWWpyQn22124B1RFw> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Кинопреглед 28"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010007240> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:06:34" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007240" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_BkAzyQ8ANuwyvXgm0TVA1g> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Откриване паметна плоча на Владислав Варненчик"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010007252> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:02:32" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007252" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_q3+PrRqITfOQZlxPE2EnPA> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Техни величества югославянските владетели в София"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010007262> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:11:42" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007262" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_UsDn3seOD+oT3IJew9XHQA> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Родопи и Рила"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010007281> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:05:07" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007281" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_rhkbbYrrpwYbOqXY9+ooaQ> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:SuppliedDevisedTitle ;
+            ns1:hasTitleValue "Откриване на ВНС във Велико Търново"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010007285> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:54:38" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007285" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_8Com2povQ62Pf+iqsw5-1w> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Царски маневри Попово"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010007288> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:18:34" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010007288" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_PX8Yxj-mJIroGPgkmsyK6g> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Една екскурзия изъ чепинското корито - българска Швейцария"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF010009707> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "01:01:39" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF010009707" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_rbs1iI918cViYBV2yLVtPQ> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "Към майката отечество"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_BNF_001> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:04:07" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "BNF_001" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_PfDknAjfkycM89uYL6ZazA> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:SuppliedDevisedTitle ;
+            ns1:hasTitleValue "Събаряне на портата на двореца"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_MFN2715> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:17:32" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2715" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_v5sdq4DB-x8Xw0GBMAFh2g> ;
+    ns1:hasLanguageUsage [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "АТЕНТАТЪТ В \"СВЕТА НЕДЕЛЯ\""@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_MFN2716> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:38:55" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2716" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_1HiJHdtXExG4bToVFR5zVg> ;
+    ns1:hasLanguageUsage [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "БАЛКАНСКАТА ВОЙНА 1912-1913"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_MFN2720> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:09:25" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2720" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_Wvap2FQ0xtBc0aJNU67Y3Q> ;
+    ns1:hasLanguageUsage [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "БОМБИ НАД СОФИЯ"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_MFN2747> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:36" ],
+        [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:08:36" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2747" ],
+        [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2747" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_z91ZjIrEqsNfqkF95pwCWg> ;
+    ns1:hasSoundCharacteristic ns1:Sound ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "О, ДОБРУДЖАНСКИ КРАЙ"@bg ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "О, ДОБРУДЖАНСКИ КРАЙ"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_MFN2753> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:06:10" ],
+        [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:06:10" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2753" ],
+        [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2753" ] ;
     ns1:hasItem <http://example.org/EFG/BNFA_item_s37ITPuSPwnwsGVkOnjowg> ;
     ns1:hasSoundCharacteristic ns1:Sound ;
     ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ],
+        [ a ns1:PreferredTitle ;
             ns1:hasTitleValue "ИЗБОР НА ЦАРИЦА НА ЛЪЖЕНСКИЯ ПЛАЖ"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_MFN2764> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:15:12" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2764" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_NDtgirakW-exFvcTzeFuxw> ;
+    ns1:hasLanguageUsage [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "НАШЕТО МОРЕ"@bg ] .
 
 <http://example.org/EFG/BNFA_avManifestation_MFN2776> a ns1:Manifestation ;
     ns1:hasColourCharacteristic ns1:BlackAndWhite ;
     ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:13:54" ],
+        [ a ns1:Minutes ;
             ns1:hasExtentValue "00:13:54" ] ;
     ns1:hasFormat ns1:35mmFilm ;
     ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2776" ],
+        [ a ns1:Identifier ;
             ns1:hasIdentifierValue "MFN2776" ] ;
     ns1:hasItem <http://example.org/EFG/BNFA_item_HeX4T4+RjzgFQRDOxhTIgg> ;
     ns1:hasSoundCharacteristic ns1:Silent ;
     ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ],
+        [ a ns1:PreferredTitle ;
             ns1:hasTitleValue "ПИЙТЕ САМО ШУМЕНСКО ПИВО"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_MFN2779> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:12:22" ],
+        [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:12:22" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2779" ],
+        [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2779" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_4lgDZ4YlE5sxtbYPMkE0jQ> ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПОЖАРНА КОМАНДА 1938г."@bg ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ПОЖАРНА КОМАНДА 1938г."@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_MFN2811> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:19:08" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN2811" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_+D7Mhg9CYeWTntkqwX0X-A> ;
+    ns1:hasLanguageUsage [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ТРЯВНА"@bg ] .
+
+<http://example.org/EFG/BNFA_avManifestation_MFN6> a ns1:Manifestation ;
+    ns1:hasColourCharacteristic ns1:BlackAndWhite ;
+    ns1:hasExtent [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:33" ],
+        [ a ns1:Minutes ;
+            ns1:hasExtentValue "00:10:33" ] ;
+    ns1:hasFormat ns1:35mmFilm ;
+    ns1:hasIdentifier [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN6" ],
+        [ a ns1:Identifier ;
+            ns1:hasIdentifierValue "MFN6" ] ;
+    ns1:hasItem <http://example.org/EFG/BNFA_item_k46viT07by0PFa0QiVTbsQ> ;
+    ns1:hasLanguageUsage [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ],
+        [ a ns1:Intertitles ;
+            ns1:hasLanguage <http://example.org/EFG/language/bg> ] ;
+    ns1:hasSoundCharacteristic ns1:Silent ;
+    ns1:hasTitle [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ЛЮБОВТА Е ЛУДОСТ"@bg ],
+        [ a ns1:PreferredTitle ;
+            ns1:hasTitleValue "ЛЮБОВТА Е ЛУДОСТ"@bg ] .
+
+<http://example.org/EFG/BNFA_corporate_626a688a8cb378bcf625d5cbb39d724c> a ns1:CorporateBody ;
+    rdfs:label "Komitet za Televizia i Radio; Studia za Dokumentalni Filmi" .
+
+<http://example.org/EFG/BNFA_corporate_9e0c7dc0ff83ece1049092ee0f6da36b> a ns1:CorporateBody ;
+    rdfs:label "Filmova Laboratoria KENKOV-FILM, Varna" .
+
+<http://example.org/EFG/BNFA_item_+D7Mhg9CYeWTntkqwX0X-A> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_+lw1qVoQFENr661qQX7sQw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_0+wVB7ewXYyrrS5pMrdhKw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_06x91i-fbppYph1+VE8tcw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_1HiJHdtXExG4bToVFR5zVg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_1OnCRQVFrYPguDR--uEAiQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_1ZZ01nv7nV9TafADai8+Vw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_1yJ-4f6PtPCQr0954lxNhA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_288498LOqYLHizG009iIVg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_2VkK-3QZDzNSYohA22E9PQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_3YpYM-x-0S0GLUPIYghDpA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_474XCEwfqirEZplb7oxayA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_4EHRKmvKOvyAjUh8rVJ3qQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_4lgDZ4YlE5sxtbYPMkE0jQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_6g3hI6TPqrJ-b5OU6Hs8Hw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_7b5iRddSaaqvtsyS7PMYfg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_820IK1YqQxgQiKgltuzCqQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_8Com2povQ62Pf+iqsw5-1w> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_91sBISbG+UqwZilXIPMt-w> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_9M8YX1tehH3dH5UBMTGJxg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_9R2m2ZBsw-bYtaL8GtX6lA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_9YQvsDt5QoUATHhWnqbOvQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_A4znvejZIFyf79RbEep8mw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_A5xuFsuup0VNt49B4wzEmQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_AaCXtg1pY7azgJv6CMSwjQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_BkAzyQ8ANuwyvXgm0TVA1g> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_CT9DwNCPo-HOVPTMeSYLxw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_D3ZU5YD9BZJ+pMa8RwLV9Q> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_D7XX9lWVAE-GZ-ufrfgQaQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_D8+jV-cvJA5OdYaD0c0Pjw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_DVhexXfpMj3YOrtglNN-yw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_Deh8tfHMWnjpyHuEzyCEGw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_F-rDU7Fb4ornUSRWnVnrgg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_F172qyzbUH7NcboaLb9KqA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_G1j4JkWQteavaDPlGGXoNA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_GrbYtBOKYEXamgGI8EXUnw> a ns1:Item .
 
 <http://example.org/EFG/BNFA_item_HeX4T4+RjzgFQRDOxhTIgg> a ns1:Item .
 
+<http://example.org/EFG/BNFA_item_I4ObBnmh90LZTSaed+ZE2A> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_IOyXaUM-nQ5UL0RjKxiCqg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_JeankfWWpyQn22124B1RFw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_MHiurk4WAWtSXdvocFWuFA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_N8bguEYbc6xriBWhTgrPkA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_NDtgirakW-exFvcTzeFuxw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_OTmr166ewCJGWTmEJx+MRQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_P7dox2zP+jTYf6gm2-q1Zw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_P9sUeZwmAsZJT4wrUMwPIQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_PX8Yxj-mJIroGPgkmsyK6g> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_PfDknAjfkycM89uYL6ZazA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_S3zCvgtWjXMek0dHM6ypqg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_S8N1RVQQDo8Voq1XtZT8vA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_ULESYuP5yHaL6W2RY-P3PA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_UsDn3seOD+oT3IJew9XHQA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_WNRU4USX0zwgjRlamA1ORg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_WV2SzNl9UERVECRn38cWwQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_Wro63XVoBPnOACFELBP+GA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_Wvap2FQ0xtBc0aJNU67Y3Q> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_XpBEyGwhMBqmH3vaOIFLnQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_XpLodbvuWJfBnfRxbPeUwA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_ZHYPta-KTaumjLhbt3lfFg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_ZkcAajGXPFiBm4oDiSFZrg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_ayxfUjELboE4OfPD6JiMmQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_bLHRv8usQCqXMws+lbcPjQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_bZIc5mZ9QISsWSlH7xL4dw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_cn3IrcTI2W7RBsPSP+wIcQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_cwRGncjYBEuvxZOuKy1y2w> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_dV49DLKJMXNNaFxArV61aA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_e5C+M3pC+vd5WvYqjRKMQQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_ejvWlBMk71HIACHAU-1qRg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_ezqEzt2wTQNkqtp+YtLGCw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_fWTox2bbgrftxp1qbYq4Rg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_flO31T29vlGAFAPH-RWcyQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_fsp64Abac-OsxrEODkisjg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_hhLHGp1Zp5V7dA5ij0wJWA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_hoc6d19c+YsJMK4v74uI1Q> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_jaGxIByINt2I2v-N-h2TvQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_jraIgYyqGspqWNvBPY2-Mw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_juWTrgX2xaf-hAYDBEWFRQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_jxuW-IS+i+-a7B4ETP9f5g> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_k3lH2ZiD3bmqjp+vzu22aQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_k46viT07by0PFa0QiVTbsQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_kek4VlECyqb+AFAlK5-NnQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_nW8Ui0nTRCm2Nze-cgULcw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_nuX5kNe3ZS9SXecpbBVVzQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_o241HuhRmlQwfHSWR8McSw> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_q3+PrRqITfOQZlxPE2EnPA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_r8X5emoDEJMAi-Ax587xGQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_rD7mWks8vQFDW-Qpx1cwYQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_rbs1iI918cViYBV2yLVtPQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_rhkbbYrrpwYbOqXY9+ooaQ> a ns1:Item .
+
 <http://example.org/EFG/BNFA_item_s37ITPuSPwnwsGVkOnjowg> a ns1:Item .
 
+<http://example.org/EFG/BNFA_item_sOXK0VimHH05E7k5Bbp-tg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_taE8en9EdvomEqJg7hVA2Q> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_uioowcQJ3GYgpG9FuDKxPQ> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_v5sdq4DB-x8Xw0GBMAFh2g> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_vVkKT+9UoWGwk72NfxwMIA> a ns1:Item .
+
+<http://example.org/EFG/BNFA_item_xGu4WjH0mFpnV4ON4gtLMA> a ns1:Item .
+
 <http://example.org/EFG/BNFA_item_z91ZjIrEqsNfqkF95pwCWg> a ns1:Item .
+
+<http://example.org/EFG/BNFA_person_034786e2cf32542d4b8352c7f7ead248> a ns1:Person ;
+    rdfs:label "Zahariev, Dimko" .
+
+<http://example.org/EFG/BNFA_person_0374bcd1c118e5ddcf025c9494ca9363> a ns1:Person ;
+    rdfs:label "Genov, Lyubomir" .
+
+<http://example.org/EFG/BNFA_person_06a9d9f5fe2373ba12a9be8b9f1d26dc> a ns1:Person ;
+    rdfs:label "Boyadzhiev, S." .
+
+<http://example.org/EFG/BNFA_person_08df4bf77772251a7c5144a1e5d0690c> a ns1:Person ;
+    rdfs:label "Yanakiev, Konstantin" .
+
+<http://example.org/EFG/BNFA_person_150e2139c8d8d6bc405736196d9b8e88> a ns1:Person ;
+    rdfs:label "Popov, Konstantin" .
+
+<http://example.org/EFG/BNFA_person_1e1ca31672d17728b566bce4ba846182> a ns1:Person ;
+    rdfs:label "Alurkov, Georgi" .
+
+<http://example.org/EFG/BNFA_person_28f1b7cbdddf3676d8186c1ae3665f1d> a ns1:Person ;
+    rdfs:label "Penev, Dimitar" .
+
+<http://example.org/EFG/BNFA_person_2a36052e4894a47ad0bf1543c2b3b2c5> a ns1:Person ;
+    rdfs:label "Chobanov, Asen" .
+
+<http://example.org/EFG/BNFA_person_3b063e581536f68714dc7b8785106258> a ns1:Person ;
+    rdfs:label "Valchev, Aleksandar" .
+
+<http://example.org/EFG/BNFA_person_4be3a9facd2be794e256c7304078f11e> a ns1:Person ;
+    rdfs:label "Kebapchiev, Stefan" .
+
+<http://example.org/EFG/BNFA_person_50528ce94ee727e03ba85e2385e7770f> a ns1:Person ;
+    rdfs:label "Holiolchev, Vasil" .
+
+<http://example.org/EFG/BNFA_person_55b7c0a98513be4c798b1d6b19038881> a ns1:Person ;
+    rdfs:label "Dimitar" .
+
+<http://example.org/EFG/BNFA_person_589852ec4058346a1c9aefc673245b86> a ns1:Person ;
+    rdfs:label "Draganov, Gavril" .
+
+<http://example.org/EFG/BNFA_person_5ec33988123f84c38a7bcac46944c658> a ns1:Person ;
+    rdfs:label "Durov, Georgi" .
+
+<http://example.org/EFG/BNFA_person_6cbedda66b902aaa6f962d29a7b7243e> a ns1:Person ;
+    rdfs:label "Delchev, Mihail" .
+
+<http://example.org/EFG/BNFA_person_6f390c3566245f2714c793d2c6a5afb1> a ns1:Person ;
+    rdfs:label "Hristov, Valentin" .
+
+<http://example.org/EFG/BNFA_person_7f800e712e17ea7f4f6b1a16fb15a59a> a ns1:Person ;
+    rdfs:label "Kenkov, Panayot" .
+
+<http://example.org/EFG/BNFA_person_83190cce94de43d86ab03e3fba19b784> a ns1:Person ;
+    rdfs:label "Yuritzin, Petar" .
+
+<http://example.org/EFG/BNFA_person_854da722edce02af7c123e7288bff7de> a ns1:Person ;
+    rdfs:label "Butzev, Dimitar" .
+
+<http://example.org/EFG/BNFA_person_8b2635e363b9b62c76b1bcb644f9eedf> a ns1:Person ;
+    rdfs:label "Boyadzhiev, Dimitar" .
+
+<http://example.org/EFG/BNFA_person_8bc89f4cf5f67be8abbbe37b985deb66> a ns1:Person ;
+    rdfs:label "Tzonev, Ivan" .
+
+<http://example.org/EFG/BNFA_person_91310a9f80b0b5ebbc6c75dd590a2f32> a ns1:Person ;
+    rdfs:label "Zhandov, Zahari" .
+
+<http://example.org/EFG/BNFA_person_9574e53c22716d9ac205c46d76cd3e05> a ns1:Person ;
+    rdfs:label "Camera crew at the studio" .
+
+<http://example.org/EFG/BNFA_person_98f11ea379e91684091cc17f000acf49> a ns1:Person ;
+    rdfs:label "Mladenov" .
+
+<http://example.org/EFG/BNFA_person_99b5b17e1dbbfaf2d15fb6bfe8fc68e0> a ns1:Person ;
+    rdfs:label "Kenkov, Panayot" .
+
+<http://example.org/EFG/BNFA_person_99c8fe5de6a35f8e4d07185a96026b27> a ns1:Person ;
+    rdfs:label "Deyanov, Aleksandar" .
+
+<http://example.org/EFG/BNFA_person_ae3f9dffeddd8a44925c04990a1759a9> a ns1:Person ;
+    rdfs:label "Yotov, Vl." .
+
+<http://example.org/EFG/BNFA_person_b0ab35de4a70cff72907262c9dad2127> a ns1:Person ;
+    rdfs:label "Punchev, Borislav" .
+
+<http://example.org/EFG/BNFA_person_c0546bac62d8bb681191daaf9dee1684> a ns1:Person ;
+    rdfs:label "Zlatanov, Nikolap" .
+
+<http://example.org/EFG/BNFA_person_c23cb973d1796b2679fe7b454de99fb4> a ns1:Person ;
+    rdfs:label "Strumski, Doncho" .
+
+<http://example.org/EFG/BNFA_person_cb25aeab94539fde0514824b966beb55> a ns1:Person ;
+    rdfs:label "Terziev, Tzvetan" .
+
+<http://example.org/EFG/BNFA_person_cc0eb4c46c4bee5a8472ad9dcd387afb> a ns1:Person ;
+    rdfs:label "Konstantinov, Hristo" .
+
+<http://example.org/EFG/BNFA_person_d2a606941232f97b1f0f0cc69f3824c3> a ns1:Person ;
+    rdfs:label "Levi, Jaque" .
+
+<http://example.org/EFG/BNFA_person_da696738afd63d1ad306a342c324c8ac> a ns1:Person ;
+    rdfs:label "Parsehyan, Garabed" .
+
+<http://example.org/EFG/BNFA_person_dfbb973b721157fb9bc9bd2b367f4132> a ns1:Person ;
+    rdfs:label "Radkov, Ivan" .
+
+<http://example.org/EFG/BNFA_person_e3fa92bd1758393fb689f2ff386d45ff> a ns1:Person ;
+    rdfs:label "Efremov, Boris" .
+
+<http://example.org/EFG/BNFA_person_e50060e7df59f5bc9a0409d2c7d8f182> a ns1:Person ;
+    rdfs:label "Moninski, Hristo" .
+
+<http://example.org/EFG/BNFA_person_f606d69a4e4f55486277d47aeccc5a84> a ns1:Person ;
+    rdfs:label "Parlapanov, Georgi" .
+
+<http://example.org/EFG/BNFA_person_f9bfc96dae42a63c6974e770c9b927d8> a ns1:Person ;
+    rdfs:label "Simeonov, Simeon" .
+
+<http://example.org/EFG/BNFA_person_fa55a62b90a8e859d8a4f7f63800afc0> a ns1:Person ;
+    rdfs:label "Popova, Elena" .
+
+<http://example.org/EFG/BNFA_person_07a6248f546db2e9e1dd1d7e405ff939> a ns1:Person ;
+    rdfs:label "Васил ГЕНДОВ" .
+
+<http://example.org/EFG/BNFA_person_0ce09f99b5b1671fd29afe75edfb12ff> a ns1:Person ;
+    rdfs:label "Konev, Ivan" .
+
+<http://example.org/EFG/BNFA_person_0fca01e2cd59dffac034c851d567d494> a ns1:Person ;
+    rdfs:label "Toshev, Kiril" .
+
+<http://example.org/EFG/BNFA_person_1ca139082be77cf69687809311d5368a> a ns1:Person ;
+    rdfs:label "Zlatanov, Nikola" .
+
+<http://example.org/EFG/BNFA_person_1f9ad986cdbddda339a7aa284b70a494> a ns1:Person ;
+    rdfs:label "Alurkov, Georgi" .
+
+<http://example.org/EFG/BNFA_person_208fbf83906476cc440ecdbcce3755ad> a ns1:Person ;
+    rdfs:label "Boyadzhiev, Dimitar" .
+
+<http://example.org/EFG/BNFA_person_2798fb73927ac0c5287b612c21ff5647> a ns1:Person ;
+    rdfs:label "Gendova, Zhana" .
+
+<http://example.org/EFG/BNFA_person_57dfeded603e39936c9e45e7c7694fcd> a ns1:Person ;
+    rdfs:label "Borozanov, Boris" .
+
+<http://example.org/EFG/BNFA_person_5fbf0313a41c95d42d611873171dbf03> a ns1:Person ;
+    rdfs:label "Petrov, Kiril" .
+
+<http://example.org/EFG/BNFA_person_693565750063129c417daa874073c0ca> a ns1:Person ;
+    rdfs:label "Жана ГЕНДОВА" .
+
+<http://example.org/EFG/BNFA_person_7e705d5799423f997402f26d197c15cd> a ns1:Person ;
+    rdfs:label "Rachev, Hristo" .
+
+<http://example.org/EFG/BNFA_person_893b3dd8671fe73ce4bd539125f363bb> a ns1:Person ;
+    rdfs:label "Мария ТОРОМАНОВА-ХМЕЛИК" .
+
+<http://example.org/EFG/BNFA_person_8a95b17fd173ab8705ab20ad7125c2e5> a ns1:Person ;
+    rdfs:label "Kirov, Manol" .
+
+<http://example.org/EFG/BNFA_person_8b32b292c34e2629c4a398997a044658> a ns1:Person ;
+    rdfs:label "Stoyanov, Vladimir" .
 
 <http://example.org/EFG/BNFA_person_8d4920f9acc3673afed6c2fa34495a90> a ns1:Person ;
     rdfs:label "Bakardzhiev, Vasil" .
 
+<http://example.org/EFG/BNFA_person_915810c42ad9a993b4c92f2e81599eb0> a ns1:Person ;
+    rdfs:label "Kisiov, Konstantin" .
+
+<http://example.org/EFG/BNFA_person_b0db481299f7fb82f3d8e4ea968bc9d6> a ns1:Person ;
+    rdfs:label "Tzvetkov, Lyubomir" .
+
+<http://example.org/EFG/BNFA_person_b0f2ab0a15df6a3931f407a156250b86> a ns1:Person ;
+    rdfs:label "Zhekov, Aleksandar" .
+
+<http://example.org/EFG/BNFA_person_c23e8010ec939b9649ceebc36798d890> a ns1:Person ;
+    rdfs:label "Gendov, Vasil" .
+
+<http://example.org/EFG/BNFA_person_d91d8143203d7d152ec8a766466665ac> a ns1:Person ;
+    rdfs:label "Tosheva, Nevena" .
+
+<http://example.org/EFG/BNFA_person_dc6416a5344c469a2dd7f08c99f4c9bc> a ns1:Person ;
+    rdfs:label "Манол КИРОВ" .
+
+<http://example.org/EFG/BNFA_person_dd2bc03247a59f461f3e48247b549735> a ns1:Person ;
+    rdfs:label "Bosev, Stefan" .
+
+<http://example.org/EFG/BNFA_person_e2a5a370ecff21ac239e9c442f93e77f> a ns1:Person ;
+    rdfs:label "Toromanova-Hmelik, Maria" .
+
+<http://example.org/EFG/BNFA_person_eb23babcbc4b255882501c59b7c322a8> a ns1:Person ;
+    rdfs:label "Donov, Veselin" .
+
+<http://example.org/EFG/BNFA_person_ec7aa6d7dd3f1c119264b1668fc6a864> a ns1:Person ;
+    rdfs:label "Chobanov, Asen" .
+
+<http://example.org/EFG/BNFA_person_eeef4f274ef4f58643ce4a747d42741d> a ns1:Person ;
+    rdfs:label "Kochev, Konstantin" .
+
+<http://example.org/EFG/BNFA_person_f310ea5e1e7239e46df78551840df72a> a ns1:Person ;
+    rdfs:label "Grigorov, Rumen" .
+
+<http://example.org/EFG/BNFA_person_f570604355fa5f6b0fe432be70445589> a ns1:Person ;
+    rdfs:label "Petrov, Stefa",
+        "Petrov, Stefa, Boyadzhiev" .
+
+<http://example.org/EFG/BNFA_person_fe53082bb1321c85efbfcb9569f57aed> a ns1:Person ;
+    rdfs:label "Hristov, Stoyan" .
+
+<http://example.org/EFG/BNFA_person_ff772b6a5c2270178f18ee0925323514> a ns1:Person ;
+    rdfs:label "Getov, Milen" .
+
+<http://example.org/EFG/BNFA_corporate_d7eb00dd7e80fe205ad9259852f9d4b8> a ns1:CorporateBody ;
+    rdfs:label "Gendov Film" .
+
+<http://example.org/EFG/BNFA_corporate_f1776b6afb44cdb788507a194da322b5> a ns1:CorporateBody ;
+    rdfs:label "Bulgarska Kinematografia" .
+
+<http://example.org/EFG/BNFA_person_38fa13aef439adbd20e273c32e7dc94e> a ns1:Person ;
+    rdfs:label "Reifler, Josif" .
+
+<http://example.org/EFG/BNFA_person_545c4854c22a96b7e90a8f95a4ea386f> a ns1:Person ;
+    rdfs:label "Hristov, Iliya" .
+
+<http://example.org/EFG/BNFA_person_6157edf0a6d8752ac9b7b684a72d322d> a ns1:Person ;
+    rdfs:label "Bidzheranov, Sami" .
+
+<http://example.org/EFG/BNFA_person_a989eed2c65e380eac1f69a1878dcf3f> a ns1:Person ;
+    rdfs:label "Rusev, Zheko" .
+
+<http://example.org/EFG/BNFA_person_a9d19c6bd8f30d1aeb6d15b326af6182> a ns1:Person ;
+    rdfs:label "Petrov, Stefan" .
+
+<http://example.org/EFG/BNFA_person_ac4bc8bb8bfab8bc19b9dc20d9fb45f8> a ns1:Person ;
+    rdfs:label "Lazarov, Baruh" .
+
+<http://example.org/EFG/BNFA_person_d40a5f158227fecab3ddf95003283378> a ns1:Person ;
+    rdfs:label "Shahov, Yanko" .
+
+<http://example.org/EFG/BNFA_person_feb467044eacbe765d7cea2ecd1ab460> a ns1:Person ;
+    rdfs:label "Gendov, Vasil" .
+
+<http://example.org/EFG/BNFA_person_1550fceb517e4644c8bb87d97c6d8f33> a ns1:Person ;
+    rdfs:label "Panchev, Dimitar" .
+
+<http://example.org/EFG/BNFA_person_21a533db5b6a5dc3ba77fb2c0b3c107b> a ns1:Person ;
+    rdfs:label "Karadimov, Simeon" .
+
+<http://example.org/EFG/BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064> a ns1:Person ;
+    rdfs:label "Holiolchev, Vasil" .
+
+<http://example.org/EFG/BNFA_person_4e6021cf70c6af67aa1e557c0f253fba> a ns1:Person ;
+    rdfs:label "Kitanov, Iliya" .
+
+<http://example.org/EFG/BNFA_person_a455914fa7e28e922331bc73b78e5f55> a ns1:Person ;
+    rdfs:label "Durov, Georgi" .
+
+<http://example.org/EFG/BNFA_person_affa98f368b83fd5919cbe36620512ab> a ns1:Person ;
+    rdfs:label "Kovachev, Hristo" .
+
+<http://example.org/EFG/BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1> a ns1:Person ;
+    rdfs:label "Dosev, Ivan" .
+
+<http://example.org/EFG/BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7> a ns1:Person ;
+    rdfs:label "Kisiov, Konstantin" .
+
+<http://example.org/EFG/BNFA_person_aad38c973bd51f14ccae76971f8ff862> a ns1:Person ;
+    rdfs:label "Sharlandzhiev, Boris" .
+
+<http://example.org/EFG/BNFA_person_e73e4ad4989af4e01db376b667cd3867> a ns1:Person ;
+    rdfs:label "Kitanov, Iliya" .
+
+<http://example.org/EFG/BNFA_person_13d21b33dfe451a56959ca0ff73024d0> a ns1:Person ;
+    rdfs:label "Hristov, Stoyan" .
+
 <http://example.org/EFG/BNFA_person_16fd19ae42bb22f73eef6129f7537804> a ns1:Person ;
     rdfs:label "Totev, Spas" .
+
+<http://example.org/EFG/BNFA_person_286a61f2f81838482ef9dfd52d9b209b> a ns1:Person ;
+    rdfs:label "Efremov, Boris" .
+
+<http://example.org/EFG/BNFA_person_35afc43b458cd311c720efef015939f9> a ns1:Person ;
+    rdfs:label "Bakardzhiev, Vasil" .
+
+<http://example.org/EFG/BNFA_person_9087f201995679e1c5c638eb29a8e673> a ns1:Person ;
+    rdfs:label "Terziev, Tzvetan" .
+
+<http://example.org/EFG/BNFA_person_4750805793daecff48207dfa14f0e152> a ns1:Person ;
+    rdfs:label "Shahov, Yanko" .
+
+<http://example.org/EFG/BNFA_person_70fc3a25c0705b86e1d43cd956edf482> a ns1:Person ;
+    rdfs:label "Petrov, Stefan" .
+
+<http://example.org/EFG/BNFA_person_20b096df4eda667a5258d8f78e5a4fec> a ns1:Person ;
+    rdfs:label "Valchev, Aleksandar" .
+
+<http://example.org/EFG/BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393> a ns1:CorporateBody ;
+    rdfs:label "Studia za Hronikalni i Dokumentalni Filmi" .
+
+<http://example.org/EFG/BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73> a ns1:CorporateBody ;
+    rdfs:label "Bulgarsko Delo" .
 

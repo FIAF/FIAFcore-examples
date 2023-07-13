@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002376</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002376</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Отечествен кино преглед 56</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/Xn98k0vLT1U/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">304</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_06x91i-fbppYph1+VE8tcw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=Xn98k0vLT1U</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=Xn98k0vLT1U</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002376</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002376</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Отечествен кино преглед 56</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>National Newsreel 56</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. На излет в Рила. Изгледи от Рила планина. Излетници се изкачват по пътека. Поток. Туристи край езеро. Туристи изкачват връх. Турист рисува езеро. Връх. до1,40мин  // II. Станове за отдих и култура. Девойки излизат от палатки. Стан - школа в Панчарево. Физкултурни игри и упражнения на поляна. Младежи играят волейбол. до2,43мин  // III. В помощ на селото - Трудова бригада на работници от Захарната фабрика в Русе на посещение в село Ситово, Силистренско. Поправка на земеделски инвентар и сечива. Селяни изпращат камион с работници. // IV. Народно изкуство. Работилница за грънчарски изделия. Майстори работят. Украсяване на съд. Готови изделия.  // V. Крупник - Кулата. Арка с надпис : "КРУПНИК - КУЛАТА дело на български труд и техника" 16.09.1945 г. - гара Крупник, откриване на жп линия Крупник - Кулата. Присъстват: генерал Дамян Велчев, Стефан Софийски, генерал - полковник Сергей Бирюзов, Минчо Нейчев, Цвятко Бобошевски, Димитър Ганев, Димо Казасов, Стефан Тончев. Строени войници. Локомотив, влак се движи пред Кресненското дефиле, минава край жп гара, строени войници на перона, край река Струма. Жп гара Дамяница - посрещане на официални лица с хляб и сол. Поднасят букет на Ст. Тончев, министър на железниците. Министър Тончев говори. Хора слушат. // VI. ОФ открива предизборна борба 19.10.1945 г. Предизборен митинг на площад " Княз Александър I". Хора със знамена и плакати. Сградата на БНБ, украсена със знамена. Трифон Пашов открива митинга. Присъстват Васил Коларов, Антон Югов, Трайчо Костов, Вълко Червенков, Минчо Нейчев, генерал Дамян Велчев и др. официални лица. Реч на Кимон Георгиев, министър - председател. О.п. на хората на площада. Речи на Т. Костов, Александър Оббов, Димитър Нейков, министър Костурков.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. On a trip to Rila. Views from Rila Mountain. Hikers climb a trail. A stream. Tourists by the lake. Tourists climb the peak. A tourist paints the lake. Peak. // II. Leisure and culture camps. Girls come out of tents. School camp in Pancharevo. Phys Ed. games and exercises on the lawn. Young people play volleyball. // III. Help for the villagers - Labor brigade of workers from the Sugar Factory in Ruse visit the village of Sitovo, Silistra region. Repair of agricultural equipment and tools. Villagers send a truck with workers. // IV. Folk art. Pottery workshop. Masters work. Decorating a dish. Finished products. // V. Krupnik - Kulata. Arch with the inscription: "KRUPNIK - KULATA, achievement of Bulgarian labor and technology" 16.09.1945 - Krupnik railway station, opening of the railway line Krupnik - Kulata. Present: General Damyan Velchev, Stefan Sofiyski, Colonel-General Sergei Biryuzov, Mincho Neychev, Tsvyatko Boboshevski, Dimitar Ganev, Dimo Kazasov, Stefan Tonchev. Built soldiers. Locomotive, a train moves in front of the Kresna Gorge, passes by the railway station, soldiers stand in line on the platform, by the river Struma. Damyanitsa Railway Station - welcoming officials with bread and salt. Serving a bouquet to St. Tonchev, Minister of Railways. Minister Tonchev speaks. People are listening. // VI. OF (Otechestven Front, an antifascist union) opens election campaign on October 19, 1945. Election rally on Alexander T Square. People with flagsand posters. The Bulgarian National Band building decorated with flags. Trifon Pashov opens the rally. Vasil Kolarov is present, Anton Yugov, Traicho Kostov, Valko Chervenkov, Mincho Neychev, General Damyan Velchev and others. officials. Speech by Kimon Georgiev, Prime Minister. Wide shot of the people in the square. Speeches by T. Kostov, Alexander Obbov, Dimitar Neykov, Minister Kosturkov.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>туризъм</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>транспорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>tourism</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>transport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1945</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_fe53082bb1321c85efbfcb9569f57aed</efg:identifier>
+				           <efg:name>Hristov, Stoyan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_35afc43b458cd311c720efef015939f9</efg:identifier>
+				           <efg:name>Bakardzhiev, Vasil</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_50528ce94ee727e03ba85e2385e7770f</efg:identifier>
+				           <efg:name>Holiolchev, Vasil</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

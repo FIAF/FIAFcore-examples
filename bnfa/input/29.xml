@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010000685</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010000685</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Отечествен кино преглед 2</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/CYtJuZHpkEQ/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">229</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:08:04</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_OTmr166ewCJGWTmEJx+MRQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=CYtJuZHpkEQ</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=CYtJuZHpkEQ</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010000685</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010000685</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Отечествен кино преглед 2</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 2</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Село Стрелча, Панагюрско. Посрещане на партизаните от отряд "Г. Бенковски". Площад. Поднасят им цветя. Митинг. Оратор говори от балкон на сграда. Едноминутно мълчание за загиналите. Слово на партизанин.  // II. София. Пристигане на 4-та Софийска партизанска бригада. Тодор Живков поздравява партизани. Митинг пред Народното събрание. Митинг пред хотел "Славянска беседа". Говори партизанин, слово на духовник. Говори генерал Владимир Стойчев. Шествие на ШЗО по софийските улици, начело с генерал Цанков и висши офицери. Митинг на площад "Славейков" - говори оратор, говори партизанка. Продължава шествието по софийските улици. Арка с надпис "СЛАВА НАРОДНИ БОЙЦИ". Минават камиони с хора, носещи плакати и знамена. Пристига 1-ва Софийска партизанска бригада "Чавдар". Двама партизани носят плакат с името на бригадата /единият е сценариста Христо Ганев/. Партизани с оръжие и знамена. Граждани ги приветстват. Говори Добри Джуров от отряда "Чавдар". Едноминутно мълчание. Партизани говорят със свои близки. Партизани играят хоро.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Village of Strelcha, Panagyurishte region. Welcoming of partisans from the "G. Benkovski" detachment. Villagers give the partisans flowers. A Rally. An orator speaks from the balcony of a building. A minute of silence for the dead. A partisan gives a speach.  // II. Sofia. Arrival of the 4th Sofia Partisan Brigade. Todor Zhivkov congratulates partisans. Rally in front of the National Assembly. Rally in front of "Slavyanska Beseda" Hotel. A partisan speaks, a prayer by a clergyman. General Vladimir Stoychev is speaking. A procession of the Reserve Officers School through the streets of Sofia, led by General Tsankov and senior officers. Rally on "Slaveykov" Square - an orator speaks, a female partisan speaks. The procession through the streets of Sofia continues. Arch with the inscription "GLORY TO FIGHTERS FOR THE PEOPLE". Trucks with people carrying placards and flags pass by. The 1st Sofia Partisan Brigade "Chavdar" arrives. Two partisans carry a poster with the name of the brigade / one is the screenwriter Hristo Ganev /. Partisans with weapons and flags. Citizens welcome them. Dobri Dzhurov from the Chavdar detachment speaks. A minute of silence. Partisans talk to their relatives. Partisans dance together.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1944</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064</efg:identifier>
+				           <efg:name>Holiolchev, Vasil</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_13d21b33dfe451a56959ca0ff73024d0</efg:identifier>
+				           <efg:name>Hristov, Stoyan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

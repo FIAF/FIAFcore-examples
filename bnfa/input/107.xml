@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010000614</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010000614</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Прегледъ 100</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/1xtlVNgzdL8/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">389</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:13:42</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_r8X5emoDEJMAi-Ax587xGQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=1xtlVNgzdL8</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=1xtlVNgzdL8</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010000614</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010000614</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Прегледъ 100</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 100</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. София. Държавна художествена галерия. Изложба на детски рисунки. Рисунки на княгиня Мария-Луиза. Ученици разглеждат.  // II. Стадион "Юнак", София. Футболен мач между унгарския национален отбор и българския национален отбор. Играчите излизат на терена. Публиката. Играта.  // III. София. Летище Божурище. Самолет се приземява. Посрещане Артур Аксман - водачът на германската младеж и председател на Съюза на европейската младеж от главния ръководител на организацията "Бранник", официални лица, Адолф Бекерле, представителна група на хитлеровата младеж и бранници. Прием при Богдан Филов. Аксман и Филов разговарят. Посещава селища в провинцията, посрещнат с цветя. В град Пловдив - на едно от тепетата. Панорама на Пловдив. Парад на германски и български младежи по булевард "Цар Освободител". Артур Аксман и д-р Клечков, ръководител на "Бранник" приветстват минаващите пред сградата на Военния клуб.  // IV. София. Стадион "Юнак" - състезания по борба класически и свободен стил. Публика. Срещи в полусредна категория, в полутежка категория. Съдията Петър Ферещанов.  // V. Боянската черква. Външен изглед. Гробът на царица Елеонора. // VI. Стенописите на Боянската черква. Портрет на севастократор Калоян и съпругата му Десислава. Образите на Свети Иван Рилски, на Христос. Разпятието.  // VII. София. Лятната къпалня "Мария-Луиза". Курс по плуване. Хора играят волейбол, плуват, скачат от кулата. // VIII. Началник-щабът на българската войска генерал-лейтенант Константин Лукаш пристига в Будапеща. На летището. Слиза от самолет. Посрещат го висши унгарски военни. Полага венец пред паметник на загиналите до 1918 г. унгарци. Посещава изложба на унгарски военни художници. Присъства на военно учение.  // IX. Град Видин. Околийски юнашки събор. Шествие на членове на дружество "Юнак". Полагат венец пред паметник на загиналите за обединението на България. Освещаване на знамето на Видинското юнашко дружество. Спортни упражнения. Състезания: бягане, теглене на въже.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Sofia. State Gallery. Exhibition of children's drawings. Drawings of Princess Maria-Louise.  // II. Yunak Stadium, Sofia. Football match between the national teams of Hungaria and Bulgaria.  // III. Sofia. Bozhurishte Airport. A plane is landing. Welcoming Artur Axmann, the leader of Hitlerjugend, by the head of the organization Brannik, officials, Adolf Beckerle, a representative group of Hitlerjugend and Brannik. Reception at Bogdan Filov. Axmann and Filov talk. He visits villages in the countryside, is greeted with flowers. In the city of Plovdiv - on one of the hills. View of Plovdiv. Parade of German and Bulgarian youth on Tsar Osvoboditel Boulevard. Artur Axmann and Dr. Klechkov, head of Brannik, greet passers-by in front of the Military Club building.  // IV. Sofia. Yunak Stadium - competitions in classic and freestyle wrestling. The audience. Meetings in the middleweight category, in the light heavyweight category. Judge Petar Fereshtanov.  // V. Boyana Church. Appearance. The tomb of Tsaritsa Eleanore. 2nd part.  // VI. The frescoes of the Boyana Church. Portrait of Sevastocrator Kaloyan and his wife Desislava. The images of St. Ivan Rilski, of Christ. The crucifixion.  // VII. Sofia. Maria-Louisa Summer Bath. Swimming training. People play volleyball, swim, jump from the tower.  // VIII. The Chief of Staff of the Bulgarian Army, Lieutenant General Konstantin Lukash, arrives in Budapest. At the airport. Gets off the plane. He is greeted by senior Hungarian soldiers. He lays a wreath in front of the monument to the Hungarians who died before 1918. He attends an exhibition of Hungarian military artists. Attends military training.  // IX. Vidin. District youth fair. Procession of members of the Yunak organization. They lay a wreath in front of the monument to those who died for the unification of Bulgaria. Consecration of the flag of the Vidin part of the Yunak organization. Sports exercises.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1943</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

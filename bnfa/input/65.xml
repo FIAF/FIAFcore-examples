@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002578</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002578</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кинопреглед 242</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/yV_ldqOZSVU/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">434</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:15:15</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_7b5iRddSaaqvtsyS7PMYfg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=yV_ldqOZSVU</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=yV_ldqOZSVU</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002578</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002578</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кинопреглед 242</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 242</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. София. Изборите за народни съветници и съдебни заседатели на 15 май 1949 г. Лозунги и плакати по улици. Хора гласуват. Комисия. Възрастна жена пуска плик в урна. Гласува ударникът Христо Дилов. Зам.-министър председателят Васил Коларов в изборна секция. Гласува. Вълко Червенков, председател на Комитета за изкуство и култура гласува. Минчо Нейчев, председател на Президиума на Народното събрание ввлиза в изборна секция. Хоро пред един от пунктовете. Бюлетини. // II. Картина - славянските първоучители Кирил и Методи. Старопечатни книги. Деца с букварчета в клас. // III. СССР. В Ярославския автомобилен завод - цех, производство. Главният конструктор на завода Осепчугов и негови колеги. Камион влекач. Товарене на чугунени елементи на платформата му. Камион потегля. до4,31мин Град Москва. Художественият театър - плакат за представление на пиесата "Зелената улица" от Анатолий Суров. Хора пред сградата на театъра. Говори М. Кедров, режисьор- постановчик. Сцени от представлението с участието на Ливанов, Блинников, Тарасова, Голиева, Макаров. Публика в салона. Сцена от представлението с актьорите Гошева и Макаров, Тарасова и Блинников /синхрон/. Публика ръкопляска.  // IV. Първият рейс на въздушната линия София - Варна. Въздушни снимки на София. Пилоти в кабината. Пътници в самолета. Самолетът се приземява на летище Варна. Пътници слизат. Екипажът. // V. София. Строеж на Киноцентъра от трудоваци. Изграждане на бригадирски жилища. Измазване. Тържество по поемане шефството от Българска кинематография над една гранично поделение. Пее младежкият хор при кинематографията. Войници слушат. Говорят представител на кинематографията, войник, офицер. // VI. Село Байлово, Софийско. Посрещане на министри, общественици - Иван Стефанов, Кирил Драмалиев, Вълко Червенков. Полагане цветя пред братската могила в селото. Заснет писателя Елин Пелин, Цола Драгойчева. Едноминутно мълчание. Родната къща на писателя. Митинг - говори К. Драмалиев, министър на народната просвета. Присъства Е. Пелин. Хоро на площада. Тържество в Народния театър, София по повод 70 години от рождението на Е. Пелин и 50 години творечска дейност. Георги Караславов чете доклад. Публика ръкопляска. Добри Бодуров връчва Златен орден за наука и изкуство на Е. Пелин. Ръкува се с Тодор Павлов. Публика ръкопляска. Елин Пелин приема поздравления. Присъстват: Христо Радевски, Орлин Василев, Владимир Димитров - Майстора, Георги Чанков, Георги Трайков. Васил Коларов и Антон Югов в ложа. Слово на Елин Пелин. Публика аплодира. // VII. София. Стадион, публика. Футболен мач между отборите "Левски" и "Славия" за купата на Съветската армия. Победа за отбора на "Левски" с 1:0. Публика слиза на терена.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Sofia. Elections for councilors and jurors on May 15, 1949. Slogans and posters in the streets. People are voting. Commission. An elderly woman drops an envelope in an urn. The drummer Hristo Dilov votes. Deputy Prime Minister Vasil Kolarov in the election section. Votes. Valko Chervenkov, chairman of the Arts and Culture Committee, votes. Mincho Neychev, Chairman of the Presidium of the National Assembly, enters the constituency. Traditional dance in front of one of the checkpoints. Newsletters.  // II. Painting - "the Apostles of the Slavs" Cyril and Methodius. Old printed books. Children with books in class.  // III. USSR. In the Yaroslav automobile factory - workshop, production. Moscow. The Moscow Art Theatre - a poster for a performance of the play "Green Street" by Anatoly Surov. People in front of the theatre. M. Kedrov, director, speaks. Scenes from the performance with the participation of Livanov, Blinnikov, Tarasova, Golieva, Makarov. Audience in the salon. Scene from the performance with the actors Gosheva and Makarov, Tarasova and Blinnikov.  // IV. Aircraft line Sofia-Varna. Aerial photos of Sofia. Pilots in the cockpit. Passengers on the plane. The plane lands at Varna Airport. Passengers get off. The crew.  // V. Sofia. Construction of the Cinema Center by workers. Construction of brigade homes. Celebration.  // VI. Village of Baylovo, Sofia region. Welcoming ministers, public figures - Ivan Stefanov, Kiril Dramaliev, Valko Chervenkov. Filmed: the writer Elin Pelin and Tsola Dragoycheva. One minute of silence. The writer's birth house. Rally - Minister of Education K. Dramaliev speaks. Elin Pelin is present. Celebration at the National Theater in Sofia for Elin Pelin's 70th anniversary and 50 years of creative activity. Georgi Karaslavov reads a report. Dobri Bodurov presents the Golden Order of Science and Art to E. Pelin. He shakes hands with Todor Pavlov. Elin Pelin receives congratulations. Present: Hristo Radevski, Orlin Vassilev, Vladimir Dimitrov - Maystora, Georgi Chankov, Georgi Traikov. Vasil Kolarov and Anton Yugov in a loge. Speech by Elin Pelin.  // VII. Sofia. Stadium, audience. Football match between the teams "Levski" and "Slavia" for the Soviet Army Cup. Victory for the team of "Levski" with 1:0. The audience goes down to the field.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>история</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>театър</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>транспорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>строителство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>history</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>theatre</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>transport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>construction</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1949</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f1776b6afb44cdb788507a194da322b5</efg:identifier>
+				           <efg:name>Bulgarska Kinematografia</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

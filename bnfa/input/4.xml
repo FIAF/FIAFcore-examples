@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_MFN6</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>MFN6</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>ЛЮБОВТА Е ЛУДОСТ</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.vimeocdn.com/video/974634082.jpg</efg:thumbnail>
+				           <efg:language usage="Intertitles">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="false">Without sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">310</efg:dimension>
+				           <efg:rightsHolder URL="www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:33</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_k46viT07by0PFa0QiVTbsQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_MFN6</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>MFN6</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>ЛЮБОВТА Е ЛУДОСТ</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>LOVE IS FOLLY</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">Студентът и девойката се обичат. На любовта им пречи лелята на момичето. Тя е решила да я омъжи за богат кандидат. Студентът решава с хитрост да злепостави пред лелята предпочитания от нея жених.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">The university student and a girl are in love. The girl’s aunt opposes their love. She has decided to marry her off to a rich suitor. The student decides to cunningly discredit the suitor of her choice before the aunt.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>романтичен</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>комедия</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>ням филм</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>ранно кино</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>България</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>Васил Гендов</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Place">
+				           <efg:term>Bulgaria</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>romance</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>comedy</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>silent</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>early film</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>Gendov</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Short film</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1917</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_feb467044eacbe765d7cea2ecd1ab460</efg:identifier>
+				           <efg:name>Gendov, Vasil</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_38fa13aef439adbd20e273c32e7dc94e</efg:identifier>
+				           <efg:name>Reifler, Josif</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_07a6248f546db2e9e1dd1d7e405ff939</efg:identifier>
+				           <efg:name>Васил ГЕНДОВ</efg:name>
+				           <efg:type>Actor</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_c23e8010ec939b9649ceebc36798d890</efg:identifier>
+				           <efg:name>Gendov, Vasil</efg:name>
+				           <efg:type>Actor</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_693565750063129c417daa874073c0ca</efg:identifier>
+				           <efg:name>Жана ГЕНДОВА</efg:name>
+				           <efg:type>Actor</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_2798fb73927ac0c5287b612c21ff5647</efg:identifier>
+				           <efg:name>Gendova, Zhana</efg:name>
+				           <efg:type>Actor</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_893b3dd8671fe73ce4bd539125f363bb</efg:identifier>
+				           <efg:name>Мария ТОРОМАНОВА-ХМЕЛИК</efg:name>
+				           <efg:type>Actor</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_e2a5a370ecff21ac239e9c442f93e77f</efg:identifier>
+				           <efg:name>Toromanova-Hmelik, Maria</efg:name>
+				           <efg:type>Actor</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_dc6416a5344c469a2dd7f08c99f4c9bc</efg:identifier>
+				           <efg:name>Манол КИРОВ</efg:name>
+				           <efg:type>Actor</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_8a95b17fd173ab8705ab20ad7125c2e5</efg:identifier>
+				           <efg:name>Kirov, Manol</efg:name>
+				           <efg:type>Actor</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_d7eb00dd7e80fe205ad9259852f9d4b8</efg:identifier>
+				           <efg:name>Gendov Film</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_331b3c2fd0aee7d5eaa099234f827848</efg:identifier>
+				           <efg:title>Pre-Socialist Cinema</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

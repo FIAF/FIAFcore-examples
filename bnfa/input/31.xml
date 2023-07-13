@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010000697</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010000697</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Отечественъ прегледъ 10</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/TbY0VriyANw/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">249</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:08:51</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_P9sUeZwmAsZJT4wrUMwPIQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=TbY0VriyANw</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=TbY0VriyANw</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010000697</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010000697</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Отечественъ прегледъ 10</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>National Newsreel 10</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. София. Разчистване на разрушения от бомбардировките. Шествие на младежи по софийските улици. Площад "Света Неделя".  // II. Първи младежки отечественофронтовски митинг. Говори секретарят на работническата младеж Титко Черноколев. // III. Посрещане на Червената армия в едно село край Севлиево. Хора приветстват руските войници. Град Севлиево. Камиони с руски войници по улиците. Хора им хвърлят цветя. Пловдив. Жп гара. Посрещане влак с руски войски и въоръжение. Населението разговаря с руски бойци.  // IV. София. По булевард "Цар Освободител" - колони от руски войски, столичани хвърлят цветя. Минават под арка с надпис "ДОБРЕ ДОШЛИ ОСВОБОДИТЕЛИ". Среща между съветски офицери и наши политически дейци. Заснети Димо Казасов, генерал Славчо Трънски.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Sofia. Clearing the damage from the air strikes. A procession of young people on the streets of Sofia. Sveta Nedelya Square.  // II. First rally of the youth homefront. Titko Chernokolev, secretary of the working youth, gives a speech. // III. Welcoming the Red Army in a village near Sevlievo. People greet the Russian soldiers. Town of Sevlievo. Trucks with Russian soldiers on the streets. People throw flowers at them. Plovdiv. Train station. Welcoming train with Russian troops and armaments. The population talks to Russian fighters.  // IV. Sofia. On Tsar Osvoboditel Boulevard - columns of Russian troops, citizens of Sofia throw flowers. They pass under an arch with the inscription "WELCOME LIBERATORS". Meeting between Soviet officers and our politicians. Filmed are Dimo ​​Kazasov, General Slavcho Transki.</efg:description>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1944</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

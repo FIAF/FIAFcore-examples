@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002679</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002679</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кинопреглед 340</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/qNQSfY4mN-4/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">294</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:23</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_taE8en9EdvomEqJg7hVA2Q</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=qNQSfY4mN-4</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=qNQSfY4mN-4</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002679</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002679</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кинопреглед 340</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 340</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. ТЪРЖЕСТВО НА СЪВЕТСКАТА ДЕМОКРАЦИЯ СССР. 18.02.1951 г. - избори за Върховен съвет. Ленинград, паметник на Вл.И. Ленин. Потрет на Й.Сталин. Хора вървят към изборна секция. Гласуват Алексей Кондратиев от Кировския завод, Александър Мирошников, участник в щурма на Зимния дворец, Пьотр Зайченко, шлосер. Хора по улица в Москва. Стругарят Павел Биков, ударници от Завода за лагери вървят към изборни бюра. Хора гласуват. Тулска област - хора в шейни с плакати и портрети от артела "Горки" се движат към изборно бюро. Гласуват. Москва - броене на бюлетини. Избирателна комисия в Кировски район в Ленинград - съобщаване на резултатите. Митинг на Кировския площад, говорят оратори.  // II. ЗА СЛАВНОТО АПРИЛСКО ВЪСТАНИЕ В час по история в едно училище - учителка преподава урок за Априлското въстание 1876 г. Паметникът в местността Оборище. О.п. на гр. Копривщица, домът на Тодор Каблешков, председател на местния революционен комитет. Портрет на Т. Каблешков. Мостът на първата пушка. О.п. на Панагюрище, домът от който Георги Бенковски провъзгласява въстанието, домът на Райна Княгиня, неин портрет. Портрет на Павел Бобеков, председател на Временното революционно републиканско правителство. Черешово топче. Картина "Хвърковатата чета на Бенковски". Ученици четат романа "Под игото" на Ив. Вазов, "Априлското въстание" на Захари Стоянов. Полагане цветя пред бюста - паметник на Георги Бенковски в Парка на свободата, София.  // III. РАННО ЗЕЛЕНЧУКОПРОИЗВОДСТВО Кюстендил - чешма с минерална вода. Оранжерии. Жена полива краставици. Изкуствено опрашване на домати. Жена бере домати. Товарене касети с домати в камион. Камион се движи.  // IV. ПЪРВИТЕ БЪЛГАРСКИ ТРАМВАИ София, Завод "6-ти септември". Изработване на първата българска трамвайна мотриса. Автоматчикът Методи Василев край машина. Изработване мотор за трамвайни коли. Иван Костадинов и Георги Апостолов монтират мотор. Ударникът Крум Бакърджиев проверява скоростите. Сглобяване каросерията на трамвайна мотриса. Конструкторът Радко Радев, главният ръководител инж. Йорданов, чертожниците Стефан Енчев и Генчо Овчаров разглеждат чертежи. Работници заваряват, боядисват. Събрание на работници. Оратор говори. Нови мотриси. Иван Пашов, председател на СНС говори. Качва се в нова мотриса. Трамвай се движи, ватман, пътници, кондуктор.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. CELEBRATION OF SOVIET DEMOCRACY USSR. 18.02.1951 - elections for the Supreme Soviet. Leningrad, a monument to Lenin. A portrait of J. Stalin. People are going to the polls. People are voting. Tula region - people in sleighs with posters and portraits of the artel "Gorky" move to the polling station. They vote. Moscow - counting ballots. Electoral Commission in the Kirov region in Leningrad - announcement of the results. Rally on Kirov Square.  // II. ABOUT THE GLORIOUS APRIL UPRISING History class at a school, a teacher speaks about the April Uprising of 1876. The monument in the Oborishte area. View of the town of Koprivshtitsa, the home of Todor Kableshkov, chairman of the local revolutionary committee. Portrait of T. Kableshkov. First Rifle Shot Bridge. View of Panagyurishte, the home where Georgi Benkovski proclaimed the uprising, the home of Raina Knyaginya, her portrait. Portrait of Pavel Bobekov. Painting depicting Georgi Benkovski's cavalry detachment. Students read the novel "Under the Yoke" by Ivan Vazov, "The April Uprising" by Zahari Stoyanov. Laying flowers in front of the bust - a monument to Georgi Benkovski in Boris' Garden (prev. Freedom Park), Sofia.  // III. EARLY VEGETABLE PRODUCTION Kyustendil - fountain with mineral water. Greenhouses. Woman watering cucumbers. Artificial pollination of tomatoes. A woman picks tomatoes. Loading boxes of tomatoes in a truck. The truck is moving.  // IV. THE FIRST BULGARIAN TRAMS Sofia, "September 6" Factory. Production of the first Bulgarian tram-train.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>история</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>history</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1951</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_d40a5f158227fecab3ddf95003283378</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_a455914fa7e28e922331bc73b78e5f55</efg:identifier>
+				           <efg:name>Durov, Georgi</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7</efg:identifier>
+				           <efg:name>Kisiov, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4e6021cf70c6af67aa1e557c0f253fba</efg:identifier>
+				           <efg:name>Kitanov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_e50060e7df59f5bc9a0409d2c7d8f182</efg:identifier>
+				           <efg:name>Moninski, Hristo</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

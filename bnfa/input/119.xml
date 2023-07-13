@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:corporate>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_d7eb00dd7e80fe205ad9259852f9d4b8</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>d7eb00dd7e80fe205ad9259852f9d4b8</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:typeOfActivity>Production company</efg:typeOfActivity>
+				         <efg:name type="PN">Gendov Film</efg:name>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010000005</efg:identifier>
+				 <efg:title>Любовта е лудост</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN6</efg:identifier>
+				 <efg:title>ЛЮБОВТА Е ЛУДОСТ</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation></efg:corporate>
+				     </efg:efgEntity>

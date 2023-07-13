@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:person>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_d2a606941232f97b1f0f0cc69f3824c3</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>d2a606941232f97b1f0f0cc69f3824c3</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:name type="PN">Jaque</efg:name>
+				         <efg:name type="PN">Levi</efg:name>
+				         <efg:typeOfActivity>Director of photography</efg:typeOfActivity>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN2764</efg:identifier>
+				 <efg:title>НАШЕТО МОРЕ</efg:title>
+				  <efg:type>director of photography</efg:type>
+				 </efg:relAvCreation></efg:person>
+				     </efg:efgEntity>

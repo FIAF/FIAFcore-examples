@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:corporate>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_626a688a8cb378bcf625d5cbb39d724c</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>626a688a8cb378bcf625d5cbb39d724c</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:typeOfActivity>Production company</efg:typeOfActivity>
+				         <efg:name type="PN">Komitet za Televizia i Radio; Studia za Dokumentalni Filmi</efg:name>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003901</efg:identifier>
+				 <efg:title>Кинопреглед 28</efg:title>
+				  <efg:type>production company</efg:type>
+				 </efg:relAvCreation></efg:corporate>
+				     </efg:efgEntity>

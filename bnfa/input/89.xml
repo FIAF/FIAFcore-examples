@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010003555</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010003555</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Кино преглед 48</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/o2_jWDJG6os/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">300</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:18</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_D8+jV-cvJA5OdYaD0c0Pjw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=o2_jWDJG6os</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=o2_jWDJG6os</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010003555</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010003555</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Кино преглед 48</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 48</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Иран. Посрещане на Георги Трайков в столицата Техеран. По улиците на града. Дворецът Ниаваран - разговори между Г.Трайков и шаха на Иран - Мохамед Реза Пахлави. Тронът, на който е коронясан шаха. Българската делегация разглежда императорското съкровище. На посещение в градовете Персеполис и Исфахан. Изпращане на българската делегация и Г.Трайков.  // II. Древните земи край реките Тигър и Ефрат. Градската врата на Вавилон. Развалините на Двореца на Навохудоносор. Развалините на Стесифон. ТАБСО открива нова въздушна линия София - Багдад. Самолет над Кипър. Кадри от Багдад.  // III. София. 5- та сесия на 5-то Народно събрание. Академик Сава Гановски открива заседанието. Иван Вачков изнася доклад за дейността на прокуратурата. Присъства Тодор Живков. Велев изнася доклад за дейността на Върховния съд.  // IV. Снимане на филма "Прокурорът". Режисьорът Любомир Шарланджиев, операторът Борислав Пунчев, актьорите Георги Георгиев - Гец и Йордан Матев.  // V. Стара Загора. Фабрика за цигари. Производствен процес. Производство на цигари "Слънце" с филтър.  // VI. София. Природонаучния музей. Изложба на ловни трофеи. Тодор Живков разглежда експонати.  // VII. Край с. Шабла, Толбухинско. Изграждане на естакада за проучване на пластовете под Черно море.  // VIII. Футболен мач между отборите на България и Португалия. Гол, реализиран от Георги Аспарухов и Дерменджиев. Резултат 1:0 за българския отбор.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Iran. Welcoming Georgi Traikov in the capital, Tehran. On the streets of the city. Niavaran Palace. Talks between Georgi Traikov and the Shah of Iran, Mohammad Reza Pahlavi. The Bulgarian delegation looks at the imperial treasure. Visiting the cities of Persepolis and Isfahan.  // II. The ancient lands along the Tigris and Euphrates rivers. The city gate of Babylon. Ruins of Nebuchadnezzar's palace. Ruins of Ctesiphon. TABSO opens a new airline route network between Sofia and Baghdad. Plane over Cyprus. Footage from Baghdad.  // III. Sofia. Fifth session of the Fifth National Assembly.  // IV. Filming of "The Prosecutor", directed by Lyubomir Sharlandzhiev. The director, along with DP Borislav Punchev and actors Georgi Georgiev-Getz and Yordan Matev.  // V. City of Stara Zagora. Cigarette factory.  // VI. Sofia. Museum of Natural History. Todor Zhivkov looks at exhibits.  // VII. Near the village of Shabla, region of Dobrich. Construction of a trestle.  // VIII. Football match between the national teams of Bulgaria and Portugal. Goal by Georgi Asparouhov and Dermendzhiev. The result is 1:0 in favour of the Bulgarian team.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>кино</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>транспорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>cinema</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>transport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1967</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_99c8fe5de6a35f8e4d07185a96026b27</efg:identifier>
+				           <efg:name>Deyanov, Aleksandar</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_e73e4ad4989af4e01db376b667cd3867</efg:identifier>
+				           <efg:name>Kitanov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_286a61f2f81838482ef9dfd52d9b209b</efg:identifier>
+				           <efg:name>Efremov, Boris</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_c0546bac62d8bb681191daaf9dee1684</efg:identifier>
+				           <efg:name>Zlatanov, Nikolap</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_eb23babcbc4b255882501c59b7c322a8</efg:identifier>
+				           <efg:name>Donov, Veselin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_9087f201995679e1c5c638eb29a8e673</efg:identifier>
+				           <efg:name>Terziev, Tzvetan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_6157edf0a6d8752ac9b7b684a72d322d</efg:identifier>
+				           <efg:name>Bidzheranov, Sami</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_c23cb973d1796b2679fe7b454de99fb4</efg:identifier>
+				           <efg:name>Strumski, Doncho</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_150e2139c8d8d6bc405736196d9b8e88</efg:identifier>
+				           <efg:name>Popov, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_a455914fa7e28e922331bc73b78e5f55</efg:identifier>
+				           <efg:name>Durov, Georgi</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ac4bc8bb8bfab8bc19b9dc20d9fb45f8</efg:identifier>
+				           <efg:name>Lazarov, Baruh</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f05d07b7f7f8f48146ed9c72f988b393</efg:identifier>
+				           <efg:name>Studia za Hronikalni i Dokumentalni Filmi</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

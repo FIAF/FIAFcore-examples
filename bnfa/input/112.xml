@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002372</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002372</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Отечествен кино преглед 51</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/2Aj_e7S1glM/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">280</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:09:50</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_288498LOqYLHizG009iIVg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=2Aj_e7S1glM</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=2Aj_e7S1glM</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002372</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002372</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Отечествен кино преглед 51</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>National Newsreel 51</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. "Море, слънце и въздух". Варна, градския плаж, хора на пясъка, в морето, на кея. Хора се спускат по пързалка във водата. Хора в лодка, на водно колело. Деца скачат във водата. Момиченце и момченце носят пясък в кофички. Деца правят замък от пясък. Младежи скачат в морето от кулата на кея.  // II. "На гости в родния град". Град Кнежа - площад, мъже носят знамена. Посрещане на генерал Фердинанд Козовски и Георги Михайлов. Населението ги приветства. Митинг - хора ръкопляскат. От балкон на читалище говори Ф. Козовски. Хора слушат. Слово на Г. Михайлов. Хора ръкопляска.  // III. Детско общежитие, село Локорско, Софийско. Сградата на детско общежитие. Деца свалят столчета по стълби. Хранят се на открито. Дете се люлее на люлка. Деца и възпитателка играят.  // IV. Конгрес на студентите София - залата на кино "Заря". Заседание на Първия конгрес на студентите. Говори министърът на просветата Станчо Чолаков. Делегати слушат. Говорят генерал Щерю Атанасов, делегат от Югославия. Делегати ръкопляскат. Професор Тодор Павлов се ръкува с югославските делегати. Слово на Т. Павлов. Присъства Добри Терпешев.  // V. Спортни състезания на Ш.З.О. Димитрово. Стадион, публика. Присъстват генерал Маринов и чужди военни аташета. Възпитаници на ШЗО изпълняват гимнастически военни упражнения. Конна езда. Висши военни ръкопляскат. Състезания по плуване. Публика.  // VI. Линии в строеж Мост, жп линия. Трудоваци прокарват трасе в планината - разбиват скали, пълнят колички с чакъл, изсипват в товарни вагони. Трудоваци довършват жп линия, сградата на жп гара. Нова жп линия, тунел, локомотив. Панорама на дефилето - мост, река , тунел.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. City of Varna - Sea, sun and clean air. The city beach, people on the sand, in the sea, on the pier. People go down the slide into the water. People in а boat, on a water wheel. Children jump into the water. A girl and a boy carry sand in buckets. Children make a sand castle. Young people jump into the sea from the tower on the pier. // II. "Visiting the Hometown" Knezha - square, men carry flags. Welcoming General Ferdinand Kozovski and Georgi Mihailov. The population welcomes them. Rally - people applaud. Ferdinand Kozovski speaks from the balcony of the community center. People listen. Speech by G. Mihailov. People applaud. // III. Children's dormitory Lokorsko village, Sofia region. The building of the children's dormitory. Children take down chairs on stairs. They feed outdoors. A child swings on a swing. Children and educator play.  // IV. Sofia Students' Congress - Zarya Cinema Hall. Meeting of the First Students Congress. The Minister of Education Stancho Cholakov speaks. Delegates listen. General Shteryu Atanasov, a delegate from Yugoslavia, speeks. Delegates applaud. Professor Todor Pavlov shakes hands with the Yugoslav delegates. Speech by T. Pavlov. Dobri Terpeshev is present.  // V. Sports competitions of the school for reserve officers in Dimitrovo. Stadium, audience. General Marinov and foreign military attachés are present. Alumni of the SRO perform gymnastic military exercises. Horseback riding. Senior soldiers applaud. Swimming competitions. The audience. // VI. Railway tracks under construction. Bridge, railway line. Workers run a route in the mountains - break rocks, fill carts with gravel, pour into freight cars. Workers complete the railway line, the railway station building. New railway line, tunnel, locomotive. Panorama of the gorge - bridge, river, tunnel.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>строителство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>construction</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1945</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_fe53082bb1321c85efbfcb9569f57aed</efg:identifier>
+				           <efg:name>Hristov, Stoyan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_35afc43b458cd311c720efef015939f9</efg:identifier>
+				           <efg:name>Bakardzhiev, Vasil</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002548</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002548</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кино преглед 211</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/kwojslZSX8o/hqdefault.jpg</efg:thumbnail>
+				           <efg:language usage="Intertitles">bg</efg:language>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">326</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:11:25</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_jaGxIByINt2I2v-N-h2TvQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=kwojslZSX8o</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=kwojslZSX8o</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002548</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002548</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кино преглед 211</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 211</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СССР. Опитно поле "Ленин" край Москва. Опити с клонеста пшеница. Полевъдът Денис Лисенко, академик Донат Долгушян, академик Авакян. Коломенският жп завод "Куйбишев". Всесъюзният Ден на железничарите. Шлосерът Григорий Дергачев, майсторът Фьодор Безруков. II. ЧССР. Андрей Вишински на посещение в Прага. Сред посрещачите е Владимир Клементис. III. Танцов ансамбъл от ЧССР гостува у нас. Концерт на състава в театър "Балкан", София. IV. Честване 25 години от смъртта на Христо Смирненски. Полагане основен камък на паметника на поета. Присъства майката на поета. Говори Вълко Червенков. V. Изложба "25 години Септември 1923". Картини с тематика от въстанието. Присъства Владимир Димитров-Майстора. VI. Подписване българо-финландски договор за търговска дейност. От финландска страна подписва Паулмрет, от българска - директорът на външната търговия. VII. БНБ. Плащане с чекове в магазини. VIII. Фабрика "България". Събрание. Производство. Полагане основния камък на жилищни блокове, тържество, строители - трудоваци. IX. Строеж на подпорна стена по жп линията Ловеч - Троян. Бригадири зидат. X. Щафетно бягане. София. Спортистите около Народното събрание. Победител - отборът на "Славия".</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. USSR. Experimental field "Lenin" near Moscow. Experiments with bran wheat. Field farmer Denis Lysenko, acad. Donat Dolgushyan, acad. Avakyan. The Kolomna railway factory "Kuybishev". Railwaymen Day.  // II. ČSSR. Andrey Vishinski visits Prague. Among the greeters is Vladimir Clementis.  // III. A dance ensemble from Czechoslovakia visits Bulgaria. Concert of the ensemble at the Balkan Theater, Sofia. IV. 25 years since the death of Hristo Smirnenski. Laying the foundation stone of the monument to the poet. The poet's mother is present. Valko Chervenkov speaks.  // V. "25 years September 1923" exhibition. Paintings with themes from the September Uprising. Vladimir Dimitrov-Maistora is present. VI. Signing a Bulgarian-Finnish contract for commercial activity.  // VII. Bulgarian National Bank. Payment by check in stores.  // VIII. "Bulgaria" factory. Assembly. Production. Laying the foundation stone of apartment blocks, celebration, builders - workers.  // IX. Construction of a retaining wall on the railway line Lovech - Troyan. Foremen build.  // X. Relay race. Sofia. Athletes around the National Assembly. Winner - the team of "Slavia".</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>изкуство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>art</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1948</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_d40a5f158227fecab3ddf95003283378</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_f570604355fa5f6b0fe432be70445589</efg:identifier>
+				           <efg:name>Petrov, Stefa, Boyadzhiev</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_55b7c0a98513be4c798b1d6b19038881</efg:identifier>
+				           <efg:name>Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_98f11ea379e91684091cc17f000acf49</efg:identifier>
+				           <efg:name>Mladenov</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_28f1b7cbdddf3676d8186c1ae3665f1d</efg:identifier>
+				           <efg:name>Penev, Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_f1776b6afb44cdb788507a194da322b5</efg:identifier>
+				           <efg:name>Bulgarska Kinematografia</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_af2e1eef8cfa1798fb13d6ecece3a910</efg:identifier>
+				           <efg:title>Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

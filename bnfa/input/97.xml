@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010007281</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010007281</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Откриване на ВНС във Велико Търново</efg:text>
+				             <efg:relation>Archive title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/MJGlnAw1LZA/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="false">Without sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">146</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:05:07</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_rhkbbYrrpwYbOqXY9+ooaQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=MJGlnAw1LZA</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=MJGlnAw1LZA</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010007281</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010007281</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Откриване на ВНС във Велико Търново</efg:text>
+				           <efg:relation>Archive title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Opening of the Great National Assembly in Veliko Tarnovo</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">Улица във Велико Търново, шпалир, преминава кавалерия, царската каляска - цар Фердинанд и царица Елеонора, принц Кирил. Слизат от каляската и влизат в сградата на Великото Народно събрание. Излизат. Царят разговаря с военни. Депутати, хора по улиците на Търново. Министър-председателя Александър Малинов, турски военен, чуждестранни военни, висши духовници влизат в сграда. Военен парад, преминаване на войскови части.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">A street in Veliko Tarnovo, a trellis, a cavalry passes, the royal chariot - King Ferdinand and Queen Eleanora, Prince Cyril. They get out of the carriage and enter the building of the Grand National Assembly. They exit the building. The king talks to the military. Deputies, people on the streets of Tarnovo. Prime Minister Alexander Malinov, Turkish military, foreign military, senior clerics enter a building. Military parade, crossing of military units.</efg:description>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1911</efg:productionYear>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010000679</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010000679</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Прегледъ 165</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/2KuSOYlWQJM/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">296</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:20</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_WNRU4USX0zwgjRlamA1ORg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=2KuSOYlWQJM</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=2KuSOYlWQJM</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010000679</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010000679</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Прегледъ 165</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 165</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Град Пловдив - изгледи. Централният площад, градската градина "Цар Симеон", Общинският дом, обществени сгради, Хълмът на освободителите, черквата "Света Богородица", девическата гимназия, стария град, къщата на френския поет Ламартин, градският музей, река Марица. /от кинопреглед N 147/1944 г./  // II. Производство на керемиди в една фабрика. Рязане на глината, сушене на керемидите, изпичане в пещ. Прибиране готовите керемиди в склад. /от кинопреглед N 138/1944 г./  // III. Лозарство. Оран с рало, окопаване на лозите, връзване, пръскане с ръчни машини. /от кинопреглед N 138/1944 г./  // IV. Средногорието - производство на бъчви. Рязане на трупи, варене на дъските, огъване, сглобяване. Готови бъчви.  // V. Свиневъдна станция в град Кнежа. Свине-майки и малки прасенца, хранене. /от кинопреглед N 138/1944 г./  // VI. Войници и доброволци заминават на фронта. Хора им подават цветя. /от кинопреглед N 3/1944 г./</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. City of Plovdiv - views. The central square, the city garden "Tsar Simeon", the Municipal House, public buildings, the Hill of the Liberators, the church "Holy Mother of God", the girls' high school, the old town, the house of the French poet Lamartine, the city museum, the Maritsa River.  // II. Production of roof tiles in a factory. Cutting clay, drying tiles, baking in an oven. Putting the finished tiles in stock.  // III. Viticulture. Plowing, hoeing, tying, spraying with hand machines.  // IV. "Sredna gora" Mountain - production of barrels. Log cutting, board cooking, bending, assembly. Ready barrels.  // V. Pig breeding station in the town of Knezha. Sows and piglets, feeding. // VI. Soldiers and volunteers leave for the frontline. People give them flowers.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1944</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

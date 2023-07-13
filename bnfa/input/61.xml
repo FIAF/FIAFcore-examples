@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002504</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002504</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кино преглед 169</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/AQY7Ujn-Wic/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">293</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:10:13</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_e5C+M3pC+vd5WvYqjRKMQQ</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=AQY7Ujn-Wic</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=AQY7Ujn-Wic</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002504</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002504</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кино преглед 169</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 169</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СССР. Пустиня в Тюркмения - насаждения. Опитна станция на Всесъюзния научно-изследователски институт на сухите субтропици. Ст.н. сътрудник Грабовски говори. Африканска финикова палма. Жени берат маслини, нарови ябълки. Научни работници разглеждат нарова ябълка. // II. Гр. Ташкент - хора водят деца в детска градина. Учителски с деца на разходка. Деца ядат плодове, играят с играчки. Момиченца танцуват народен танц. // III. Югославия. Присъединяване на Словенското крайбрежие. Митинг - говори министър Борис Кидрич. Хора ръкопляскат. Манифестация - хора с плакати, миньори, бригадири, ученици, македонци.  // IV. Полша. Делегации от Краков и планинските области при министър-председателя на страната Болеслав Биерут в замъка "Белведере". Поднасят му сувенири, дървена ракла. Народни танци, свири народен оркестър. // V. Честване празника на студентите в София. Площад - студенти играят хоро. Студенти държат плакати. От балкона на бившия Дворец министър - председателят Георги Димитров приветства студенти. Шествието минава край сградата на БНБ и статуята на Републиката. Студенти полагат венци пред паметника на Васил Левски и пред паметника на Братската могила в Парка на свободата.  // VI. София. Откриване изложба на пощенската марка от министър Стоян Тончев. Говори Константин Трендафилов, председател на Съюза на марколюбителите. Ценни български марки. Хора разглеждат.  // VII. София. Работен ден на телефонистки от столичната централа. Нови инсталации в Телефонната палата. Телефонистки работят с новата апаратура. // VIII. Зимен ден, къщи, дървета. Фабрика "България". Работнички край станове. Ударничката Лазарина Петкова. Работничики, машини.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. USSR. Desert in Turkmenistan - plantations. Experimental station of the All-Union Research Institute of the Dry Subtropics. Assoc. Grabowski speaks. African date palm. Women pick olives, pomegranates and apples. Scientists examine a pomegranate. // II. City of Tashkent - people take children to kindergarten. Teacher with children on a walk. Children eat fruit, play with toys. Girls perform a folk dance. // III. Yugoslavia. Joining the Slovenian coast. Rally - Minister Boris Kidrich is talking. People applaud. Manifestation - people with posters, miners, foremen, students, Macedonians. // IV. Poland. Delegations from Krakow and the mountainous regions to the Prime Minister Boleslaw Bierut at the Belvedere Castle. They serve him souvenirs, a wooden chest. Folk dances, a folk orchestra is playing. // V. Celebration of the students' holiday in Sofia. Square - students dance. Students hold posters. From the balcony of the former Palace, the Prime Minister Georgi Dimitrov welcomed students. The procession passes by the Bulgarian National Bank building and the statue of the Republic. Students lay wreaths in front of the monument of Vasil Levski and in front of the Mound of Brotherhood (Bratska mogila) in Freedom Park. // VI. Sofia. Opening of an exhibition of postage stamps by Minister Stoyan Tonchev. Konstantin Trendafilov, chairman of the Union of Marine Lovers, speaks. Valuable Bulgarian stamps. People are looking. // VII. Sofia. Work day of telephone operators from the capital's headquarters. New installations in the Telephone Chamber. Telephone operators work with the new equipment. // VIII. Winter day, houses, trees. Factory "Bulgaria". Workers near the looms. The drummer Lazarina Petkova. Workers, machines.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>образование</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>политика</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>education</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>politics</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1947</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_915810c42ad9a993b4c92f2e81599eb0</efg:identifier>
+				           <efg:name>Kisiov, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_21a533db5b6a5dc3ba77fb2c0b3c107b</efg:identifier>
+				           <efg:name>Karadimov, Simeon</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4750805793daecff48207dfa14f0e152</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

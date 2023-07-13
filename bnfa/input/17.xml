@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:person>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_e2a5a370ecff21ac239e9c442f93e77f</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>e2a5a370ecff21ac239e9c442f93e77f</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:name type="PN">Maria</efg:name>
+				         <efg:name type="PN">Toromanova-Hmelik</efg:name>
+				         <efg:typeOfActivity>Actor</efg:typeOfActivity>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_MFN6</efg:identifier>
+				 <efg:title>ЛЮБОВТА Е ЛУДОСТ</efg:title>
+				  <efg:type>actor</efg:type>
+				 </efg:relAvCreation></efg:person>
+				     </efg:efgEntity>

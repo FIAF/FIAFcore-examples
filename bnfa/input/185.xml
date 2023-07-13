@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:person>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ccfa772a4644bd0fcd31d2895cb056d1</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>ccfa772a4644bd0fcd31d2895cb056d1</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:name type="PN">Ivan</efg:name>
+				         <efg:name type="PN">Dosev</efg:name>
+				         <efg:typeOfActivity>Director</efg:typeOfActivity>
+				       <efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003901</efg:identifier>
+				 <efg:title>Кинопреглед 28</efg:title>
+				  <efg:type>Has directed</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003046</efg:identifier>
+				 <efg:title>Кинохроника 23</efg:title>
+				  <efg:type>Has directed</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003334</efg:identifier>
+				 <efg:title>Кинопреглед 36</efg:title>
+				  <efg:type>Has directed</efg:type>
+				 </efg:relAvCreation><efg:relAvCreation generated="true">
+				  <efg:identifier>BNFA_avCreation_BNF010003336</efg:identifier>
+				 <efg:title>Кино преглед No 38</efg:title>
+				  <efg:type>Has directed</efg:type>
+				 </efg:relAvCreation></efg:person>
+				     </efg:efgEntity>

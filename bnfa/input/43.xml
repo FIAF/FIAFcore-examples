@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002386</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002386</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Отечествен кинопреглед 65</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/pWN7rDnifZE/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">345</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:11:38</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_9R2m2ZBsw-bYtaL8GtX6lA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=pWN7rDnifZE</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=pWN7rDnifZE</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002386</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002386</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Отечествен кинопреглед 65</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>National Newsreel 65</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. София. Площадът пред Народното събрание. 15.12.1945 г. Откриване 26-то Народно събрание. Хора на площада. Спират коли. Георги Димитров влиза в сградата. Влизат народни представители от БЗНС, министрите, социалдемократи, начело с министър Димитър Нейков, групата на Работническа Партия /комунисти/, югославският пълномощен министър Ковачевич, министърът на вътрешните работи Антон Югов, съветският пълномощен министър Степан Кирсанов, министърът на външните работи Петко Стайнов, зам.председателят на Съюзната контролна комисия Сергей Бирюзов, министър-председателят Кимон Георгиев, регентите Венелин Ганев, Цвятко Бобошевски и Тодор Павлов, екзарх Стефан. Залата, народните представители, влизат членовете на Министерски съвет и регентите. Венелин Ганев произнася тронното слово. Духов оркестър. Шествие на граждани. В залата заснети Г.Димитров и Васил Коларов. В.Ганев чете /синхрон/. Регентите напускат залата. Придружени от военния министър поздравяват почетна рота. Екзарх Стефан благославя откриването на заседанието. Йордан Пекарев, най-възрастният депутат заема председателското място. Избор на постоянно бюро на камарата. Депутати гласуват. В.Коларов произнася първата си реч след избора му за председател на Народното събрание /синхрон/. Народните представители полагат клетва. Подписват клетвен лист. Г.Димитров подписва. Присъстват: Александър Оббов, Цола Драгойчева, Дамян Велчев, Добри Терпешев, Фердинанд Козовски, Иван Кинов, Тодор Тошев, Благой Иванов, Трендафилов. Манифестация на столичното гражданство пред Народното събрание. Г.Димитров приветства шествието. Хора носят знамената на САЩ, Великобритания, България, СССР, БЗНС, РП /к/.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Sofia. The square in front of the National Assembly. December 15, 1945 Opening of the 26th National Assembly. People in the square. Cars stop. Georgi Dimitrov enters the building. Members of the Bulgarian Agrarian Union, ministers, Social Democrats, headed by Minister Dimitar Neykov, the group of the Workers Party /communists/, the Yugoslav Plenipotentiary Minister  // Kovacevic, Interior Minister Anton Yugov, Soviet Plenipotentiary Minister Stepan Kirsanov, // the Minister of Foreign Affairs Petko Staynov, the Deputy Chairman of the Union Control Commission Sergey Biryuzov, the Prime Minister Kimon Georgiev, the Regents Venelin Ganev, Tsvyatko Boboshevski and Todor Pavlov, Exarch Stephen. The hall, the MPs, the members of the Council of Ministers and the regents enter. Venelin Ganev pronounces the opening speach. Brass band. Procession of citizens. G. Dimitrov and Vasil Kolarov. V. Ganev reads / synchronously /. The regents leave the hall. Accompanied by the Minister of Defense congratulations honorary company. Exarch Stefan blesses the opening of the meeting. Yordan Pekarev, the oldest MP takes the chair. Choosing a permanent bureau of the chamber. MP's vote. V. Kolarov delivered his first speech after his election as Speaker of the National Assembly / synchronous /. The people's representatives take the oath. They sign an oath. G. Dimitrov signs. Present: Alexander Obbov, Tsola Dragoycheva, Damyan Velchev, Dobri Terpeshev, Ferdinand Kozovski, Ivan Kinov, Todor Toshev, Blagoy Ivanov, Trendafilov. Manifestation of the citizenship of the capital in front of the National Assembly. G. Dimitrov welcomed the procession. People wear the flags of the USA, Great Britain, Bulgaria, the USSR, the Bulgarian Agrarian Union, the Workers Party.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1945</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_3881c8e32253fa0bf1a7b7fe3aba4064</efg:identifier>
+				           <efg:name>Holiolchev, Vasil</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_35afc43b458cd311c720efef015939f9</efg:identifier>
+				           <efg:name>Bakardzhiev, Vasil</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_13d21b33dfe451a56959ca0ff73024d0</efg:identifier>
+				           <efg:name>Hristov, Stoyan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_70fc3a25c0705b86e1d43cd956edf482</efg:identifier>
+				           <efg:name>Petrov, Stefan</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

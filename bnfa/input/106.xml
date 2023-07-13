@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010000607</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010000607</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Прегледъ 93</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/wQTSiIvX_WQ/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">253</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:08:54</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_G1j4JkWQteavaDPlGGXoNA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=wQTSiIvX_WQ</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=wQTSiIvX_WQ</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010000607</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010000607</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Прегледъ 93</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 93</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Будапеща. Салон - унгаро-българско тържество. Присъстват българският пълномощен министър, членове на българската колония, унгарски представители. Унгарският министър на печата Ревицки открива тържеството. Публика ръкопляска.  // II. Панорама на село Козичино, Поморийско. Вятърна мелница. Народният обичай Лазаруване. Възрастна жена украсява диадемата на водачката на лазарките. Лазарки влизат в двор на селска къща. Играят лазарско хоро. Лазарки и възрастна жена си разменят дарове. Край селото - лазарки хвърлят върбови клонки във водите на река. Хоро. Младежи се присъединяват към хорото на лазарките. // III. София. Жп гарата - пристига влак. Посрещане на унгарският министър на търговията Жиндей от министъра на търговията, промишлеността и труда Никола Захариев, висши чиновници от Министерство на търговията. Прави преглед на почетна рота. Качва се в лек автомобил. Полага венец пред паметните плочи на загиналите за България край казармите на 1-ви и 6-ти пехотен полк. Преглед на почетна рота. Унгарският министър разговаря с министър Н. Захариев в кабинета му. // IV. София. Тържество по повод Първи май - празника на труда пред храм паметник "Ал. Невски". Аналой - екзарх Стефан отслужва молебен. Присъстват министрите, министър - председателят Богдан Филов, работници със знамена. Слово на министъра на търговията, промишлеността и труда Никола Захариев. Говори работник. Работническо шествие край Народното събрание, по бул. "Цар Освободител". Б. Филов, Н. Захариев, министрите на стълбите пред Народното събрание. Граждани наблюдават. Минават работнички в народни носии. Минава работнически духов оркестър. Богдан Филов поздравява минаващите. Сградата на фабриката за шоколадови и захарни изделия "Щастие". В двора - тържество, министърът на вътрешните работи Петър Габровски говори пред работници. Работници приветстват. Работници носят министър Габровски на ръце до колата му. Обща трапеза, работници играят хоро, оркестър свири. Спортно състезание на поляна. Празненство в лятната къпалня "Мария-Луиза". Танцовата група "Труд и радост" играе хоро. Министрите Добри Божилов и Н. Захариев на хорото сред работници.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. Budapest. A Hungarian-Bulgarian celebration.  // II. Panorama of the village of Kozichino, near Pomorie. Demonstration of the folk custom "lazaruvane".  // III. Sofia railway station. Trade minister Nikola Zahariev welcomes the Hungarian trade minister. Inspecting troops. Placing a wreath at a monument. The two men talk in N. Zahariev's office. // IV. Sofia. Celebration of May Day in front of Alexander Nevsky cathedral. Prime minister Bogdan Filov is present. Speech by trade minister Nikola Zahariev. The building of the "Happiness"chocolate factory.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>фолклор</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>folklore</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1943</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

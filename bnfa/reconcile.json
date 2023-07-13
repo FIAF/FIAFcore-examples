@@ -4,6 +4,9 @@
     },
     "form": {
         "http://example.org/EFG/form/Documentaryfilm": "https://fiafcore.org/ontology/Form",
-        "http://example.org/EFG/form/Advertisingfilm": "https://fiafcore.org/ontology/Form"
+        "http://example.org/EFG/form/Advertisingfilm": "https://fiafcore.org/ontology/Form",
+        "http://example.org/EFG/form/Newsreel": "https://fiafcore.org/ontology/Form",
+        "http://example.org/EFG/form/Shortfilm": "https://fiafcore.org/ontology/Short",
+        "http://example.org/EFG/form/Fragment": "https://fiafcore.org/ontology/Form"
     }
 }

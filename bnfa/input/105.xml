@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010000676</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010000676</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Преглед 161</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/bMfu1gCvk7o/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">263</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:09:13</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_+lw1qVoQFENr661qQX7sQw</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=bMfu1gCvk7o</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=bMfu1gCvk7o</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010000676</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010000676</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Преглед 161</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 161</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. Град Фердинанд - панорама. Улици, обществени сгради, черква, банка, парк, езеро /от кинопреглед N 140/1944 г./  // II. Средногорието - гора, сечене на дървета, оформяне на траверси с брадва, извозване с каруци. Складирани траверси на открито/от кинопреглед N 140/1944 г./  // III. Автобус пристига в Сливенските минерални бани. В сградата влизат хора. Почивният дом на свещениците. Дом на работниците. Почиващи в парк. /от кинопреглед N 141/1944 г./  // IV. София. 17.09.1944 г. - първото събрание на Отечествения фронт. Хора пред Съдебната палата. Кимон Георгиев чете програмата на новото правителство в Съдебната палата. Хора пред сградата слушат. Министърът на пропагандата Димо Казасов говори. Слово на генерал Владимир Стойчев. К.Георгиев, Д.Казасов, Вл.Стойчев, Антон Югов - носени на ръце от народа. Генерал Стойчев се ръкува със сръбски военен. /от кинопреглед N 3/1944 г./</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. The city of Ferdinand (present day Montana) - view. Streets, public buildings, church, bank, park, lake.  // II. Srednogorie - forest.  // III. A bus arrives at the mineral baths in Sliven. People enter the building. Rest home of the priests. Home of the workers. Vacationers in a park.  // IV. Sofia. 17.09.1944 - first meeting of Otechestven Front (antifascist union). People in front of the courthouse. Kimon Georgiev reads the program of the new government. People in front of the building listen. Minister of Propaganda Dimo Kazasov speaks. Speach by Gen. Vladimir Stoychev. Kimon Georgiev, Dimo Kazasov, Vladimir Stoychev, and Anton Yugov carried by the people. Gen. Stoychev shakes hand with a Serbian soldier.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>селско стопанство</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>здравеопазване</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>agriculture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>healthcare</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1944</efg:productionYear>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

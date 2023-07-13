@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_MFN2747</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>MFN2747</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>О, ДОБРУДЖАНСКИ КРАЙ</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://www.dropbox.com/s/3329ypn5brn2ii0/BNFA_MFN2747.jpg?raw=1</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:08:36</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_z91ZjIrEqsNfqkF95pwCWg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>EFG vimeo account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownBy>https://vimeo.com/467843185</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_MFN2747</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>MFN2747</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>О, ДОБРУДЖАНСКИ КРАЙ</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>THE REGION OF DOBRUDZHA</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">Кавалерийски части преминават през добруджанско село, хора с цветя, поздравяват войниците, даряват ги, ученически строй, арка покрита с цветя,портрети на цар Борис III, Симеон и Мария-Луиза.; моторизирани части. Войници сред хората. Военни кораби в морето, оръдие, матроси с пушки, крайбрежна ивица, ПНР на Балчик. Хора с лодки пресрещат корабите; военен оркестър, моряци с цветя; спусканена котва; контраадмирал Асен Тошев слиза на брега, ръкува се с посрещачите. Влизанена кавалерийски части в града, хора по улиците хвърлят цветя към войниците,поздравяват генерал Георги Попов – губернатор на Добруджа. Кметството на Балчик. Генералът държи реч. Военен оркестър. Бойно знаме.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">Cavalry units pass through Dobrudzha village, people carrying flowers greet the soldiers. Portraits of Tsar Boris III, Simeon, and Maria-Louisa. Soldiers among people. Battleships at sea, cannon, sailors with rifles, coastline, view of Balchik. People in boats intercept the ships; military band, sailors with flowers; lowering of anchor; Rear admiral Asen Toshev steps on the shore, shakes hands with the people gathered on the shore. Cavalry units enter the city, people in the streets throw flowers at the soldiers, they greet Gen. Georgi Popov - Governer of Dobrudzha. Town hall of Balchik. The General speaks. Miilitary band. Battle flag.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>България, войници</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>армия</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>Добруджа</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>Балчик</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Place">
+				           <efg:term>Bulgaria</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Place">
+				           <efg:term>Dobrudzha</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Place">
+				           <efg:term>Balchik</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>soldiers</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>army</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>navy</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Documentary film</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1940</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_8d4920f9acc3673afed6c2fa34495a90</efg:identifier>
+				           <efg:name>Bakardzhiev, Vasil</efg:name>
+				           <efg:type>Director</efg:type>
+				         </efg:relPerson>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_331b3c2fd0aee7d5eaa099234f827848</efg:identifier>
+				           <efg:title>Pre-Socialist Cinema</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

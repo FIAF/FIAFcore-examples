@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002412</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002412</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Преглед 91</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/my9sXTB-PRk/sddefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">246</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:08:38</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_XpLodbvuWJfBnfRxbPeUwA</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=my9sXTB-PRk</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=my9sXTB-PRk</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002412</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002412</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Преглед 91</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Newsreel 91</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СЛАВА НА ГЕОРГИ ДИМИТРОВ 64 години от рождението на Георги Димитров: посрещане в България, гласува на избори, произнася реч в Народното събрание, в разговор със Степан Кирсанов, на трибуна заедно с Васил Коларов, хора минават пред трибуната. // II. УДАРНИЦИ ЛЕТОВНИЦИ Вили в курорта Боровец. Летовници. Хора спортуват. Текстилните работници Маруся Тодорова, Янко Николов, Сава Димитров, ударници от Сливен, играят домино. Хора слушат беседа на поляна.  // III. МАЧ БУКУРЕЩ - СОФИЯ 23 юни 1946 г. София - стадион, публика. Футболен мач между националните отбори на Румъния и България. Играта. Публиката. Резултат 2:0 за румънския отбор.  // IV. СЪБОР НА Н.С. ЗВЕНО Хасково. Панорама на града. 16 юни 1946 г. Събор на Народен съюз "Звено", организиран от Областния комитет на съюза. Пристигат: министър-председателят Кимон Георгиев, министърът на външните работи Георги Кулишев, политическият секретар на съюза Петър Попзлатев, Минчо Нейчев, представител на Работническата партия /комунисти/. Хора по улица ги приветстват. Площад - К. Георгиев говори пред участници в събора. Говорят Г. Кулишев, М. Нейчев.  // V. ПРОИЗВОДСТВО НА БИРА Фабриката за бира на братя Прошек в София - о.п. Производствен процес. Машина за смилане ечемика на ерма. Пълнене казан с ерма и вода. Сварена бира. Служител опитва от готовото питие. Изстудяване на бира в компресор. Дезинфекциране и почистване на дървени бурета и стъклени бутилки. Пълнене на бутилки с бира. Работник затваря капачките. Работници пълнят сандъци с бутилки. Пълнене на бурета с бира. Плакат с надпис: "Пивото е най-здравословното и хранително питие. 1 литър пиво по хранителност се равнява на 7 яйца или 650 г риба, 450 г месо, 770 г мляко, 940 г ябълки, 3850 г бульон". Човек пие бира от халба. // VI. В СЛУЖБА НА ЖИВОТА София - сградата на училището за сестри и акушерки при Майчин дом. Теоретически и практически занимания - зала, лекция, акушерка повива бебе. Майка с бебето си. Акушерки се грижат за бебета. Акушерка подава бебе на майка.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. GLORY TO GEORGI DIMITROV: 64 years since the birth of Georgi Dimitrov: welcoming in Bulgaria, voting in elections, delivers a speech in the National Assembly, in conversation with Stepan Kirsanov, on the tribune together with Vasil Kolarov, people pass in front of the tribune. // II. WORKERS ON HOLIDAY: Villas in the resort Borovets. Holidaymakers. People play sports. The textile workers Marusya Todorova, Yanko Nikolov, Sava Dimitrov, workers from from Sliven, play dominoes. People listen to a talk on the lawn. // III. FOOTBALL GAME BUCHAREST - SOFIA: June 23, 1946 // Sofia - stadium, audience. Football match between the national teams of Romania and Bulgaria. The game. The audience. Score 2: 0 for the Romanian team. // IV. GATHERING OF NАТIONAL ALIANCE "ZVENO", UNIT HASKOVO: Panorama of the city. // June 16, 1946 Assembly of the right-wing nationalist National Aliance "Zveno", organized by the Regional Committee of the Union. Arrive: the Prime Minister Kimon Georgiev, the Minister of Foreign Affairs Georgi Kulishev, the Political Secretary of the Union Petar Popzlatev, Mincho Neychev, representative of the Workers Party / Communists /. People on the street welcome them.  // Square - K. Georgiev spoke to participants in the fair. G. Kulishev, M. Neychev speak. // V. BEER PRODUCTION: The Prosek Brothers Beer Factory in Sofia. Manufacturing process. // Barley grinding machine. Filling the pot with ground barley and water. Brewed beer. An employee tries from the finished drink. Cooling beer in a compressor. Disinfection and cleaning of wooden barrels and glass bottles. Filling beer bottles. A worker closes the caps. Workers fill crates with bottles. Filling barrels with beer. Poster with the inscription: "Beer is the healthiest and most nutritious drink. 1 liter of beer for nutrition is equals 7 eggs or 650 g of fish, 450 g of meat, 770 g of milk, 940 g of apples, 3850 g of broth. "A person drinks beer from mug. // VI. IN THE SERVICE OF LIFE: Sofia - the building of the school for nurses and midwives at hospital "Maychin Dom". Theoretical and practical activities - hall, lecture, midwife swaddles a baby. Mother with her baby. Midwives take care of babies. A midwife gives a baby to a mother.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>спорт</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>образование</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sport</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>education</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1946</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_ec7aa6d7dd3f1c119264b1668fc6a864</efg:identifier>
+				           <efg:name>Chobanov, Asen</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_8b32b292c34e2629c4a398997a044658</efg:identifier>
+				           <efg:name>Stoyanov, Vladimir</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_20b096df4eda667a5258d8f78e5a4fec</efg:identifier>
+				           <efg:name>Valchev, Aleksandar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4750805793daecff48207dfa14f0e152</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>

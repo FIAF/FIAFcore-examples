@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><efg:efgEntity xmlns:efg="http://www.europeanfilmgateway.eu/efg" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				       <efg:avcreation>
+				         <efg:avManifestation>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avManifestation_BNF010002479</efg:identifier>
+				           <efg:recordSource>
+				             <efg:sourceID>BNF010002479</efg:sourceID>
+				             <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				           </efg:recordSource>
+				           <efg:title lang="bg">
+				             <efg:geographicScope/>
+				             <efg:text>Седмичен кино преглед 151</efg:text>
+				             <efg:relation>Original title</efg:relation>
+				           </efg:title>
+				           <efg:thumbnail>https://i.ytimg.com/vi/8p4OWxsJTPI/hqdefault.jpg</efg:thumbnail>
+				           <efg:format>
+				             <efg:gauge>35 mm</efg:gauge>
+				             <efg:aspectRatio>4:3</efg:aspectRatio>
+				             <efg:colour hasColor="false">Black &amp; White</efg:colour>
+				             <efg:sound hasSound="true">With sound</efg:sound>
+				           </efg:format>
+				           <efg:dimension unit="m">363</efg:dimension>
+				           <efg:rightsHolder URL="http://www.bnf.bg">Bulgarian National Film Archive</efg:rightsHolder>
+				           <efg:rightsStatus>In Copyright - Educational Use Permitted</efg:rightsStatus>
+				           <efg:duration>00:12:44</efg:duration>
+				           <efg:item>
+				             <efg:identifier scheme="CP_CATEGORY_ID">BNFA_item_9M8YX1tehH3dH5UBMTGJxg</efg:identifier>
+				             <efg:provider>Bulgarian National Film Archive</efg:provider>
+				             <efg:type>Video</efg:type>
+				             <efg:aggregator>BNFA Youtube Account</efg:aggregator>
+				             <efg:fileFormat>video/mpg4</efg:fileFormat>
+				             <efg:isShownAt>https://www.youtube.com/watch?v=8p4OWxsJTPI</efg:isShownAt>
+				             <efg:isShownBy>https://www.youtube.com/watch?v=8p4OWxsJTPI</efg:isShownBy>
+				           </efg:item>
+				         </efg:avManifestation>
+				         <efg:identifier scheme="CP_CATEGORY_ID">BNFA_avCreation_BNF010002479</efg:identifier>
+				         <efg:recordSource>
+				           <efg:sourceID>BNF010002479</efg:sourceID>
+				           <efg:provider id="BNFA" schemeID="Institution acronym">Bulgarian National Film Archive</efg:provider>
+				         </efg:recordSource>
+				         <efg:countryOfReference>BG</efg:countryOfReference>
+				         <efg:title lang="bg">
+				           <efg:geographicScope/>
+				           <efg:text>Седмичен кино преглед 151</efg:text>
+				           <efg:relation>Original title</efg:relation>
+				         </efg:title>
+				         <efg:title lang="EN">
+				           <efg:geographicScope/>
+				           <efg:text>Weekly Newsreel 151</efg:text>
+				           <efg:relation>Translated title</efg:relation>
+				         </efg:title>
+				         <efg:description lang="bg" type="Synopsis">I. СССР. Узбекистан - в един комбинат за коприна - производство. Рационализаторът Мурад Мухинов. Запорожсталският комбинат - производство. Бригадирът Иван Румянцев.  // II. Чехословакия. Стадионът в Прага - откриване фестивала на СДМ. Дефилират делегациите от страните-участнички. Българската делегация.  // III. Жп гара София. Посрещане югославски писатели и културни дейци Милица Жилкач, Анте Павелич, художниците Никола Мартиновски, Никола Хомери, музиканта Никодим Логар.  // IV. Като гости на ОРПС в София пристигат индийският синдикален деец Шрипат Данге и китайският синдикален деец Лу Нинги. Посрещането им.  // V. Председателят на полско-българското дружество в София, Преслав Кършовски открива изложба на полската книга. Говорят полският пълномощен министър у нас Едмунд Залевски и министърът на информацията Димо Казасов. На тържеството присъстват Тодор Павлов, Владимир Топенчаров. Официални лица разглеждат изложбата.  // VI. Пловдив - жп гарата. Посрещане на новоизбрания сливенски митрополит Никодим от граждани и пловдивския митрополит. Сливен. Тържествено шествие, начело с митрополит Никодим и директора на вероизповеданието Димитър Илиев. Приветствие от официалните власти. Присъства митрополит Кирил.  // VII. Село Страхилово, Свищовско. Предаване на зърнени храни. Вършитба. Приготвяне на зимния фураж. Балиране на слама от трудоваци. Керван от каруци с жито.  // VIII. У нас. Посрещане на бригадири от Румъния, Англия, ЧССР, Полша. На софийската гара говорят Пенчо Кубадински и полския пълномощен министър Едмунд Залевски. Бригадири от турските малцинствени групи.  // IX. Димитровград - строежи. Бригадири на ТЕЦ "Надежда" - подреждане и прибиране на материалите за централата.  // X. Плувни състезания в Лятната къпалня, София. Състезания по плуване и гребане в град Варна.</efg:description>
+				         <efg:description lang="EN" type="Synopsis">I. USSR. Uzbekistan - inside a silk factory - production. The innovator Murad Mukhinov. Zaporozhye plant - production. Brigadier Ivan Rumyantsev. // II. Czechoslovakia. The stadium in Prague - opening of the WYD festival. Delegations from the participating countries parade. The Bulgarian delegation. // III. Sofia Railway Station. Welcoming Yugoslav writers and cultural figures Milica Zhilkac, Ante Pavelic, artists Nikola Martinovski, Nikola Homeri, musician Nikodim Logar. // IV. Indian trade unionist Shripat Dange and Chinese trade unionist Lu Ningi are arriving in Sofia as guests of the Common Workers' Trade Union. Welcoming оf the guests. // V. The President of the Polish-Bulgarian Society in Sofia, Preslav Karszowski, opens an exhibition of Polish books. The Polish Minister Plenipotentiary in Bulgaria, Edmund Zalewski, and the Minister of Information, Dimo ​​Kazasov, are speaking. Todor Pavlov and Vladimir Topencharov are present at the celebration. Officials view the exhibition. // VI. Plovdiv - the railway station. Welcoming of the newly elected Metropolitan bishop of Sliven Nikodim by citizens and the Metropolitan of Plovdiv. Sliven. Solemn procession, led by Metropolitan bishop Nicodemus and the director of the directorate of religion Dimitar Iliev. Greetings from the authorities. Metropolitan bishop Cyril is present. // VII. Village of Strahilovo, Svishtov region. Transmission of cereals. Threshing. Preparation of winter fodder. Bale straw from workers. Caravan of wheat carts. // VIII. We have. Welcoming foremen from Romania, England, Czechoslovakia, Poland. Pencho Kubadinski and Polish Minister Plenipotentiary Edmund Zalewski speak at the Sofia train station. Brigadiers from Turkish minority groups. // IX. Dimitrovgrad - constructions. Foremen of Thermal powe plant "Nadezhda" - arranging and collecting materials for the plant. // X. Swimming competitions in the Summer Baths, Sofia. Swimming and rowing competitions in Varna.</efg:description>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>промишленост</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="bg" type="Subject">
+				           <efg:term>общественополитически събития</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>manufacture</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Subject">
+				           <efg:term>sociopolitical events</efg:term>
+				         </efg:keywords>
+				         <efg:keywords lang="EN" type="Form">
+				           <efg:term>Newsreel</efg:term>
+				         </efg:keywords>
+				         <efg:productionYear>1947</efg:productionYear>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_208fbf83906476cc440ecdbcce3755ad</efg:identifier>
+				           <efg:name>Boyadzhiev, Dimitar</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_4750805793daecff48207dfa14f0e152</efg:identifier>
+				           <efg:name>Shahov, Yanko</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_21a533db5b6a5dc3ba77fb2c0b3c107b</efg:identifier>
+				           <efg:name>Karadimov, Simeon</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_92b296f9153a6f3249a8a3dfc09ba1e7</efg:identifier>
+				           <efg:name>Kisiov, Konstantin</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relPerson>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_person_545c4854c22a96b7e90a8f95a4ea386f</efg:identifier>
+				           <efg:name>Hristov, Iliya</efg:name>
+				           <efg:type>Director of photography</efg:type>
+				         </efg:relPerson>
+				         <efg:relCorporate>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_corporate_44ad5ee1beca01c91076e06e55f4da73</efg:identifier>
+				           <efg:name>Bulgarsko Delo</efg:name>
+				           <efg:type>Production company</efg:type>
+				         </efg:relCorporate>
+				         <efg:relCollection>
+				           <efg:identifier scheme="CP_CATEGORY_ID">BNFA_collection_a8edab4f0bf4a1af230d3d865fa4dc59</efg:identifier>
+				           <efg:title>Pre-Socialist Newsreels</efg:title>
+				           <efg:type>is part of</efg:type>
+				         </efg:relCollection>
+				       </efg:avcreation>
+				     </efg:efgEntity>
