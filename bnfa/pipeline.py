@@ -1,9 +1,10 @@
-# replace elements to harmonise to shared vocabularies or entity authorities.
+# pull source input XML and convert to harmonised turtle via RDF/XML.
 
 import json
 import pathlib
 import pydash
 import rdflib
+import subprocess
 
 def check_transform(prop_value, transform_key):
 
@@ -15,15 +16,34 @@ def check_transform(prop_value, transform_key):
         if str(x) not in transform[transform_key].keys():
             raise Exception(str(x), 'transform not possible.')
 
+saxon_path = pathlib.Path.cwd() / 'saxon' / 'saxon-he-12.3.jar'
+if not saxon_path.exists():
+    raise Exception('saxon does not exist.')
+
+transform_path = pathlib.Path.cwd() / 'bnfa'  / '20230601_BNFA-RDF-XML_withoutComments.xsl'
+if not transform_path.exists():
+    raise Exception('transform does not exist.')
+
+source_dir = pathlib.Path.cwd() / 'bnfa' / 'source'
+source_files = [x for x in source_dir.iterdir() if x.suffix == '.xml']
+
+# use saxon to process XML and combine into graph.
+
+graph = rdflib.Graph() 
+output_path = pathlib.Path.cwd() / 'bnfa' / 'bnfa-rdf.xml'
+for source_path in source_files:
+    subprocess.call(['java', '-jar', str(saxon_path), f'-s:{source_path}', f'-xsl:{transform_path}', f'-o:{output_path}'])
+    graph += rdflib.Graph().parse(output_path)
+
+# specifically parse enrichment data.
+
+enrich = pathlib.Path.cwd() / 'bnfa' / 'source' / 'BNFA_Agents_enrichment.xml'
+graph += rdflib.Graph().parse(enrich)
+
 # load transformations.
 
 with open(pathlib.Path.cwd() / 'bnfa' / 'reconcile.json') as transform:
     transform = json.load(transform)
-    
-# load existing graph.
-
-graph_path = pathlib.Path.cwd() / 'bnfa' / 'rdf' / 'bnfa.ttl'
-graph = rdflib.Graph().parse(graph_path)
 
 # check transformations
 
@@ -49,6 +69,5 @@ for s,p,o in graph.triples((None, None, None)):
 
 # save harmonised graph.
 
-output_path = pathlib.Path.cwd() / 'bnfa' / 'output' / 'bnfa.ttl'
-output_path.parents[0].mkdir(exist_ok=True)
+output_path = pathlib.Path.cwd() / 'bnfa' / 'bnfa-processed.ttl'
 new_graph.serialize(destination=str(output_path), format="turtle")
